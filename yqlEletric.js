@@ -4,7 +4,7 @@ var parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices
 	//parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=OWNER1+like+%27%25POPE+R%25%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
     parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=TAXID+%3D+%27110250+CM0020%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
  	//parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=TAXID+%3D+%27110250+AB0020%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
-    //parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=1%3D1&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=json";
+    parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=1%3D1&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=json";
 
     var Client = require('node-rest-client').Client;
 
@@ -39,20 +39,23 @@ console.log(prem_id_str);
 //}
 
 new YQL.exec('select * from html where url="http://datamart.talgov.com/pls/dmart/dm_www_user.consumption_form.display_results?prem_id_str='+prem_id_str+'&svc_type_str=E" and xpath="//table//table[1]/tr"', function(response) {
-
-//console.log(response.query.results.tr);
+console.log("jere");
+console.log(response);
 for (var i = 0; i < response.query.results.tr.length; i++) {
 	try{
 	console.log(response.query.results.tr[i].td[0].p);
 	console.log(response.query.results.tr[i].td[3].p);
 	} catch (err){
+		console.log(err);
 	}
 };
 });
 
 } catch (err){
+	console.log(err);
 
 }
+
 
 });
 
