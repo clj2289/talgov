@@ -24,7 +24,7 @@ var querystring = require("querystring");
 var prem_id_str = null;
 console.log('http://datamart.talgov.com/pls/dmart/account_search.matching_premises?zip_5_str='+obj.features[i].attributes.ZIP1+'&street_name_str='+address+'&button_sw=Lookup%20Account');
 new YQL.exec('select * from html where url="http://datamart.talgov.com/pls/dmart/account_search.matching_premises?zip_5_str='+obj.features[i].attributes.ZIP1+'&street_name_str='+address+'&button_sw=Lookup%20Account" and xpath="//table"', function(response) {
-
+try{
 var p = response.query.results.table[1].tr[1].td[0].a.href;
 console.log(p.indexOf("?"));
 p = p.substring(p.indexOf("?")+1,p.length);
@@ -50,7 +50,9 @@ for (var i = 0; i < response.query.results.tr.length; i++) {
 };
 });
 
+} catch (err){
 
+}
 
 });
 
