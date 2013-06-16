@@ -1,3369 +1,4036 @@
 {
-    "premise_id_str": "2213524610",
-    "zip": "32309",
-    "address": "2624%20MALIN%20DR"
-}{
-    "premise_id_str": "9703524610",
-    "zip": "32309",
-    "address": "2616%20MALIN%20DR"
-}{
-    "premise_id_str": "5903524610",
-    "zip": "32309",
-    "address": "4080%20ROSCREA%20DR"
-}{
-    "premise_id_str": "7413524610",
-    "zip": "32309",
-    "address": "2620%20MALIN%20DR"
-}{
     "premise_id_str": "3013524610",
     "zip": "32309",
-    "address": "4088%20ROSCREA%20DR"
-}{
-    "premise_id_str": "0013524610",
+    "address": "4088%20ROSCREA%20DR",
+    "taxId": "110250%20AK0010"
+},{
+    "premise_id_str": "5903524610",
     "zip": "32309",
-    "address": "4068%20ROSCREA%20DR"
-}{
-    "premise_id_str": "6113524610",
+    "address": "4080%20ROSCREA%20DR",
+    "taxId": "110250%20AK0030"
+},{
+    "premise_id_str": "9703524610",
     "zip": "32309",
-    "address": "4072%20ROSCREA%20DR"
-}{
-    "premise_id_str": "7948424610",
-    "zip": "32309",
-    "address": "5060%20TALLOW%20POINT%20RD"
-}{
+    "address": "2616%20MALIN%20DR",
+    "taxId": "110250%20AJ0180"
+},{
     "premise_id_str": "6013524610",
     "zip": "32309",
-    "address": "4076%20ROSCREA%20DR"
-}{
+    "address": "4076%20ROSCREA%20DR",
+    "taxId": "110250%20AK0040"
+},{
+    "premise_id_str": "7413524610",
+    "zip": "32309",
+    "address": "2620%20MALIN%20DR",
+    "taxId": "110250%20AJ0190"
+},{
+    "premise_id_str": "6113524610",
+    "zip": "32309",
+    "address": "4072%20ROSCREA%20DR",
+    "taxId": "110250%20AK0050"
+},{
+    "premise_id_str": "2213524610",
+    "zip": "32309",
+    "address": "2624%20MALIN%20DR",
+    "taxId": "110250%20AJ0200"
+},{
+    "premise_id_str": "0013524610",
+    "zip": "32309",
+    "address": "4068%20ROSCREA%20DR",
+    "taxId": "110250%20AK0060"
+},{
     "premise_id_str": "2658424610",
     "zip": "32309",
-    "address": "5052%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "7755234610",
-    "zip": "32309",
-    "address": "5076%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "4909524610",
-    "zip": "32309",
-    "address": "2329%20LIMERICK%20DR"
-}{
+    "address": "5052%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0280"
+},{
     "premise_id_str": "9158424610",
     "zip": "32309",
-    "address": "5064%20TALLOW%20POINT%20RD"
-}{
+    "address": "5064%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0300"
+},{
+    "premise_id_str": "7948424610",
+    "zip": "32309",
+    "address": "5060%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0290"
+},{
     "premise_id_str": "1419034610",
     "zip": "32309",
-    "address": "5068%20TALLOW%20POINT%20RD"
-}{
+    "address": "5068%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0310"
+},{
     "premise_id_str": "1678424610",
     "zip": "32309",
-    "address": "5072%20TALLOW%20POINT%20RD"
-}{
+    "address": "5072%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0320"
+},{
     "premise_id_str": "8948424610",
     "zip": "32309",
-    "address": "5084%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "5948424610",
+    "address": "5084%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0350"
+},{
+    "premise_id_str": "4909524610",
     "zip": "32309",
-    "address": "5011%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "3848424610",
-    "zip": "32309",
-    "address": "5092%20TALLOW%20POINT%20RD"
-}{
+    "address": "2329%20LIMERICK%20DR",
+    "taxId": "110250%20BG0340"
+},{
     "premise_id_str": "0258424610",
     "zip": "32309",
-    "address": "5088%20TALLOW%20POINT%20RD"
-}{
+    "address": "5088%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0360"
+},{
+    "premise_id_str": "3848424610",
+    "zip": "32309",
+    "address": "5092%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0370"
+},{
     "premise_id_str": "4848424610",
     "zip": "32309",
-    "address": "5005%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "0489424610",
+    "address": "5005%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0390"
+},{
+    "premise_id_str": "5948424610",
     "zip": "32309",
-    "address": "2065%20QUINN%20CT"
-}{
+    "address": "5011%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0380"
+},{
     "premise_id_str": "3778424610",
     "zip": "32309",
-    "address": "5001%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "6189424610",
-    "zip": "32309",
-    "address": "2043%20QUINN%20CT"
-}{
+    "address": "5001%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0400"
+},{
     "premise_id_str": "4089424610",
     "zip": "32309",
-    "address": "2044%20QUINN%20CT"
-}{
-    "premise_id_str": "0979424610",
+    "address": "2044%20QUINN%20CT",
+    "taxId": "110250%20CG0110"
+},{
+    "premise_id_str": "0489424610",
     "zip": "32309",
-    "address": "2000%20QUINN%20CT"
-}{
-    "premise_id_str": "2489424610",
-    "zip": "32309",
-    "address": "3263%20FOLEY%20DR"
-}{
+    "address": "2065%20QUINN%20CT",
+    "taxId": "110250%20CG0100"
+},{
     "premise_id_str": "1979424610",
     "zip": "32309",
-    "address": "2022%20QUINN%20CT"
-}{
+    "address": "2022%20QUINN%20CT",
+    "taxId": "110250%20CG0120"
+},{
+    "premise_id_str": "0979424610",
+    "zip": "32309",
+    "address": "2000%20QUINN%20CT",
+    "taxId": "110250%20CG0130"
+},{
+    "premise_id_str": "2489424610",
+    "zip": "32309",
+    "address": "3263%20FOLEY%20DR",
+    "taxId": "110250%20CG0140"
+},{
     "premise_id_str": "3289424610",
     "zip": "32309",
-    "address": "3241%20FOLEY%20DR"
-}{
+    "address": "3241%20FOLEY%20DR",
+    "taxId": "110250%20CG0150"
+},{
     "premise_id_str": "5489424610",
     "zip": "32309",
-    "address": "3219%20FOLEY%20DR"
-}{
+    "address": "3219%20FOLEY%20DR",
+    "taxId": "110250%20CG0160"
+},{
     "premise_id_str": "8389424610",
     "zip": "32309",
-    "address": "3175%20FOLEY%20DR"
-}{
+    "address": "3175%20FOLEY%20DR",
+    "taxId": "110250%20CG0180"
+},{
     "premise_id_str": "0289424610",
     "zip": "32309",
-    "address": "3153%20FOLEY%20DR"
-}{
+    "address": "3153%20FOLEY%20DR",
+    "taxId": "110250%20CG0190"
+},{
     "premise_id_str": "8189424610",
     "zip": "32309",
-    "address": "3131%20FOLEY%20DR"
-}{
+    "address": "3131%20FOLEY%20DR",
+    "taxId": "110250%20CG0200"
+},{
     "premise_id_str": "2089424610",
     "zip": "32309",
-    "address": "3109%20FOLEY%20DR"
-}{
-    "premise_id_str": "5089424610",
-    "zip": "32309",
-    "address": "3065%20FOLEY%20DR"
-}{
+    "address": "3109%20FOLEY%20DR",
+    "taxId": "110250%20CG0210"
+},{
     "premise_id_str": "0089424610",
     "zip": "32309",
-    "address": "3087%20FOLEY%20DR"
-}{
-    "premise_id_str": "4979424610",
+    "address": "3087%20FOLEY%20DR",
+    "taxId": "110250%20CG0220"
+},{
+    "premise_id_str": "5089424610",
     "zip": "32309",
-    "address": "3021%20FOLEY%20DR"
-}{
+    "address": "3065%20FOLEY%20DR",
+    "taxId": "110250%20CG0230"
+},{
     "premise_id_str": "5979424610",
     "zip": "32309",
-    "address": "3074%20FOLEY%20DR"
-}{
-    "premise_id_str": "0198134610",
+    "address": "3074%20FOLEY%20DR",
+    "taxId": "110250%20CH0010"
+},{
+    "premise_id_str": "4979424610",
     "zip": "32309",
-    "address": "3444%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "0689424610",
-    "zip": "32309",
-    "address": "3537%20GALLAGHER%20DR"
-}{
+    "address": "3021%20FOLEY%20DR",
+    "taxId": "110250%20CG0250"
+},{
     "premise_id_str": "2789424610",
     "zip": "32309",
-    "address": "3545%20GALLAGHER%20DR"
-}{
+    "address": "3545%20GALLAGHER%20DR",
+    "taxId": "110250%20CH0020"
+},{
+    "premise_id_str": "0689424610",
+    "zip": "32309",
+    "address": "3537%20GALLAGHER%20DR",
+    "taxId": "110250%20CH0030"
+},{
+    "premise_id_str": "0198134610",
+    "zip": "32309",
+    "address": "3444%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0090"
+},{
     "premise_id_str": "5257524610",
     "zip": "32309",
-    "address": "4841%20BALLYGAR%20DR"
-}{
+    "address": "4841%20BALLYGAR%20DR",
+    "taxId": "110250%20BC0110"
+},{
     "premise_id_str": "0552234610",
     "zip": "32309",
-    "address": "3448%20GARDENVIEW%20WAY"
-}{
+    "address": "3448%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0100"
+},{
     "premise_id_str": "7457524610",
     "zip": "32309",
-    "address": "4845%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "0457524610",
-    "zip": "32309",
-    "address": "4849%20BALLYGAR%20DR"
-}{
+    "address": "4845%20BALLYGAR%20DR",
+    "taxId": "110250%20BC0120"
+},{
     "premise_id_str": "9847524610",
     "zip": "32309",
-    "address": "4853%20BALLYGAR%20DR"
-}{
+    "address": "4853%20BALLYGAR%20DR",
+    "taxId": "110250%20BC0140"
+},{
     "premise_id_str": "8847524610",
     "zip": "32309",
-    "address": "4857%20BALLYGAR%20DR"
-}{
+    "address": "4857%20BALLYGAR%20DR",
+    "taxId": "110250%20BC0150"
+},{
     "premise_id_str": "3257524610",
     "zip": "32309",
-    "address": "4861%20BALLYGAR%20DR"
-}{
+    "address": "4861%20BALLYGAR%20DR",
+    "taxId": "110250%20BC0160"
+},{
     "premise_id_str": "1357524610",
     "zip": "32309",
-    "address": "3400%20CLIFDEN%20DR"
-}{
+    "address": "3400%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0010"
+},{
+    "premise_id_str": "0457524610",
+    "zip": "32309",
+    "address": "4849%20BALLYGAR%20DR",
+    "taxId": "110250%20BC0130"
+},{
     "premise_id_str": "0337524610",
     "zip": "32309",
-    "address": "3054%20WATERFORD%20DR"
-}{
+    "address": "3054%20WATERFORD%20DR",
+    "taxId": "110250%20BD0020"
+},{
     "premise_id_str": "2578424610",
     "zip": "32309",
-    "address": "3046%20N%20SHANNON%20LAKES%20DR"
-}{
+    "address": "3046%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BD0021"
+},{
     "premise_id_str": "0678424610",
     "zip": "32309",
-    "address": "3050%20N%20SHANNON%20LAKES%20DR"
-}{
+    "address": "3050%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BD0031"
+},{
     "premise_id_str": "9347524610",
     "zip": "32309",
-    "address": "3412%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "3868424610",
-    "zip": "32309",
-    "address": "3054%20N%20SHANNON%20LAKES%20DR"
-}{
+    "address": "3412%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0040"
+},{
     "premise_id_str": "3647524610",
     "zip": "32309",
-    "address": "3416%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "4747524610",
+    "address": "3416%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0050"
+},{
+    "premise_id_str": "3868424610",
     "zip": "32309",
-    "address": "3420%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "1889424610",
-    "zip": "32309",
-    "address": "3529%20GALLAGHER%20DR"
-}{
+    "address": "3054%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BD0041"
+},{
     "premise_id_str": "1778424610",
     "zip": "32309",
-    "address": "6400%20STONE%20STREET%20TRL"
-}{
+    "address": "6400%20STONE%20STREET%20TRL",
+    "taxId": "110250%20BD0061"
+},{
+    "premise_id_str": "4747524610",
+    "zip": "32309",
+    "address": "3420%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0060"
+},{
+    "premise_id_str": "1889424610",
+    "zip": "32309",
+    "address": "3529%20GALLAGHER%20DR",
+    "taxId": "110250%20CH0040"
+},{
     "premise_id_str": "7789424610",
     "zip": "32309",
-    "address": "3523%20GALLAGHER%20DR"
-}{
-    "premise_id_str": "7099424610",
-    "zip": "32309",
-    "address": "3517%20GALLAGHER%20DR"
-}{
+    "address": "3523%20GALLAGHER%20DR",
+    "taxId": "110250%20CH0050"
+},{
     "premise_id_str": "4847524610",
     "zip": "32309",
-    "address": "3501%20CLIFDEN%20DR"
-}{
+    "address": "3501%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0120"
+},{
+    "premise_id_str": "7099424610",
+    "zip": "32309",
+    "address": "3517%20GALLAGHER%20DR",
+    "taxId": "110250%20CH0060"
+},{
     "premise_id_str": "3824134610",
     "zip": "32309",
-    "address": "3437%20CLIFDEN%20DR"
-}{
+    "address": "3437%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0130"
+},{
     "premise_id_str": "0157524610",
     "zip": "32309",
-    "address": "3433%20CLIFDEN%20DR"
-}{
+    "address": "3433%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0140"
+},{
     "premise_id_str": "1457524610",
     "zip": "32309",
-    "address": "3429%20CLIFDEN%20DR"
-}{
+    "address": "3429%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0150"
+},{
     "premise_id_str": "3457524610",
     "zip": "32309",
-    "address": "3425%20CLIFDEN%20DR"
-}{
+    "address": "3425%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0160"
+},{
     "premise_id_str": "4057524610",
     "zip": "32309",
-    "address": "3421%20CLIFDEN%20DR"
-}{
+    "address": "3421%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0170"
+},{
     "premise_id_str": "7947524610",
     "zip": "32309",
-    "address": "3417%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "7647524610",
-    "zip": "32309",
-    "address": "3406%20DUNDALK%20DR"
-}{
+    "address": "3417%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0180"
+},{
     "premise_id_str": "8157524610",
     "zip": "32309",
-    "address": "3412%20DUNDALK%20DR"
-}{
-    "premise_id_str": "9057524610",
-    "zip": "32309",
-    "address": "3424%20DUNDALK%20DR"
-}{
+    "address": "3412%20DUNDALK%20DR",
+    "taxId": "110250%20BE0200"
+},{
     "premise_id_str": "8899134610",
     "zip": "32309",
-    "address": "3420%20DUNDALK%20DR"
-}{
-    "premise_id_str": "2364955399",
+    "address": "3420%20DUNDALK%20DR",
+    "taxId": "110250%20BE0220"
+},{
+    "premise_id_str": "7647524610",
     "zip": "32309",
-    "address": "3502%20DUNDALK%20DR"
-}{
+    "address": "3406%20DUNDALK%20DR",
+    "taxId": "110250%20BE0190"
+},{
+    "premise_id_str": "9057524610",
+    "zip": "32309",
+    "address": "3424%20DUNDALK%20DR",
+    "taxId": "110250%20BE0230"
+},{
     "premise_id_str": "2647524610",
     "zip": "32309",
-    "address": "3506%20DUNDALK%20DR"
-}{
+    "address": "3506%20DUNDALK%20DR",
+    "taxId": "110250%20BE0250"
+},{
     "premise_id_str": "6357524610",
     "zip": "32309",
-    "address": "3510%20DUNDALK%20DR"
-}{
+    "address": "3510%20DUNDALK%20DR",
+    "taxId": "110250%20BE0260"
+},{
     "premise_id_str": "1257524610",
     "zip": "32309",
-    "address": "3518%20DUNDALK%20DR"
-}{
-    "premise_id_str": "0058424610",
-    "zip": "32309",
-    "address": "4943%20E%20SHANNON%20LAKES%20DR"
-}{
+    "address": "3518%20DUNDALK%20DR",
+    "taxId": "110250%20BE0280"
+},{
     "premise_id_str": "1347524610",
     "zip": "32309",
-    "address": "3526%20DUNDALK%20DR"
-}{
+    "address": "3526%20DUNDALK%20DR",
+    "taxId": "110250%20BE0300"
+},{
+    "premise_id_str": "0058424610",
+    "zip": "32309",
+    "address": "4943%20E%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BG0420"
+},{
     "premise_id_str": "9268424610",
     "zip": "32309",
-    "address": "5041%20TALLOW%20POINT%20RD"
-}{
+    "address": "5041%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BH0010"
+},{
     "premise_id_str": "9848424610",
     "zip": "32309",
-    "address": "5055%20TALLOW%20POINT%20RD"
-}{
+    "address": "5055%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BH0020"
+},{
     "premise_id_str": "4258424610",
     "zip": "32309",
-    "address": "5059%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "8258424610",
-    "zip": "32309",
-    "address": "5081%20TALLOW%20POINT%20RD"
-}{
+    "address": "5059%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BH0030"
+},{
     "premise_id_str": "5758424610",
     "zip": "32309",
-    "address": "5093%20TALLOW%20POINT%20RD"
-}{
+    "address": "5093%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BH0060"
+},{
     "premise_id_str": "9058424610",
     "zip": "32309",
-    "address": "5021%20TALLOW%20POINT%20RD"
-}{
+    "address": "5021%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BH0080"
+},{
     "premise_id_str": "8848424610",
     "zip": "32309",
-    "address": "5023%20TALLOW%20POINT%20RD"
-}{
+    "address": "5023%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BH0090"
+},{
+    "premise_id_str": "8258424610",
+    "zip": "32309",
+    "address": "5081%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BH0050"
+},{
     "premise_id_str": "2378424610",
     "zip": "32309",
-    "address": "3101%20FERNS%20GLEN%20DR"
-}{
+    "address": "3101%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0010"
+},{
     "premise_id_str": "1078424610",
     "zip": "32309",
-    "address": "3111%20FERNS%20GLEN%20DR"
-}{
+    "address": "3111%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0040"
+},{
     "premise_id_str": "4868424610",
     "zip": "32309",
-    "address": "3115%20FERNS%20GLEN%20DR"
-}{
-    "premise_id_str": "9789424610",
-    "zip": "32309",
-    "address": "3429%20MAHONEY%20DR"
-}{
+    "address": "3115%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0050"
+},{
+    "premise_id_str": "9856924610",
+    "zip": "32301",
+    "address": "300%20S%20ADAMS%20ST",
+    "taxId": "110250%20CF0101"
+},{
     "premise_id_str": "1489424610",
     "zip": "32309",
-    "address": "3433%20MAHONEY%20DR"
-}{
-    "premise_id_str": "9856924610",
-    "zip": "32301",
-    "address": "300%20S%20ADAMS%20ST"
-}{
-    "premise_id_str": "5689424610",
-    "zip": "32309",
-    "address": "3423%20MAHONEY%20DR"
-}{
+    "address": "3433%20MAHONEY%20DR",
+    "taxId": "110250%20CF0100"
+},{
     "premise_id_str": "6689424610",
     "zip": "32309",
-    "address": "3425%20MAHONEY%20DR"
-}{
+    "address": "3425%20MAHONEY%20DR",
+    "taxId": "110250%20CF0120"
+},{
+    "premise_id_str": "9789424610",
+    "zip": "32309",
+    "address": "3429%20MAHONEY%20DR",
+    "taxId": "110250%20CF0110"
+},{
+    "premise_id_str": "5689424610",
+    "zip": "32309",
+    "address": "3423%20MAHONEY%20DR",
+    "taxId": "110250%20CF0130"
+},{
     "premise_id_str": "6489424610",
     "zip": "32309",
-    "address": "3517%20FOGARTY%20DR"
-}{
+    "address": "3517%20FOGARTY%20DR",
+    "taxId": "110250%20CF0150"
+},{
     "premise_id_str": "8099424610",
     "zip": "32309",
-    "address": "3421%20MAHONEY%20DR"
-}{
-    "premise_id_str": "7489424610",
-    "zip": "32309",
-    "address": "3509%20FOGARTY%20DR"
-}{
+    "address": "3421%20MAHONEY%20DR",
+    "taxId": "110250%20CF0140"
+},{
     "premise_id_str": "8489424610",
     "zip": "32309",
-    "address": "3505%20FOGARTY%20DR"
-}{
-    "premise_id_str": "8289424610",
-    "zip": "32309",
-    "address": "2708%20OHARA%20CT"
-}{
-    "premise_id_str": "8289424610",
-    "zip": "32309",
-    "address": "2708%20OHARA%20CT"
-}{
+    "address": "3505%20FOGARTY%20DR",
+    "taxId": "110250%20CF0180"
+},{
     "premise_id_str": "4099034610",
     "zip": "32309",
-    "address": "2704%20OHARA%20CT"
-}{
+    "address": "2704%20OHARA%20CT",
+    "taxId": "110250%20CF0190"
+},{
+    "premise_id_str": "8289424610",
+    "zip": "32309",
+    "address": "2708%20OHARA%20CT",
+    "taxId": "110250%20CF0200"
+},{
+    "premise_id_str": "8289424610",
+    "zip": "32309",
+    "address": "2708%20OHARA%20CT",
+    "taxId": "110250%20CF0210"
+},{
     "premise_id_str": "9289424610",
     "zip": "32309",
-    "address": "2701%20OHARA%20CT"
-}{
+    "address": "2701%20OHARA%20CT",
+    "taxId": "110250%20CF0220"
+},{
     "premise_id_str": "4189424610",
     "zip": "32309",
-    "address": "2720%20FOLEY%20CT"
-}{
+    "address": "2720%20FOLEY%20CT",
+    "taxId": "110250%20CG0020"
+},{
     "premise_id_str": "6979424610",
     "zip": "32309",
-    "address": "2710%20FOLEY%20CT"
-}{
-    "premise_id_str": "6879424610",
-    "zip": "32309",
-    "address": "3417%20FOLEY%20DR"
-}{
+    "address": "2710%20FOLEY%20CT",
+    "taxId": "110250%20CG0030"
+},{
     "premise_id_str": "2389424610",
     "zip": "32309",
-    "address": "3373%20FOLEY%20DR"
-}{
-    "premise_id_str": "2289424610",
+    "address": "3373%20FOLEY%20DR",
+    "taxId": "110250%20CG0050"
+},{
+    "premise_id_str": "6879424610",
     "zip": "32309",
-    "address": "3351%20FOLEY%20DR"
-}{
-    "premise_id_str": "1289424610",
-    "zip": "32309",
-    "address": "2021%20QUINN%20CT"
-}{
+    "address": "3417%20FOLEY%20DR",
+    "taxId": "110250%20CG0040"
+},{
     "premise_id_str": "7089424610",
     "zip": "32309",
-    "address": "3329%20FOLEY%20DR"
-}{
+    "address": "3329%20FOLEY%20DR",
+    "taxId": "110250%20CG0070"
+},{
+    "premise_id_str": "2289424610",
+    "zip": "32309",
+    "address": "3351%20FOLEY%20DR",
+    "taxId": "110250%20CG0060"
+},{
     "premise_id_str": "0989424610",
     "zip": "32309",
-    "address": "3509%20GALLAGHER%20DR"
-}{
+    "address": "3509%20GALLAGHER%20DR",
+    "taxId": "110250%20CH0080"
+},{
+    "premise_id_str": "1289424610",
+    "zip": "32309",
+    "address": "2021%20QUINN%20CT",
+    "taxId": "110250%20CG0080"
+},{
     "premise_id_str": "5589424610",
     "zip": "32309",
-    "address": "3501%20GALLAGHER%20DR"
-}{
+    "address": "3501%20GALLAGHER%20DR",
+    "taxId": "110250%20CH0100"
+},{
     "premise_id_str": "9989424610",
     "zip": "32309",
-    "address": "2834%20OHARA%20DR"
-}{
-    "premise_id_str": "6889424610",
-    "zip": "32309",
-    "address": "2838%20OHARA%20DR"
-}{
+    "address": "2834%20OHARA%20DR",
+    "taxId": "110250%20CH0110"
+},{
     "premise_id_str": "7589424610",
     "zip": "32309",
-    "address": "2842%20OHARA%20DR"
-}{
+    "address": "2842%20OHARA%20DR",
+    "taxId": "110250%20CH0130"
+},{
+    "premise_id_str": "6889424610",
+    "zip": "32309",
+    "address": "2838%20OHARA%20DR",
+    "taxId": "110250%20CH0120"
+},{
     "premise_id_str": "5462034610",
     "zip": "32309",
-    "address": "2858%20OHARA%20DR"
-}{
-    "premise_id_str": "7989424610",
-    "zip": "32309",
-    "address": "2862%20OHARA%20DR"
-}{
-    "premise_id_str": "2689424610",
-    "zip": "32309",
-    "address": "2863%20FITZPATRICK%20DR"
-}{
+    "address": "2858%20OHARA%20DR",
+    "taxId": "110250%20CH0170"
+},{
     "premise_id_str": "9389424610",
     "zip": "32309",
-    "address": "3504%20FOGARTY%20DR"
-}{
-    "premise_id_str": "1589424610",
+    "address": "3504%20FOGARTY%20DR",
+    "taxId": "110250%20CH0190"
+},{
+    "premise_id_str": "7989424610",
     "zip": "32309",
-    "address": "2859%20FITZPATRICK%20DR"
-}{
+    "address": "2862%20OHARA%20DR",
+    "taxId": "110250%20CH0180"
+},{
+    "premise_id_str": "2689424610",
+    "zip": "32309",
+    "address": "2863%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0210"
+},{
     "premise_id_str": "1989424610",
     "zip": "32309",
-    "address": "2855%20FITZPATRICK%20DR"
-}{
+    "address": "2855%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0230"
+},{
+    "premise_id_str": "1589424610",
+    "zip": "32309",
+    "address": "2859%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0220"
+},{
+    "premise_id_str": "9099424610",
+    "zip": "32309",
+    "address": "2843%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0260"
+},{
     "premise_id_str": "9061034610",
     "zip": "32309",
-    "address": "2851%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "9099424610",
-    "zip": "32309",
-    "address": "2843%20FITZPATRICK%20DR"
-}{
+    "address": "2851%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0240"
+},{
     "premise_id_str": "2199424610",
     "zip": "32309",
-    "address": "2847%20FITZPATRICK%20DR"
-}{
+    "address": "2847%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0250"
+},{
     "premise_id_str": "9889424610",
     "zip": "32309",
-    "address": "2839%20FITZPATRICK%20DR"
-}{
+    "address": "2839%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0270"
+},{
     "premise_id_str": "9947524610",
     "zip": "32309",
-    "address": "3530%20DUNDALK%20DR"
-}{
-    "premise_id_str": "0133134610",
-    "zip": "32309",
-    "address": "5305%20BEN%20BRUSH%20TRL"
-}{
-    "premise_id_str": "3178424610",
-    "zip": "32309",
-    "address": "3212%20N%20SHANNON%20LAKES%20DR"
-}{
+    "address": "3530%20DUNDALK%20DR",
+    "taxId": "110250%20BE0310"
+},{
     "premise_id_str": "1339424610",
     "zip": "32309",
-    "address": "5309%20BEN%20BRUSH%20TRL"
-}{
-    "premise_id_str": "8568424610",
+    "address": "5309%20BEN%20BRUSH%20TRL",
+    "taxId": "110250%20BF0010"
+},{
+    "premise_id_str": "3178424610",
     "zip": "32309",
-    "address": "5308%20KILRUSH%20CT"
-}{
+    "address": "3212%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0040"
+},{
     "premise_id_str": "7568424610",
     "zip": "32309",
-    "address": "5305%20KILRUSH%20CT"
-}{
+    "address": "5305%20KILRUSH%20CT",
+    "taxId": "110250%20BF0070"
+},{
+    "premise_id_str": "8568424610",
+    "zip": "32309",
+    "address": "5308%20KILRUSH%20CT",
+    "taxId": "110250%20BF0060"
+},{
     "premise_id_str": "2968424610",
     "zip": "32309",
-    "address": "3220%20N%20SHANNON%20LAKES%20DR"
-}{
+    "address": "3220%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0090"
+},{
     "premise_id_str": "6692034610",
     "zip": "32309",
-    "address": "3224%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "0578424610",
-    "zip": "32309",
-    "address": "3232%20N%20SHANNON%20LAKES%20DR"
-}{
+    "address": "3224%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0100"
+},{
     "premise_id_str": "9078424610",
     "zip": "32309",
-    "address": "3228%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "7031134610",
-    "zip": "32309",
-    "address": "4975%20KEOHONE%20DR"
-}{
+    "address": "3228%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0110"
+},{
     "premise_id_str": "7721334610",
     "zip": "32309",
-    "address": "4979%20KEOHONE%20DR"
-}{
+    "address": "4979%20KEOHONE%20DR",
+    "taxId": "110250%20CN0110"
+},{
+    "premise_id_str": "0578424610",
+    "zip": "32309",
+    "address": "3232%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0120"
+},{
+    "premise_id_str": "7031134610",
+    "zip": "32309",
+    "address": "4975%20KEOHONE%20DR",
+    "taxId": "110250%20CN0120"
+},{
     "premise_id_str": "5725134610",
     "zip": "32309",
-    "address": "3030%20OBRIEN%20DR"
-}{
+    "address": "3030%20OBRIEN%20DR",
+    "taxId": "110250%20CN0130"
+},{
     "premise_id_str": "6450134610",
     "zip": "32309",
-    "address": "3034%20OBRIEN%20DR"
-}{
-    "premise_id_str": "1530134610",
-    "zip": "32309",
-    "address": "3042%20OBRIEN%20DR"
-}{
+    "address": "3034%20OBRIEN%20DR",
+    "taxId": "110250%20CN0140"
+},{
     "premise_id_str": "0530134610",
     "zip": "32309",
-    "address": "3038%20OBRIEN%20DR"
-}{
-    "premise_id_str": "8392134610",
-    "zip": "32309",
-    "address": "3046%20OBRIEN%20DR"
-}{
+    "address": "3038%20OBRIEN%20DR",
+    "taxId": "110250%20CN0150"
+},{
     "premise_id_str": "3364134610",
     "zip": "32309",
-    "address": "3050%20OBRIEN%20DR"
-}{
+    "address": "3050%20OBRIEN%20DR",
+    "taxId": "110250%20CN0180"
+},{
+    "premise_id_str": "1530134610",
+    "zip": "32309",
+    "address": "3042%20OBRIEN%20DR",
+    "taxId": "110250%20CN0160"
+},{
     "premise_id_str": "6581034610",
     "zip": "32309",
-    "address": "3123%20FERNS%20GLEN%20DR"
-}{
+    "address": "3123%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0070"
+},{
     "premise_id_str": "8168424610",
     "zip": "32309",
-    "address": "3127%20FERNS%20GLEN%20DR"
-}{
+    "address": "3127%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0080"
+},{
     "premise_id_str": "3325034610",
     "zip": "32309",
-    "address": "3131%20FERNS%20GLEN%20DR"
-}{
+    "address": "3131%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0090"
+},{
     "premise_id_str": "4378424610",
     "zip": "32309",
-    "address": "3139%20FERNS%20GLEN%20DR"
-}{
+    "address": "3139%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0110"
+},{
     "premise_id_str": "5078424610",
     "zip": "32309",
-    "address": "3143%20FERNS%20GLEN%20DR"
-}{
+    "address": "3143%20FERNS%20GLEN%20DR",
+    "taxId": "110250%20BJ0120"
+},{
     "premise_id_str": "0372134610",
     "zip": "32309",
-    "address": "4057%20KILMARTIN%20DR"
-}{
+    "address": "4057%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0030"
+},{
     "premise_id_str": "7481034610",
     "zip": "32309",
-    "address": "4055%20KILMARTIN%20DR"
-}{
+    "address": "4055%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0040"
+},{
     "premise_id_str": "1520134610",
     "zip": "32309",
-    "address": "4053%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "0591034610",
-    "zip": "32309",
-    "address": "4049%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "2918034610",
-    "zip": "32309",
-    "address": "4047%20KILMARTIN%20DR"
-}{
+    "address": "4053%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0050"
+},{
     "premise_id_str": "3807524610",
     "zip": "32309",
-    "address": "4051%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "1126134610",
+    "address": "4051%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0060"
+},{
+    "premise_id_str": "0591034610",
     "zip": "32309",
-    "address": "4043%20KILMARTIN%20DR"
-}{
+    "address": "4049%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0070"
+},{
+    "premise_id_str": "2918034610",
+    "zip": "32309",
+    "address": "4047%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0080"
+},{
     "premise_id_str": "7236134610",
     "zip": "32309",
-    "address": "4045%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "4707524610",
+    "address": "4045%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0090"
+},{
+    "premise_id_str": "1126134610",
     "zip": "32309",
-    "address": "4039%20KILMARTIN%20DR"
-}{
+    "address": "4043%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0100"
+},{
     "premise_id_str": "6728134610",
     "zip": "32309",
-    "address": "4037%20KILMARTIN%20DR"
-}{
+    "address": "4037%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0120"
+},{
+    "premise_id_str": "4707524610",
+    "zip": "32309",
+    "address": "4039%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0110"
+},{
     "premise_id_str": "3057034610",
     "zip": "32309",
-    "address": "4035%20KILMARTIN%20DR"
-}{
+    "address": "4035%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0130"
+},{
     "premise_id_str": "2207524610",
     "zip": "32309",
-    "address": "4033%20KILMARTIN%20DR"
-}{
+    "address": "4033%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0140"
+},{
     "premise_id_str": "2707524610",
     "zip": "32309",
-    "address": "4031%20KILMARTIN%20DR"
-}{
+    "address": "4031%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0150"
+},{
     "premise_id_str": "0896524610",
     "zip": "32309",
-    "address": "4029%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "4767234610",
-    "zip": "32309",
-    "address": "3451%20HYDE%20PARK%20WAY"
-}{
+    "address": "4029%20KILMARTIN%20DR",
+    "taxId": "110250%20CR0160"
+},{
     "premise_id_str": "2099424610",
     "zip": "32309",
-    "address": "2817%20OHARA%20DR"
-}{
-    "premise_id_str": "9102234610",
-    "zip": "32309",
-    "address": "3112%20ANSLEY%20PARK%20DR"
-}{
-    "premise_id_str": "8717334610",
-    "zip": "32309",
-    "address": "3116%20ANSLEY%20PARK%20DR"
-}{
-    "premise_id_str": "8877334610",
-    "zip": "32309",
-    "address": "3120%20ANSLEY%20PARK%20DR"
-}{
-    "premise_id_str": "2149234610",
-    "zip": "32309",
-    "address": "3124%20ANSLEY%20PARK%20DR"
-}{
-    "premise_id_str": "1805234610",
-    "zip": "32309",
-    "address": "3132%20ANSLEY%20PARK%20DR"
-}{
-    "premise_id_str": "3437539575",
-    "zip": "32309",
-    "address": "3128%20ANSLEY%20PARK%20DR"
-}{
-    "premise_id_str": "1916234610",
-    "zip": "32309",
-    "address": "3136%20ANSLEY%20PARK%20DR"
-}{
-    "premise_id_str": "4767034610",
-    "zip": "32309",
-    "address": "2917%20SPRINGFIELD%20DR"
-}{
-    "premise_id_str": "2311134610",
-    "zip": "32309",
-    "address": "2913%20SPRINGFIELD%20DR"
-}{
-    "premise_id_str": "6328034610",
-    "zip": "32309",
-    "address": "2921%20SPRINGFIELD%20DR"
-}{
-    "premise_id_str": "5045034610",
-    "zip": "32309",
-    "address": "2925%20SPRINGFIELD%20DR"
-}{
+    "address": "2817%20OHARA%20DR",
+    "taxId": "110250%20CS0010"
+},{
     "premise_id_str": "8597234610",
     "zip": "32309",
-    "address": "3455%20HYDE%20PARK%20WAY"
-}{
-    "premise_id_str": "3540134610",
+    "address": "3455%20HYDE%20PARK%20WAY",
+    "taxId": "110250%20DK0120"
+},{
+    "premise_id_str": "9102234610",
     "zip": "32309",
-    "address": "2926%20GIVERNY%20CIR"
-}{
-    "premise_id_str": "1588034610",
+    "address": "3112%20ANSLEY%20PARK%20DR",
+    "taxId": "110250%20DK0150"
+},{
+    "premise_id_str": "8877334610",
     "zip": "32309",
-    "address": "2930%20GIVERNY%20CIR"
-}{
+    "address": "3120%20ANSLEY%20PARK%20DR",
+    "taxId": "110250%20DK0170"
+},{
+    "premise_id_str": "2149234610",
+    "zip": "32309",
+    "address": "3124%20ANSLEY%20PARK%20DR",
+    "taxId": "110250%20DK0180"
+},{
+    "premise_id_str": "3437539575",
+    "zip": "32309",
+    "address": "3128%20ANSLEY%20PARK%20DR",
+    "taxId": "110250%20DK0190"
+},{
+    "premise_id_str": "1805234610",
+    "zip": "32309",
+    "address": "3132%20ANSLEY%20PARK%20DR",
+    "taxId": "110250%20DK0200"
+},{
+    "premise_id_str": "1916234610",
+    "zip": "32309",
+    "address": "3136%20ANSLEY%20PARK%20DR",
+    "taxId": "110250%20DK0210"
+},{
+    "premise_id_str": "2311134610",
+    "zip": "32309",
+    "address": "2913%20SPRINGFIELD%20DR",
+    "taxId": "110250%20DL0010"
+},{
+    "premise_id_str": "4767034610",
+    "zip": "32309",
+    "address": "2917%20SPRINGFIELD%20DR",
+    "taxId": "110250%20DL0020"
+},{
+    "premise_id_str": "6328034610",
+    "zip": "32309",
+    "address": "2921%20SPRINGFIELD%20DR",
+    "taxId": "110250%20DL0030"
+},{
+    "premise_id_str": "5045034610",
+    "zip": "32309",
+    "address": "2925%20SPRINGFIELD%20DR",
+    "taxId": "110250%20DL0040"
+},{
     "premise_id_str": "7548034610",
     "zip": "32309",
-    "address": "2929%20SPRINGFIELD%20DR"
-}{
+    "address": "2929%20SPRINGFIELD%20DR",
+    "taxId": "110250%20DL0050"
+},{
+    "premise_id_str": "1588034610",
+    "zip": "32309",
+    "address": "2930%20GIVERNY%20CIR",
+    "taxId": "110250%20DL0060"
+},{
+    "premise_id_str": "3540134610",
+    "zip": "32309",
+    "address": "2926%20GIVERNY%20CIR",
+    "taxId": "110250%20DL0070"
+},{
     "premise_id_str": "4689424610",
     "zip": "32309",
-    "address": "2835%20FITZPATRICK%20DR"
-}{
+    "address": "2835%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0280"
+},{
     "premise_id_str": "8989424610",
     "zip": "32309",
-    "address": "2831%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "2989424610",
-    "zip": "32309",
-    "address": "2819%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "7189424610",
-    "zip": "32309",
-    "address": "3090%20FOLEY%20DR"
-}{
+    "address": "2831%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0290"
+},{
     "premise_id_str": "6989424610",
     "zip": "32309",
-    "address": "2823%20FITZPATRICK%20DR"
-}{
+    "address": "2823%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0310"
+},{
+    "premise_id_str": "2989424610",
+    "zip": "32309",
+    "address": "2819%20FITZPATRICK%20DR",
+    "taxId": "110250%20CH0320"
+},{
+    "premise_id_str": "7189424610",
+    "zip": "32309",
+    "address": "3090%20FOLEY%20DR",
+    "taxId": "110250%20CH0330"
+},{
     "premise_id_str": "9979424610",
     "zip": "32309",
-    "address": "3340%20FOLEY%20DR"
-}{
+    "address": "3340%20FOLEY%20DR",
+    "taxId": "110250%20CI0020"
+},{
     "premise_id_str": "2979424610",
     "zip": "32309",
-    "address": "3362%20FOLEY%20DR"
-}{
+    "address": "3362%20FOLEY%20DR",
+    "taxId": "110250%20CI0040"
+},{
     "premise_id_str": "6289424610",
     "zip": "32309",
-    "address": "3456%20MAHONEY%20DR"
-}{
-    "premise_id_str": "7389424610",
-    "zip": "32309",
-    "address": "3452%20MAHONEY%20DR"
-}{
+    "address": "3456%20MAHONEY%20DR",
+    "taxId": "110250%20CI0050"
+},{
     "premise_id_str": "4389424610",
     "zip": "32309",
-    "address": "3448%20MAHONEY%20DR"
-}{
+    "address": "3448%20MAHONEY%20DR",
+    "taxId": "110250%20CI0070"
+},{
     "premise_id_str": "0389424610",
     "zip": "32309",
-    "address": "3436%20MAHONEY%20DR"
-}{
-    "premise_id_str": "3489424610",
+    "address": "3436%20MAHONEY%20DR",
+    "taxId": "110250%20CI0080"
+},{
+    "premise_id_str": "7389424610",
     "zip": "32309",
-    "address": "3412%20MAHONEY%20DR"
-}{
-    "premise_id_str": "5289424610",
-    "zip": "32309",
-    "address": "3416%20MAHONEY%20DR"
-}{
+    "address": "3452%20MAHONEY%20DR",
+    "taxId": "110250%20CI0060"
+},{
     "premise_id_str": "5389424610",
     "zip": "32309",
-    "address": "3424%20MAHONEY%20DR"
-}{
+    "address": "3424%20MAHONEY%20DR",
+    "taxId": "110250%20CI0090"
+},{
+    "premise_id_str": "5289424610",
+    "zip": "32309",
+    "address": "3416%20MAHONEY%20DR",
+    "taxId": "110250%20CI0110"
+},{
     "premise_id_str": "3389424610",
     "zip": "32309",
-    "address": "3420%20MAHONEY%20DR"
-}{
-    "premise_id_str": "8119524610",
+    "address": "3420%20MAHONEY%20DR",
+    "taxId": "110250%20CI0100"
+},{
+    "premise_id_str": "3489424610",
     "zip": "32309",
-    "address": "2346%20CLARE%20DR"
-}{
-    "premise_id_str": "4873524610",
-    "zip": "32309",
-    "address": "2221%20MONAGHAN%20DR"
-}{
-    "premise_id_str": "9773524610",
-    "zip": "32309",
-    "address": "2202%20KILLARNEY%20WAY"
-}{
+    "address": "3412%20MAHONEY%20DR",
+    "taxId": "110250%20CI0120"
+},{
     "premise_id_str": "5773524610",
     "zip": "32309",
-    "address": "2217%20MONAGHAN%20DR"
-}{
+    "address": "2217%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0020"
+},{
+    "premise_id_str": "4873524610",
+    "zip": "32309",
+    "address": "2221%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0040"
+},{
     "premise_id_str": "9473524610",
     "zip": "32309",
-    "address": "2225%20MONAGHAN%20DR"
-}{
+    "address": "2225%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0050"
+},{
     "premise_id_str": "0770134610",
     "zip": "32309",
-    "address": "3054%20OBRIEN%20DR"
-}{
-    "premise_id_str": "4400234610",
-    "zip": "32309",
-    "address": "3062%20OBRIEN%20DR"
-}{
-    "premise_id_str": "1997134610",
-    "zip": "32309",
-    "address": "3068%20OBRIEN%20DR"
-}{
+    "address": "3054%20OBRIEN%20DR",
+    "taxId": "110250%20CN0190"
+},{
     "premise_id_str": "8393134610",
     "zip": "32309",
-    "address": "3058%20OBRIEN%20DR"
-}{
+    "address": "3058%20OBRIEN%20DR",
+    "taxId": "110250%20CN0200"
+},{
+    "premise_id_str": "4400234610",
+    "zip": "32309",
+    "address": "3062%20OBRIEN%20DR",
+    "taxId": "110250%20CN0210"
+},{
+    "premise_id_str": "1997134610",
+    "zip": "32309",
+    "address": "3068%20OBRIEN%20DR",
+    "taxId": "110250%20CN0220"
+},{
     "premise_id_str": "2120234610",
     "zip": "32309",
-    "address": "3074%20OBRIEN%20DR"
-}{
-    "premise_id_str": "1418134610",
-    "zip": "32309",
-    "address": "3086%20OBRIEN%20DR"
-}{
+    "address": "3074%20OBRIEN%20DR",
+    "taxId": "110250%20CN0230"
+},{
     "premise_id_str": "5711134610",
     "zip": "32309",
-    "address": "3082%20OBRIEN%20DR"
-}{
+    "address": "3082%20OBRIEN%20DR",
+    "taxId": "110250%20CN0250"
+},{
+    "premise_id_str": "1418134610",
+    "zip": "32309",
+    "address": "3086%20OBRIEN%20DR",
+    "taxId": "110250%20CN0260"
+},{
     "premise_id_str": "0513524610",
     "zip": "32309",
-    "address": "2656%20BANTRY%20BAY%20DR"
-}{
+    "address": "2656%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20CN0270"
+},{
     "premise_id_str": "7775134610",
     "zip": "32309",
-    "address": "3094%20OBRIEN%20DR"
-}{
+    "address": "3094%20OBRIEN%20DR",
+    "taxId": "110250%20CN0280"
+},{
     "premise_id_str": "6925134610",
     "zip": "32309",
-    "address": "4994%20KEOHONE%20DR"
-}{
+    "address": "4994%20KEOHONE%20DR",
+    "taxId": "110250%20CO0010"
+},{
     "premise_id_str": "6162134610",
     "zip": "32309",
-    "address": "3020%20GREY%20ABBEY%20CT"
-}{
-    "premise_id_str": "1724134610",
-    "zip": "32309",
-    "address": "3012%20GREY%20ABBEY%20CT"
-}{
-    "premise_id_str": "5190134610",
-    "zip": "32309",
-    "address": "3016%20GREY%20ABBEY%20CT"
-}{
+    "address": "3020%20GREY%20ABBEY%20CT",
+    "taxId": "110250%20CO0030"
+},{
     "premise_id_str": "0270134610",
     "zip": "32309",
-    "address": "4990%20KEOHONE%20DR"
-}{
+    "address": "4990%20KEOHONE%20DR",
+    "taxId": "110250%20CO0020"
+},{
     "premise_id_str": "1942134610",
     "zip": "32309",
-    "address": "3008%20GREY%20ABBEY%20CT"
-}{
-    "premise_id_str": "8572134610",
+    "address": "3008%20GREY%20ABBEY%20CT",
+    "taxId": "110250%20CO0060"
+},{
+    "premise_id_str": "1724134610",
     "zip": "32309",
-    "address": "3009%20GREY%20ABBEY%20CT"
-}{
-    "premise_id_str": "9689134610",
-    "zip": "32309",
-    "address": "3021%20GREY%20ABBEY%20CT"
-}{
+    "address": "3012%20GREY%20ABBEY%20CT",
+    "taxId": "110250%20CO0050"
+},{
     "premise_id_str": "5863134610",
     "zip": "32309",
-    "address": "3013%20GREY%20ABBEY%20CT"
-}{
+    "address": "3013%20GREY%20ABBEY%20CT",
+    "taxId": "110250%20CO0080"
+},{
+    "premise_id_str": "8572134610",
+    "zip": "32309",
+    "address": "3009%20GREY%20ABBEY%20CT",
+    "taxId": "110250%20CO0070"
+},{
     "premise_id_str": "5290134610",
     "zip": "32309",
-    "address": "3017%20GREY%20ABBEY%20CT"
-}{
+    "address": "3017%20GREY%20ABBEY%20CT",
+    "taxId": "110250%20CO0090"
+},{
+    "premise_id_str": "9689134610",
+    "zip": "32309",
+    "address": "3021%20GREY%20ABBEY%20CT",
+    "taxId": "110250%20CO0100"
+},{
     "premise_id_str": "1131134610",
     "zip": "32309",
-    "address": "3022%20OBRIEN%20DR"
-}{
-    "premise_id_str": "5789424610",
-    "zip": "32309",
-    "address": "2821%20OHARA%20DR"
-}{
-    "premise_id_str": "3689424610",
-    "zip": "32309",
-    "address": "2825%20OHARA%20DR"
-}{
+    "address": "3022%20OBRIEN%20DR",
+    "taxId": "110250%20CO0110"
+},{
     "premise_id_str": "6320134610",
     "zip": "32309",
-    "address": "3016%20OBRIEN%20DR"
-}{
+    "address": "3016%20OBRIEN%20DR",
+    "taxId": "110250%20CO0120"
+},{
+    "premise_id_str": "3689424610",
+    "zip": "32309",
+    "address": "2825%20OHARA%20DR",
+    "taxId": "110250%20CS0030"
+},{
+    "premise_id_str": "5789424610",
+    "zip": "32309",
+    "address": "2821%20OHARA%20DR",
+    "taxId": "110250%20CS0020"
+},{
     "premise_id_str": "6789424610",
     "zip": "32309",
-    "address": "2833%20OHARA%20DR"
-}{
-    "premise_id_str": "6589424610",
-    "zip": "32309",
-    "address": "2837%20OHARA%20DR"
-}{
+    "address": "2833%20OHARA%20DR",
+    "taxId": "110250%20CS0050"
+},{
     "premise_id_str": "0099424610",
     "zip": "32309",
-    "address": "2841%20OHARA%20DR"
-}{
-    "premise_id_str": "7689424610",
+    "address": "2841%20OHARA%20DR",
+    "taxId": "110250%20CS0070"
+},{
+    "premise_id_str": "6589424610",
     "zip": "32309",
-    "address": "2845%20OHARA%20DR"
-}{
-    "premise_id_str": "0789424610",
-    "zip": "32309",
-    "address": "2853%20OHARA%20DR"
-}{
+    "address": "2837%20OHARA%20DR",
+    "taxId": "110250%20CS0060"
+},{
     "premise_id_str": "8689424610",
     "zip": "32309",
-    "address": "2849%20OHARA%20DR"
-}{
+    "address": "2849%20OHARA%20DR",
+    "taxId": "110250%20CS0090"
+},{
+    "premise_id_str": "7689424610",
+    "zip": "32309",
+    "address": "2845%20OHARA%20DR",
+    "taxId": "110250%20CS0080"
+},{
+    "premise_id_str": "0789424610",
+    "zip": "32309",
+    "address": "2853%20OHARA%20DR",
+    "taxId": "110250%20CS0100"
+},{
     "premise_id_str": "1789424610",
     "zip": "32309",
-    "address": "2857%20OHARA%20DR"
-}{
-    "premise_id_str": "4789424610",
-    "zip": "32309",
-    "address": "2861%20OHARA%20DR"
-}{
+    "address": "2857%20OHARA%20DR",
+    "taxId": "110250%20CS0110"
+},{
     "premise_id_str": "4989424610",
     "zip": "32309",
-    "address": "3500%20FOGARTY%20DR"
-}{
+    "address": "3500%20FOGARTY%20DR",
+    "taxId": "110250%20CS0130"
+},{
+    "premise_id_str": "4789424610",
+    "zip": "32309",
+    "address": "2861%20OHARA%20DR",
+    "taxId": "110250%20CS0120"
+},{
     "premise_id_str": "8504034610",
     "zip": "32303",
-    "address": "804%20ASHLYN%20FOREST%20DR"
-}{
+    "address": "804%20ASHLYN%20FOREST%20DR",
+    "taxId": "110250%20CT0011"
+},{
     "premise_id_str": "5858424610",
     "zip": "32309",
-    "address": "2305%20MERRIGAN%20PL"
-}{
-    "premise_id_str": "4567234610",
-    "zip": "32309",
-    "address": "3853%20MORIARITY%20CT"
-}{
+    "address": "2305%20MERRIGAN%20PL",
+    "taxId": "110250%20CT0012"
+},{
     "premise_id_str": "2042234610",
     "zip": "32309",
-    "address": "3855%20MORIARITY%20CT"
-}{
+    "address": "3855%20MORIARITY%20CT",
+    "taxId": "110250%203Y0290"
+},{
     "premise_id_str": "1521234610",
     "zip": "32309",
-    "address": "3851%20MORIARITY%20CT"
-}{
+    "address": "3851%20MORIARITY%20CT",
+    "taxId": "110250%203Y0310"
+},{
+    "premise_id_str": "4567234610",
+    "zip": "32309",
+    "address": "3853%20MORIARITY%20CT",
+    "taxId": "110250%203Y0300"
+},{
     "premise_id_str": "0707524610",
     "zip": "32309",
-    "address": "3856%20MORIARITY%20CT"
-}{
+    "address": "3856%20MORIARITY%20CT",
+    "taxId": "110250%203Y0320"
+},{
     "premise_id_str": "9407524610",
     "zip": "32309",
-    "address": "3860%20MORIARITY%20CT"
-}{
+    "address": "3860%20MORIARITY%20CT",
+    "taxId": "110250%203Y0340"
+},{
     "premise_id_str": "3707524610",
     "zip": "32309",
-    "address": "3864%20MORIARITY%20CT"
-}{
+    "address": "3864%20MORIARITY%20CT",
+    "taxId": "110250%203Y0360"
+},{
     "premise_id_str": "8124034610",
     "zip": "32309",
-    "address": "3866%20MORIARITY%20CT"
-}{
+    "address": "3866%20MORIARITY%20CT",
+    "taxId": "110250%203Y0370"
+},{
     "premise_id_str": "7927524610",
     "zip": "32309",
-    "address": "3146%20SHAMROCK%20ST%20S"
-}{
-    "premise_id_str": "9427524610",
-    "zip": "32309",
-    "address": "3701%20GALWAY%20DR"
-}{
-    "premise_id_str": "0627524610",
-    "zip": "32309",
-    "address": "3705%20GALWAY%20DR"
-}{
+    "address": "3146%20SHAMROCK%20ST%20S",
+    "taxId": "110250%20AA0010"
+},{
     "premise_id_str": "2627524610",
     "zip": "32309",
-    "address": "3709%20GALWAY%20DR"
-}{
-    "premise_id_str": "9527524610",
+    "address": "3709%20GALWAY%20DR",
+    "taxId": "110250%20AA0040"
+},{
+    "premise_id_str": "0627524610",
     "zip": "32309",
-    "address": "3717%20GALWAY%20DR"
-}{
-    "premise_id_str": "3137524610",
-    "zip": "32309",
-    "address": "3721%20GALWAY%20DR"
-}{
+    "address": "3705%20GALWAY%20DR",
+    "taxId": "110250%20AA0030"
+},{
     "premise_id_str": "3237524610",
     "zip": "32309",
-    "address": "3725%20GALWAY%20DR"
-}{
-    "premise_id_str": "1205034610",
+    "address": "3725%20GALWAY%20DR",
+    "taxId": "110250%20AA0080"
+},{
+    "premise_id_str": "3137524610",
     "zip": "32309",
-    "address": "3729%20GALWAY%20DR"
-}{
+    "address": "3721%20GALWAY%20DR",
+    "taxId": "110250%20AA0070"
+},{
+    "premise_id_str": "9527524610",
+    "zip": "32309",
+    "address": "3717%20GALWAY%20DR",
+    "taxId": "110250%20AA0060"
+},{
+    "premise_id_str": "9427524610",
+    "zip": "32309",
+    "address": "3701%20GALWAY%20DR",
+    "taxId": "110250%20AA0020"
+},{
     "premise_id_str": "4637524610",
     "zip": "32309",
-    "address": "3733%20GALWAY%20DR"
-}{
-    "premise_id_str": "0047524610",
-    "zip": "32309",
-    "address": "3091%20WATERFORD%20DR"
-}{
+    "address": "3733%20GALWAY%20DR",
+    "taxId": "110250%20AA0100"
+},{
     "premise_id_str": "5727524610",
     "zip": "32309",
-    "address": "3087%20WATERFORD%20DR"
-}{
+    "address": "3087%20WATERFORD%20DR",
+    "taxId": "110250%20AA0110"
+},{
+    "premise_id_str": "1205034610",
+    "zip": "32309",
+    "address": "3729%20GALWAY%20DR",
+    "taxId": "110250%20AA0090"
+},{
+    "premise_id_str": "0047524610",
+    "zip": "32309",
+    "address": "3091%20WATERFORD%20DR",
+    "taxId": "110250%20AA0120"
+},{
     "premise_id_str": "7041034610",
     "zip": "32309",
-    "address": "3095%20WATERFORD%20DR"
-}{
-    "premise_id_str": "7573524610",
-    "zip": "32309",
-    "address": "2233%20MONAGHAN%20DR"
-}{
+    "address": "3095%20WATERFORD%20DR",
+    "taxId": "110250%20AA0130"
+},{
     "premise_id_str": "1673524610",
     "zip": "32309",
-    "address": "2229%20MONAGHAN%20DR"
-}{
+    "address": "2229%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0060"
+},{
+    "premise_id_str": "7573524610",
+    "zip": "32309",
+    "address": "2233%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0070"
+},{
     "premise_id_str": "2473524610",
     "zip": "32309",
-    "address": "2237%20MONAGHAN%20DR"
-}{
+    "address": "2237%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0080"
+},{
     "premise_id_str": "9573524610",
     "zip": "32309",
-    "address": "2241%20MONAGHAN%20DR"
-}{
+    "address": "2241%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0090"
+},{
     "premise_id_str": "6773524610",
     "zip": "32309",
-    "address": "2245%20MONAGHAN%20DR"
-}{
-    "premise_id_str": "3283524610",
-    "zip": "32309",
-    "address": "2253%20MONAGHAN%20DR"
-}{
+    "address": "2245%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0100"
+},{
     "premise_id_str": "5573524610",
     "zip": "32309",
-    "address": "2249%20MONAGHAN%20DR"
-}{
+    "address": "2249%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0110"
+},{
+    "premise_id_str": "3283524610",
+    "zip": "32309",
+    "address": "2253%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0120"
+},{
     "premise_id_str": "7673524610",
     "zip": "32309",
-    "address": "2257%20MONAGHAN%20DR"
-}{
+    "address": "2257%20MONAGHAN%20DR",
+    "taxId": "110250%20%20B0130"
+},{
     "premise_id_str": "3673524610",
     "zip": "32309",
-    "address": "2242%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "1473524610",
-    "zip": "32309",
-    "address": "2230%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "0473524610",
-    "zip": "32309",
-    "address": "2234%20KILLARNEY%20WAY"
-}{
+    "address": "2242%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0150"
+},{
     "premise_id_str": "8473524610",
     "zip": "32309",
-    "address": "2238%20KILLARNEY%20WAY"
-}{
+    "address": "2238%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0160"
+},{
+    "premise_id_str": "0473524610",
+    "zip": "32309",
+    "address": "2234%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0170"
+},{
+    "premise_id_str": "1473524610",
+    "zip": "32309",
+    "address": "2230%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0180"
+},{
     "premise_id_str": "6873524610",
     "zip": "32309",
-    "address": "2226%20KILLARNEY%20WAY"
-}{
+    "address": "2226%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0190"
+},{
     "premise_id_str": "2283524610",
     "zip": "32309",
-    "address": "2222%20KILLARNEY%20WAY"
-}{
+    "address": "2222%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0200"
+},{
     "premise_id_str": "0283524610",
     "zip": "32309",
-    "address": "2218%20KILLARNEY%20WAY"
-}{
+    "address": "2218%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0210"
+},{
     "premise_id_str": "3873524610",
     "zip": "32309",
-    "address": "2210%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "9360134610",
-    "zip": "32309",
-    "address": "2206%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "8104524610",
-    "zip": "32309",
-    "address": "2121%20KILLARNEY%20WAY%20STE%20G"
-}{
+    "address": "2210%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0230"
+},{
     "premise_id_str": "4183524610",
     "zip": "32309",
-    "address": "3526%20LIMERICK%20DR"
-}{
+    "address": "3526%20LIMERICK%20DR",
+    "taxId": "110250%20%20C0020"
+},{
+    "premise_id_str": "8104524610",
+    "zip": "32309",
+    "address": "2121%20KILLARNEY%20WAY%20STE%20G",
+    "taxId": "110250%20%20C0010"
+},{
+    "premise_id_str": "9360134610",
+    "zip": "32309",
+    "address": "2206%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20B0240"
+},{
     "premise_id_str": "8865134610",
     "zip": "32309",
-    "address": "3012%20OBRIEN%20DR"
-}{
-    "premise_id_str": "5777234610",
-    "zip": "32309",
-    "address": "3013%20OBRIEN%20DR"
-}{
+    "address": "3012%20OBRIEN%20DR",
+    "taxId": "110250%20CO0130"
+},{
     "premise_id_str": "2706334610",
     "zip": "32309",
-    "address": "3009%20OBRIEN%20DR"
-}{
+    "address": "3009%20OBRIEN%20DR",
+    "taxId": "110250%20CO0150"
+},{
+    "premise_id_str": "5777234610",
+    "zip": "32309",
+    "address": "3013%20OBRIEN%20DR",
+    "taxId": "110250%20CO0160"
+},{
     "premise_id_str": "9573334610",
     "zip": "32309",
-    "address": "3017%20OBRIEN%20DR"
-}{
-    "premise_id_str": "8603134610",
-    "zip": "32309",
-    "address": "3021%20OBRIEN%20DR"
-}{
-    "premise_id_str": "6610134610",
-    "zip": "32309",
-    "address": "3029%20OBRIEN%20DR"
-}{
+    "address": "3017%20OBRIEN%20DR",
+    "taxId": "110250%20CO0170"
+},{
     "premise_id_str": "3107134610",
     "zip": "32309",
-    "address": "3025%20OBRIEN%20DR"
-}{
+    "address": "3025%20OBRIEN%20DR",
+    "taxId": "110250%20CO0190"
+},{
+    "premise_id_str": "6610134610",
+    "zip": "32309",
+    "address": "3029%20OBRIEN%20DR",
+    "taxId": "110250%20CO0200"
+},{
     "premise_id_str": "7423134610",
     "zip": "32309",
-    "address": "3033%20OBRIEN%20DR"
-}{
+    "address": "3033%20OBRIEN%20DR",
+    "taxId": "110250%20CO0210"
+},{
+    "premise_id_str": "8603134610",
+    "zip": "32309",
+    "address": "3021%20OBRIEN%20DR",
+    "taxId": "110250%20CO0180"
+},{
     "premise_id_str": "2983134610",
     "zip": "32309",
-    "address": "3037%20OBRIEN%20DR"
-}{
-    "premise_id_str": "3990134610",
-    "zip": "32309",
-    "address": "3045%20OBRIEN%20DR"
-}{
-    "premise_id_str": "5751134610",
-    "zip": "32309",
-    "address": "3041%20OBRIEN%20DR"
-}{
-    "premise_id_str": "0673524610",
-    "zip": "32309",
-    "address": "3521%20OFFALY%20CT"
-}{
+    "address": "3037%20OBRIEN%20DR",
+    "taxId": "110250%20CO0220"
+},{
     "premise_id_str": "0583524610",
     "zip": "32309",
-    "address": "3501%20LIMERICK%20DR"
-}{
+    "address": "3501%20LIMERICK%20DR",
+    "taxId": "110250%20%20D0120"
+},{
+    "premise_id_str": "3990134610",
+    "zip": "32309",
+    "address": "3045%20OBRIEN%20DR",
+    "taxId": "110250%20CO0240"
+},{
+    "premise_id_str": "0673524610",
+    "zip": "32309",
+    "address": "3521%20OFFALY%20CT",
+    "taxId": "110250%20%20D0130"
+},{
     "premise_id_str": "5873524610",
     "zip": "32309",
-    "address": "3519%20OFFALY%20CT"
-}{
+    "address": "3519%20OFFALY%20CT",
+    "taxId": "110250%20%20D0140"
+},{
+    "premise_id_str": "5751134610",
+    "zip": "32309",
+    "address": "3041%20OBRIEN%20DR",
+    "taxId": "110250%20CO0230"
+},{
     "premise_id_str": "4683524610",
     "zip": "32309",
-    "address": "3515%20OFFALY%20CT"
-}{
+    "address": "3515%20OFFALY%20CT",
+    "taxId": "110250%20%20D0150"
+},{
     "premise_id_str": "7973524610",
     "zip": "32309",
-    "address": "3510%20OFFALY%20CT"
-}{
+    "address": "3510%20OFFALY%20CT",
+    "taxId": "110250%20%20D0160"
+},{
     "premise_id_str": "1283524610",
     "zip": "32309",
-    "address": "3504%20OFFALY%20CT"
-}{
+    "address": "3504%20OFFALY%20CT",
+    "taxId": "110250%20%20D0180"
+},{
     "premise_id_str": "4973524610",
     "zip": "32309",
-    "address": "3506%20OFFALY%20CT"
-}{
+    "address": "3506%20OFFALY%20CT",
+    "taxId": "110250%20%20D0170"
+},{
     "premise_id_str": "8783524610",
     "zip": "32309",
-    "address": "3525%20LIMERICK%20DR"
-}{
-    "premise_id_str": "0858424610",
-    "zip": "32309",
-    "address": "2349%20MERRIGAN%20PL"
-}{
+    "address": "3525%20LIMERICK%20DR",
+    "taxId": "110250%20%20D0210"
+},{
     "premise_id_str": "1858424610",
     "zip": "32309",
-    "address": "2355%20MERRIGAN%20PL"
-}{
+    "address": "2355%20MERRIGAN%20PL",
+    "taxId": "110250%20CT0043"
+},{
+    "premise_id_str": "0858424610",
+    "zip": "32309",
+    "address": "2349%20MERRIGAN%20PL",
+    "taxId": "110250%20CT0040"
+},{
     "premise_id_str": "5258424610",
     "zip": "32309",
-    "address": "2365%20MERRIGAN%20PL"
-}{
-    "premise_id_str": "8319524610",
-    "zip": "32309",
-    "address": "3505%20KILKENNY%20DR%20E"
-}{
+    "address": "2365%20MERRIGAN%20PL",
+    "taxId": "110250%20CT0050"
+},{
     "premise_id_str": "4683642604",
     "zip": "32312",
-    "address": "9917%20BUCK%20POINT%20RD"
-}{
-    "premise_id_str": "3319524610",
+    "address": "9917%20BUCK%20POINT%20RD",
+    "taxId": "110250%20CT0052"
+},{
+    "premise_id_str": "8319524610",
     "zip": "32309",
-    "address": "3517%20KILKENNY%20DR%20E"
-}{
+    "address": "3505%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0150"
+},{
     "premise_id_str": "6119524610",
     "zip": "32309",
-    "address": "3513%20KILKENNY%20DR%20E"
-}{
-    "premise_id_str": "6219524610",
+    "address": "3513%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0170"
+},{
+    "premise_id_str": "3319524610",
     "zip": "32309",
-    "address": "3509%20KILKENNY%20DR%20E"
-}{
+    "address": "3517%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0180"
+},{
     "premise_id_str": "0519524610",
     "zip": "32309",
-    "address": "2348%20KILKENNY%20DR%20E"
-}{
+    "address": "2348%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0190"
+},{
     "premise_id_str": "2319524610",
     "zip": "32309",
-    "address": "2344%20KILKENNY%20DR%20E"
-}{
+    "address": "2344%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0200"
+},{
     "premise_id_str": "8409524610",
     "zip": "32309",
-    "address": "2340%20KILKENNY%20DR%20E"
-}{
+    "address": "2340%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0210"
+},{
     "premise_id_str": "4609524610",
     "zip": "32309",
-    "address": "2332%20KILKENNY%20DR%20E"
-}{
-    "premise_id_str": "2419524610",
-    "zip": "32309",
-    "address": "2317%20CLARE%20DR"
-}{
+    "address": "2332%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0230"
+},{
     "premise_id_str": "2219524610",
     "zip": "32309",
-    "address": "2321%20CLARE%20DR"
-}{
+    "address": "2321%20CLARE%20DR",
+    "taxId": "110250%20%20J0030"
+},{
     "premise_id_str": "1419524610",
     "zip": "32309",
-    "address": "2325%20CLARE%20DR"
-}{
+    "address": "2325%20CLARE%20DR",
+    "taxId": "110250%20%20J0040"
+},{
     "premise_id_str": "8032334610",
     "zip": "32308",
-    "address": "1335%20HOLLOW%20OAK%20CIR"
-}{
+    "address": "1335%20HOLLOW%20OAK%20CIR",
+    "taxId": "110250%20%20J0050"
+},{
     "premise_id_str": "6909524610",
     "zip": "32309",
-    "address": "2333%20CLARE%20DR"
-}{
+    "address": "2333%20CLARE%20DR",
+    "taxId": "110250%20%20J0060"
+},{
+    "premise_id_str": "6219524610",
+    "zip": "32309",
+    "address": "3509%20KILKENNY%20DR%20E",
+    "taxId": "110250%20%20I0160"
+},{
     "premise_id_str": "8709524610",
     "zip": "32309",
-    "address": "2342%20CLARE%20DR"
-}{
+    "address": "2342%20CLARE%20DR",
+    "taxId": "110250%20%20J0070"
+},{
     "premise_id_str": "4424034610",
     "zip": "32309",
-    "address": "2901%20KEW%20CT"
-}{
+    "address": "2901%20KEW%20CT",
+    "taxId": "110250%20DL0110"
+},{
     "premise_id_str": "4654034610",
     "zip": "32309",
-    "address": "2905%20KEW%20CT"
-}{
+    "address": "2905%20KEW%20CT",
+    "taxId": "110250%20DL0120"
+},{
     "premise_id_str": "5940134610",
     "zip": "32309",
-    "address": "2910%20KEW%20CT"
-}{
+    "address": "2910%20KEW%20CT",
+    "taxId": "110250%20DL0140"
+},{
     "premise_id_str": "3584034610",
     "zip": "32309",
-    "address": "3577%20STOWE%20TRCE"
-}{
+    "address": "3577%20STOWE%20TRCE",
+    "taxId": "110250%20DL0160"
+},{
     "premise_id_str": "1179034610",
     "zip": "32309",
-    "address": "2905%20GIVERNY%20CIR"
-}{
+    "address": "2905%20GIVERNY%20CIR",
+    "taxId": "110250%20DM0010"
+},{
     "premise_id_str": "5228034610",
     "zip": "32309",
-    "address": "2921%20GIVERNY%20CIR"
-}{
-    "premise_id_str": "6193034610",
-    "zip": "32309",
-    "address": "2917%20GIVERNY%20CIR"
-}{
+    "address": "2921%20GIVERNY%20CIR",
+    "taxId": "110250%20DM0050"
+},{
     "premise_id_str": "1027134610",
     "zip": "32309",
-    "address": "3610%20BELLINGRADE%20CT"
-}{
-    "premise_id_str": "0677134610",
-    "zip": "32309",
-    "address": "3602%20BELLINGRADE%20CT"
-}{
+    "address": "3610%20BELLINGRADE%20CT",
+    "taxId": "110250%20DM0080"
+},{
     "premise_id_str": "6377134610",
     "zip": "32309",
-    "address": "3606%20BELLINGRADE%20CT"
-}{
+    "address": "3606%20BELLINGRADE%20CT",
+    "taxId": "110250%20DM0090"
+},{
+    "premise_id_str": "0677134610",
+    "zip": "32309",
+    "address": "3602%20BELLINGRADE%20CT",
+    "taxId": "110250%20DM0100"
+},{
     "premise_id_str": "6679034610",
     "zip": "32309",
-    "address": "3601%20BELLINGRADE%20CT"
-}{
+    "address": "3601%20BELLINGRADE%20CT",
+    "taxId": "110250%20DM0110"
+},{
     "premise_id_str": "9164028559",
     "zip": "32311",
-    "address": "3240%20APPLETON%20DR"
-}{
-    "premise_id_str": "3896524610",
-    "zip": "32309",
-    "address": "3857%20MORIARITY%20CT"
-}{
+    "address": "3240%20APPLETON%20DR",
+    "taxId": "110250%20DM0120"
+},{
     "premise_id_str": "1973524610",
     "zip": "32309",
-    "address": "3522%20LIMERICK%20DR"
-}{
+    "address": "3522%20LIMERICK%20DR",
+    "taxId": "110250%20%20C0030"
+},{
     "premise_id_str": "2083524610",
     "zip": "32309",
-    "address": "3518%20LIMERICK%20DR"
-}{
-    "premise_id_str": "6083524610",
+    "address": "3518%20LIMERICK%20DR",
+    "taxId": "110250%20%20C0040"
+},{
+    "premise_id_str": "3896524610",
     "zip": "32309",
-    "address": "3510%20LIMERICK%20DR"
-}{
+    "address": "3857%20MORIARITY%20CT",
+    "taxId": "110250%203Y0280"
+},{
     "premise_id_str": "7283524610",
     "zip": "32309",
-    "address": "3514%20LIMERICK%20DR"
-}{
+    "address": "3514%20LIMERICK%20DR",
+    "taxId": "110250%20%20C0050"
+},{
+    "premise_id_str": "6083524610",
+    "zip": "32309",
+    "address": "3510%20LIMERICK%20DR",
+    "taxId": "110250%20%20C0060"
+},{
     "premise_id_str": "6283524610",
     "zip": "32309",
-    "address": "3506%20LIMERICK%20DR"
-}{
+    "address": "3506%20LIMERICK%20DR",
+    "taxId": "110250%20%20C0070"
+},{
     "premise_id_str": "2583524610",
     "zip": "32309",
-    "address": "3502%20LIMERICK%20DR"
-}{
-    "premise_id_str": "6473524610",
-    "zip": "32309",
-    "address": "2205%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5688134610",
-    "zip": "32309",
-    "address": "2211%20KILLARNEY%20WAY"
-}{
+    "address": "3502%20LIMERICK%20DR",
+    "taxId": "110250%20%20C0080"
+},{
     "premise_id_str": "2573524610",
     "zip": "32309",
-    "address": "2213%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "2873524610",
+    "address": "2213%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20D0040"
+},{
+    "premise_id_str": "5688134610",
     "zip": "32309",
-    "address": "3524%20WESTFORD%20DR"
-}{
+    "address": "2211%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20D0030"
+},{
+    "premise_id_str": "6473524610",
+    "zip": "32309",
+    "address": "2205%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20D0020"
+},{
     "premise_id_str": "9183524610",
     "zip": "32309",
-    "address": "3518%20WESTFORD%20DR"
-}{
+    "address": "3518%20WESTFORD%20DR",
+    "taxId": "110250%20%20D0060"
+},{
     "premise_id_str": "1873524610",
     "zip": "32309",
-    "address": "3514%20WESTFORD%20DR"
-}{
+    "address": "3514%20WESTFORD%20DR",
+    "taxId": "110250%20%20D0070"
+},{
+    "premise_id_str": "2873524610",
+    "zip": "32309",
+    "address": "3524%20WESTFORD%20DR",
+    "taxId": "110250%20%20D0050"
+},{
     "premise_id_str": "3083524610",
     "zip": "32309",
-    "address": "3510%20WESTFORD%20DR"
-}{
-    "premise_id_str": "0183524610",
-    "zip": "32309",
-    "address": "3506%20WESTFORD%20DR"
-}{
+    "address": "3510%20WESTFORD%20DR",
+    "taxId": "110250%20%20D0080"
+},{
     "premise_id_str": "3773524610",
     "zip": "32309",
-    "address": "2210%20LIMERICK%20DR"
-}{
+    "address": "2210%20LIMERICK%20DR",
+    "taxId": "110250%20%20D0100"
+},{
     "premise_id_str": "3183524610",
     "zip": "32309",
-    "address": "2206%20LIMERICK%20DR"
-}{
+    "address": "2206%20LIMERICK%20DR",
+    "taxId": "110250%20%20D0110"
+},{
     "premise_id_str": "1813524610",
     "zip": "32309",
-    "address": "3740%20SHAMROCK%20ST%20W"
-}{
+    "address": "3740%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AC0110"
+},{
     "premise_id_str": "7513524610",
     "zip": "32309",
-    "address": "3736%20SHAMROCK%20ST%20W"
-}{
+    "address": "3736%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AC0130"
+},{
     "premise_id_str": "6502624610",
     "zip": "32309",
-    "address": "3745%20SHAMROCK%20ST%20W"
-}{
+    "address": "3745%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AD0090"
+},{
     "premise_id_str": "5283524610",
     "zip": "32309",
-    "address": "2229%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "6183524610",
-    "zip": "32309",
-    "address": "2241%20KILLARNEY%20WAY"
-}{
+    "address": "2229%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20E0020"
+},{
     "premise_id_str": "7473524610",
     "zip": "32309",
-    "address": "2233%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5473524610",
+    "address": "2233%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20E0030"
+},{
+    "premise_id_str": "6183524610",
     "zip": "32309",
-    "address": "2237%20KILLARNEY%20WAY"
-}{
+    "address": "2241%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20E0050"
+},{
     "premise_id_str": "0573524610",
     "zip": "32309",
-    "address": "2245%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "3573524610",
-    "zip": "32309",
-    "address": "2249%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "3809524610",
-    "zip": "32309",
-    "address": "2326%20KILKENNY%20DR%20W"
-}{
+    "address": "2245%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20E0060"
+},{
     "premise_id_str": "7183524610",
     "zip": "32309",
-    "address": "2301%20KILLARNEY%20WAY"
-}{
+    "address": "2301%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20E0090"
+},{
+    "premise_id_str": "3809524610",
+    "zip": "32309",
+    "address": "2326%20KILKENNY%20DR%20W",
+    "taxId": "110250%20%20E0100"
+},{
     "premise_id_str": "5509524610",
     "zip": "32309",
-    "address": "2318%20KILKENNY%20DR%20W"
-}{
-    "premise_id_str": "6709524610",
-    "zip": "32309",
-    "address": "2306%20KILKENNY%20DR%20W"
-}{
-    "premise_id_str": "7409524610",
-    "zip": "32309",
-    "address": "2310%20KILKENNY%20DR%20W"
-}{
+    "address": "2318%20KILKENNY%20DR%20W",
+    "taxId": "110250%20%20E0120"
+},{
     "premise_id_str": "0019524610",
     "zip": "32309",
-    "address": "2314%20KILKENNY%20DR%20W"
-}{
+    "address": "2314%20KILKENNY%20DR%20W",
+    "taxId": "110250%20%20E0130"
+},{
+    "premise_id_str": "7409524610",
+    "zip": "32309",
+    "address": "2310%20KILKENNY%20DR%20W",
+    "taxId": "110250%20%20E0140"
+},{
+    "premise_id_str": "6709524610",
+    "zip": "32309",
+    "address": "2306%20KILKENNY%20DR%20W",
+    "taxId": "110250%20%20E0150"
+},{
     "premise_id_str": "1019524610",
     "zip": "32309",
-    "address": "2302%20KILKENNY%20DR%20W"
-}{
+    "address": "2302%20KILKENNY%20DR%20W",
+    "taxId": "110250%20%20E0160"
+},{
     "premise_id_str": "7809524610",
     "zip": "32309",
-    "address": "2300%20KILKENNY%20DR%20W"
-}{
+    "address": "2300%20KILKENNY%20DR%20W",
+    "taxId": "110250%20%20E0170"
+},{
     "premise_id_str": "7333524610",
     "zip": "32312",
-    "address": "1009%20WAVERLY%20RD"
-}{
+    "address": "1009%20WAVERLY%20RD",
+    "taxId": "110250%20%20E0190"
+},{
     "premise_id_str": "0319524610",
     "zip": "32309",
-    "address": "2220%20LIMERICK%20DR"
-}{
+    "address": "2220%20LIMERICK%20DR",
+    "taxId": "110250%20%20E0210"
+},{
     "premise_id_str": "8619524610",
     "zip": "32309",
-    "address": "2413%20KILLARNEY%20WAY"
-}{
+    "address": "2413%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0040"
+},{
     "premise_id_str": "0809524610",
     "zip": "32309",
-    "address": "2501%20KILLARNEY%20WAY"
-}{
+    "address": "2501%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0050"
+},{
     "premise_id_str": "3419524610",
     "zip": "32309",
-    "address": "2505%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "9419524610",
-    "zip": "32309",
-    "address": "2509%20KILLARNEY%20WAY"
-}{
+    "address": "2505%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0060"
+},{
     "premise_id_str": "6019524610",
     "zip": "32309",
-    "address": "2513%20KILLARNEY%20WAY"
-}{
+    "address": "2513%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0080"
+},{
+    "premise_id_str": "9419524610",
+    "zip": "32309",
+    "address": "2509%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0070"
+},{
     "premise_id_str": "9909524610",
     "zip": "32309",
-    "address": "2517%20KILLARNEY%20WAY"
-}{
+    "address": "2517%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0090"
+},{
     "premise_id_str": "0413524610",
     "zip": "32309",
-    "address": "4064%20ROSCREA%20DR"
-}{
+    "address": "4064%20ROSCREA%20DR",
+    "taxId": "110250%20AK0070"
+},{
     "premise_id_str": "0213524610",
     "zip": "32309",
-    "address": "4056%20ROSCREA%20DR"
-}{
-    "premise_id_str": "6023524610",
-    "zip": "32309",
-    "address": "4052%20ROSCREA%20DR"
-}{
+    "address": "4056%20ROSCREA%20DR",
+    "taxId": "110250%20AK0090"
+},{
     "premise_id_str": "7713524610",
     "zip": "32309",
-    "address": "4048%20ROSCREA%20DR"
-}{
-    "premise_id_str": "2513524610",
+    "address": "4048%20ROSCREA%20DR",
+    "taxId": "110250%20AK0110"
+},{
+    "premise_id_str": "6023524610",
     "zip": "32309",
-    "address": "4509%20BROAD%20HAVEN%20LN"
-}{
-    "premise_id_str": "4313524610",
-    "zip": "32309",
-    "address": "4513%20BROAD%20HAVEN%20LN"
-}{
+    "address": "4052%20ROSCREA%20DR",
+    "taxId": "110250%20AK0100"
+},{
     "premise_id_str": "3903524610",
     "zip": "32309",
-    "address": "2631%20BANTRY%20BAY%20DR"
-}{
+    "address": "2631%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0140"
+},{
+    "premise_id_str": "4313524610",
+    "zip": "32309",
+    "address": "4513%20BROAD%20HAVEN%20LN",
+    "taxId": "110250%20AK0130"
+},{
     "premise_id_str": "8213524610",
     "zip": "32309",
-    "address": "2635%20BANTRY%20BAY%20DR"
-}{
+    "address": "2635%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0150"
+},{
     "premise_id_str": "8113524610",
     "zip": "32309",
-    "address": "2639%20BANTRY%20BAY%20DR"
-}{
-    "premise_id_str": "1213524610",
-    "zip": "32309",
-    "address": "2647%20BANTRY%20BAY%20DR"
-}{
+    "address": "2639%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0160"
+},{
     "premise_id_str": "9013524610",
     "zip": "32309",
-    "address": "2651%20BANTRY%20BAY%20DR"
-}{
+    "address": "2651%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0180"
+},{
     "premise_id_str": "4766477549",
     "zip": "32309",
-    "address": "6496%20TRACY%20LN"
-}{
+    "address": "6496%20TRACY%20LN",
+    "taxId": "110250%20AK0190"
+},{
+    "premise_id_str": "1213524610",
+    "zip": "32309",
+    "address": "2647%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0170"
+},{
     "premise_id_str": "9113524610",
     "zip": "32309",
-    "address": "2659%20BANTRY%20BAY%20DR"
-}{
+    "address": "2659%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0200"
+},{
     "premise_id_str": "2903524610",
     "zip": "32309",
-    "address": "2663%20BANTRY%20BAY%20DR"
-}{
+    "address": "2663%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0210"
+},{
     "premise_id_str": "3120334610",
     "zip": "32312",
-    "address": "2268%20COBB%20DR"
-}{
+    "address": "2268%20COBB%20DR",
+    "taxId": "110250%20AA0140"
+},{
     "premise_id_str": "4307524610",
     "zip": "32309",
-    "address": "4004%20KILMARTIN%20DR"
-}{
+    "address": "4004%20KILMARTIN%20DR",
+    "taxId": "110250%20AA0150"
+},{
     "premise_id_str": "9482034610",
     "zip": "32309",
-    "address": "3231%20SHAMROCK%20ST%20E"
-}{
+    "address": "3231%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0160"
+},{
     "premise_id_str": "7996524610",
     "zip": "32309",
-    "address": "3235%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "0560234610",
-    "zip": "32309",
-    "address": "3237%20ANGELS%20CLOVER%20CT"
-}{
+    "address": "3235%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0170"
+},{
     "premise_id_str": "2507524610",
     "zip": "32309",
-    "address": "3239%20ANGELS%20CLOVER%20CT"
-}{
+    "address": "3239%20ANGELS%20CLOVER%20CT",
+    "taxId": "110250%20AA0190"
+},{
+    "premise_id_str": "0560234610",
+    "zip": "32309",
+    "address": "3237%20ANGELS%20CLOVER%20CT",
+    "taxId": "110250%20AA0180"
+},{
     "premise_id_str": "4992234610",
     "zip": "32309",
-    "address": "3241%20ANGELS%20CLOVER%20CT"
-}{
+    "address": "3241%20ANGELS%20CLOVER%20CT",
+    "taxId": "110250%20AA0200"
+},{
     "premise_id_str": "6996524610",
     "zip": "32309",
-    "address": "3243%20SHAMROCK%20ST%20E"
-}{
+    "address": "3243%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0210"
+},{
     "premise_id_str": "2399234610",
     "zip": "32309",
-    "address": "3247%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "9607524610",
-    "zip": "32309",
-    "address": "3263%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "8707524610",
-    "zip": "32309",
-    "address": "3287%20SHAMROCK%20ST%20E"
-}{
+    "address": "3247%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0220"
+},{
     "premise_id_str": "1064034610",
     "zip": "32309",
-    "address": "3275%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "5103524610",
+    "address": "3275%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0250"
+},{
+    "premise_id_str": "8707524610",
     "zip": "32309",
-    "address": "3700%20LIFFORD%20CIR"
-}{
+    "address": "3287%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0260"
+},{
+    "premise_id_str": "9607524610",
+    "zip": "32309",
+    "address": "3263%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0240"
+},{
     "premise_id_str": "4070034610",
     "zip": "32309",
-    "address": "3299%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "8103524610",
+    "address": "3299%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20AA0270"
+},{
+    "premise_id_str": "5103524610",
     "zip": "32309",
-    "address": "3708%20LIFFORD%20CIR"
-}{
+    "address": "3700%20LIFFORD%20CIR",
+    "taxId": "110250%20AB0010"
+},{
     "premise_id_str": "2892524610",
     "zip": "32309",
-    "address": "3712%20LIFFORD%20CIR"
-}{
+    "address": "3712%20LIFFORD%20CIR",
+    "taxId": "110250%20AB0040"
+},{
+    "premise_id_str": "8103524610",
+    "zip": "32309",
+    "address": "3708%20LIFFORD%20CIR",
+    "taxId": "110250%20AB0030"
+},{
     "premise_id_str": "7792524610",
     "zip": "32309",
-    "address": "3716%20LIFFORD%20CIR"
-}{
-    "premise_id_str": "1892524610",
-    "zip": "32309",
-    "address": "3720%20LIFFORD%20CIR"
-}{
-    "premise_id_str": "1003524610",
-    "zip": "32309",
-    "address": "3808%20SHAMROCK%20ST%20W"
-}{
+    "address": "3716%20LIFFORD%20CIR",
+    "taxId": "110250%20AB0050"
+},{
     "premise_id_str": "4547524610",
     "zip": "32309",
-    "address": "3509%20CROSSHAVEN%20LN"
-}{
+    "address": "3509%20CROSSHAVEN%20LN",
+    "taxId": "110250%20AZ0190"
+},{
+    "premise_id_str": "1892524610",
+    "zip": "32309",
+    "address": "3720%20LIFFORD%20CIR",
+    "taxId": "110250%20AB0060"
+},{
+    "premise_id_str": "1003524610",
+    "zip": "32309",
+    "address": "3808%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AD0100"
+},{
     "premise_id_str": "5191624610",
     "zip": "32309",
-    "address": "3751%20SHAMROCK%20ST%20W"
-}{
+    "address": "3751%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AD0120"
+},{
     "premise_id_str": "2912624610",
     "zip": "32309",
-    "address": "2879%20KILKIERANE%20DR"
-}{
+    "address": "2879%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0150"
+},{
     "premise_id_str": "6191624610",
     "zip": "32309",
-    "address": "3803%20SHAMROCK%20ST%20W"
-}{
+    "address": "3803%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AD0140"
+},{
     "premise_id_str": "6022624610",
     "zip": "32309",
-    "address": "2875%20KILKIERANE%20DR"
-}{
-    "premise_id_str": "6122624610",
-    "zip": "32309",
-    "address": "2867%20KILKIERANE%20DR"
-}{
+    "address": "2875%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0160"
+},{
     "premise_id_str": "5812624610",
     "zip": "32309",
-    "address": "2871%20KILKIERANE%20DR"
-}{
+    "address": "2871%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0170"
+},{
+    "premise_id_str": "6122624610",
+    "zip": "32309",
+    "address": "2867%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0180"
+},{
     "premise_id_str": "6912624610",
     "zip": "32309",
-    "address": "2863%20KILKIERANE%20DR"
-}{
+    "address": "2863%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0190"
+},{
     "premise_id_str": "7022624610",
     "zip": "32309",
-    "address": "2859%20KILKIERANE%20DR"
-}{
+    "address": "2859%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0200"
+},{
     "premise_id_str": "5122624610",
     "zip": "32309",
-    "address": "2855%20KILKIERANE%20DR"
-}{
+    "address": "2855%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0210"
+},{
     "premise_id_str": "0022624610",
     "zip": "32309",
-    "address": "2851%20KILKIERANE%20DR"
-}{
+    "address": "2851%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0220"
+},{
     "premise_id_str": "3812624610",
     "zip": "32309",
-    "address": "2847%20KILKIERANE%20DR"
-}{
+    "address": "2847%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0230"
+},{
     "premise_id_str": "1912624610",
     "zip": "32309",
-    "address": "2843%20KILKIERANE%20DR"
-}{
-    "premise_id_str": "2122624610",
-    "zip": "32309",
-    "address": "2831%20KILKIERANE%20DR"
-}{
-    "premise_id_str": "6812624610",
-    "zip": "32309",
-    "address": "2827%20KILKIERANE%20DR"
-}{
-    "premise_id_str": "7812624610",
-    "zip": "32309",
-    "address": "2835%20KILKIERANE%20DR"
-}{
+    "address": "2843%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0240"
+},{
     "premise_id_str": "5022624610",
     "zip": "32309",
-    "address": "2839%20KILKIERANE%20DR"
-}{
-    "premise_id_str": "9327524610",
-    "zip": "32309",
-    "address": "3625%20LONDERRY%20DR"
-}{
-    "premise_id_str": "2280624610",
-    "zip": "32312",
-    "address": "693%20FOREST%20LAIR"
-}{
-    "premise_id_str": "3912624610",
-    "zip": "32309",
-    "address": "2824%20KILKIERANE%20DR"
-}{
-    "premise_id_str": "4283524610",
-    "zip": "32309",
-    "address": "3511%20WESTFORD%20DR"
-}{
-    "premise_id_str": "5973524610",
-    "zip": "32309",
-    "address": "3507%20WESTFORD%20DR"
-}{
-    "premise_id_str": "3583524610",
-    "zip": "32309",
-    "address": "3515%20WESTFORD%20DR"
-}{
-    "premise_id_str": "4583524610",
-    "zip": "32309",
-    "address": "3519%20WESTFORD%20DR"
-}{
-    "premise_id_str": "2619524610",
-    "zip": "32309",
-    "address": "2224%20LIMERICK%20DR"
-}{
-    "premise_id_str": "5483524610",
-    "zip": "32309",
-    "address": "3523%20WESTFORD%20DR"
-}{
-    "premise_id_str": "2673524610",
-    "zip": "32309",
-    "address": "2201%20LIMERICK%20DR"
-}{
-    "premise_id_str": "8673524610",
-    "zip": "32309",
-    "address": "2205%20LIMERICK%20DR"
-}{
-    "premise_id_str": "5104524610",
-    "zip": "32309",
-    "address": "2209%20LIMERICK%20DR"
-}{
-    "premise_id_str": "9083524610",
-    "zip": "32309",
-    "address": "2213%20LIMERICK%20DR"
-}{
-    "premise_id_str": "0729524610",
-    "zip": "32309",
-    "address": "2217%20LIMERICK%20DR"
-}{
-    "premise_id_str": "0003524610",
-    "zip": "32309",
-    "address": "3804%20SHAMROCK%20ST%20W"
-}{
-    "premise_id_str": "2303524610",
-    "zip": "32309",
-    "address": "3901%20LEANE%20DR"
-}{
-    "premise_id_str": "1403524610",
-    "zip": "32309",
-    "address": "3907%20LEANE%20DR"
-}{
-    "premise_id_str": "4303524610",
-    "zip": "32309",
-    "address": "3919%20LEANE%20DR"
-}{
-    "premise_id_str": "3303524610",
-    "zip": "32309",
-    "address": "3915%20LEANE%20DR"
-}{
-    "premise_id_str": "9213524610",
-    "zip": "32309",
-    "address": "3923%20LEANE%20DR"
-}{
-    "premise_id_str": "2103524610",
-    "zip": "32309",
-    "address": "3935%20LEANE%20DR"
-}{
-    "premise_id_str": "7203524610",
-    "zip": "32309",
-    "address": "3925%20LEANE%20DR"
-}{
-    "premise_id_str": "5303524610",
-    "zip": "32309",
-    "address": "3943%20LEANE%20DR"
-}{
-    "premise_id_str": "0403524610",
-    "zip": "32309",
-    "address": "4016%20ROSCREA%20DR"
-}{
-    "premise_id_str": "1013524610",
-    "zip": "32309",
-    "address": "2671%20BANTRY%20BAY%20DR"
-}{
-    "premise_id_str": "2803524610",
-    "zip": "32309",
-    "address": "2675%20BANTRY%20BAY%20DR"
-}{
-    "premise_id_str": "4013524610",
-    "zip": "32309",
-    "address": "2667%20BANTRY%20BAY%20DR"
-}{
-    "premise_id_str": "1023524610",
-    "zip": "32309",
-    "address": "4428%20W%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "6803524610",
-    "zip": "32309",
-    "address": "2601%20KELLS%20CT"
-}{
-    "premise_id_str": "8713524610",
-    "zip": "32309",
-    "address": "4420%20W%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "9903524610",
-    "zip": "32309",
-    "address": "2604%20KELLS%20CT"
-}{
-    "premise_id_str": "7803524610",
-    "zip": "32309",
-    "address": "2605%20KELLS%20CT"
-}{
-    "premise_id_str": "8603524610",
-    "zip": "32309",
-    "address": "2600%20MALIN%20DR"
-}{
-    "premise_id_str": "7313524610",
-    "zip": "32309",
-    "address": "4412%20W%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "7023524610",
-    "zip": "32309",
-    "address": "2916%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "4003524610",
-    "zip": "32309",
-    "address": "2904%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "1503524610",
-    "zip": "32309",
-    "address": "2908%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "6513524610",
-    "zip": "32309",
-    "address": "2900%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "8803524610",
-    "zip": "32309",
-    "address": "4405%20W%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "5603524610",
-    "zip": "32309",
-    "address": "4409%20W%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "6603524610",
-    "zip": "32309",
-    "address": "4413%20W%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "0257524610",
-    "zip": "32309",
-    "address": "4675%20INISHEER%20DR"
-}{
-    "premise_id_str": "8147524610",
-    "zip": "32309",
-    "address": "4673%20INISHEER%20DR"
-}{
-    "premise_id_str": "4682034610",
-    "zip": "32309",
-    "address": "4671%20INISHEER%20DR"
-}{
-    "premise_id_str": "9257524610",
-    "zip": "32309",
-    "address": "4667%20INISHEER%20DR"
-}{
-    "premise_id_str": "8201034610",
-    "zip": "32309",
-    "address": "4663%20INISHEER%20DR"
-}{
-    "premise_id_str": "2428134610",
-    "zip": "32309",
-    "address": "4655%20INISHEER%20DR"
-}{
-    "premise_id_str": "5447524610",
-    "zip": "32309",
-    "address": "4629%20KILLIMORE%20LN"
-}{
-    "premise_id_str": "8447524610",
-    "zip": "32309",
-    "address": "3413%20KILLIMORE%20CT"
-}{
-    "premise_id_str": "2547524610",
-    "zip": "32309",
-    "address": "3406%20KILLIMORE%20CT"
-}{
-    "premise_id_str": "8647524610",
-    "zip": "32309",
-    "address": "3410%20KILLIMORE%20CT"
-}{
-    "premise_id_str": "0147524610",
-    "zip": "32309",
-    "address": "3409%20KILLIMORE%20CT"
-}{
-    "premise_id_str": "5629524610",
-    "zip": "32309",
-    "address": "3421%20CASTLEBAR%20CIR"
-}{
-    "premise_id_str": "3747524610",
-    "zip": "32309",
-    "address": "3522%20CROSSHAVEN%20LN"
-}{
-    "premise_id_str": "2257524610",
-    "zip": "32309",
-    "address": "4858%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "5457524610",
-    "zip": "32309",
-    "address": "4902%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "0384334610",
-    "zip": "32309",
-    "address": "3529%20DUNDALK%20DR"
-}{
-    "premise_id_str": "0547524610",
-    "zip": "32309",
-    "address": "3525%20DUNDALK%20DR"
-}{
-    "premise_id_str": "0347524610",
-    "zip": "32309",
-    "address": "4906%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "1509034610",
-    "zip": "32309",
-    "address": "2804%20DONOVAN%20CT"
-}{
-    "premise_id_str": "2509034610",
-    "zip": "32309",
-    "address": "2806%20DONOVAN%20CT"
-}{
-    "premise_id_str": "3509034610",
-    "zip": "32309",
-    "address": "2808%20DONOVAN%20CT"
-}{
-    "premise_id_str": "3590366496",
-    "zip": "32312",
-    "address": "1733%20EVENING%20BREEZE%20LN"
-}{
-    "premise_id_str": "0838034610",
-    "zip": "32308",
-    "address": "2070%20SOLOMON%20CT"
-}{
-    "premise_id_str": "3590366496",
-    "zip": "32312",
-    "address": "1733%20EVENING%20BREEZE%20LN"
-}{
-    "premise_id_str": "3749234610",
-    "zip": "32309",
-    "address": "4513%20TIMBERLOCH%20DR"
-}{
-    "premise_id_str": "2057524610",
-    "zip": "32309",
-    "address": "3428%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "3947524610",
-    "zip": "32309",
-    "address": "3424%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "1647524610",
-    "zip": "32309",
-    "address": "3436%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "4872034610",
-    "zip": "32309",
-    "address": "3432%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "1747524610",
-    "zip": "32309",
-    "address": "5008%20SKERRIES%20CT"
-}{
-    "premise_id_str": "6447524610",
-    "zip": "32309",
-    "address": "5004%20SKERRIES%20CT"
-}{
-    "premise_id_str": "9203524610",
-    "zip": "32309",
-    "address": "4012%20ROSCREA%20DR"
-}{
-    "premise_id_str": "7403524610",
-    "zip": "32309",
-    "address": "4008%20ROSCREA%20DR"
-}{
-    "premise_id_str": "6413524610",
-    "zip": "32309",
-    "address": "4004%20ROSCREA%20DR"
-}{
-    "premise_id_str": "7703524610",
-    "zip": "32309",
-    "address": "3904%20SHAMROCK%20ST%20W"
-}{
-    "premise_id_str": "3103524610",
-    "zip": "32309",
-    "address": "3936%20LEANE%20DR"
-}{
-    "premise_id_str": "8013524610",
-    "zip": "32309",
-    "address": "3932%20LEANE%20DR"
-}{
-    "premise_id_str": "4992524610",
-    "zip": "32309",
-    "address": "3940%20LEANE%20DR"
-}{
-    "premise_id_str": "4392824610",
-    "zip": "32327",
-    "address": "62%20SUMMER%20LN"
-}{
-    "premise_id_str": "3603524610",
-    "zip": "32309",
-    "address": "4032%20ROSCREA%20DR"
-}{
-    "premise_id_str": "4903524610",
-    "zip": "32309",
-    "address": "4028%20ROSCREA%20DR"
-}{
-    "premise_id_str": "3703524610",
-    "zip": "32309",
-    "address": "4036%20ROSCREA%20DR"
-}{
-    "premise_id_str": "8413524610",
-    "zip": "32309",
-    "address": "4044%20ROSCREA%20DR"
-}{
-    "premise_id_str": "3813524610",
-    "zip": "32309",
-    "address": "4500%20BROAD%20HAVEN%20LN"
-}{
-    "premise_id_str": "3023524610",
-    "zip": "32309",
-    "address": "4508%20BROAD%20HAVEN%20LN"
-}{
-    "premise_id_str": "6713524610",
-    "zip": "32309",
-    "address": "4512%20BROAD%20HAVEN%20LN"
-}{
-    "premise_id_str": "0113524610",
-    "zip": "32309",
-    "address": "2623%20BANTRY%20BAY%20DR"
-}{
-    "premise_id_str": "7416234610",
-    "zip": "32312",
-    "address": "1108%20RONDS%20POINTE%20DR%20W"
-}{
-    "premise_id_str": "7191624610",
-    "zip": "32309",
-    "address": "3827%20SHAMROCK%20ST%20W"
-}{
-    "premise_id_str": "9809524610",
-    "zip": "32309",
-    "address": "2345%20CLARE%20DR"
-}{
-    "premise_id_str": "8509524610",
-    "zip": "32309",
-    "address": "2410%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "0419524610",
-    "zip": "32309",
-    "address": "2406%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "9919524610",
-    "zip": "32309",
-    "address": "2402%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "4629524610",
-    "zip": "32309",
-    "address": "2328%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "3519524610",
-    "zip": "32309",
-    "address": "2332%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5319524610",
-    "zip": "32309",
-    "address": "2324%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "2029524610",
-    "zip": "32309",
-    "address": "2320%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "7909524610",
-    "zip": "32309",
-    "address": "2316%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "7709524610",
-    "zip": "32309",
-    "address": "2510%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5019524610",
-    "zip": "32309",
-    "address": "2522%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "9019524610",
-    "zip": "32309",
-    "address": "2518%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "1809524610",
-    "zip": "32309",
-    "address": "2530%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "1201334610",
-    "zip": "32312",
-    "address": "7219%20OX%20BOW%20CIR"
-}{
-    "premise_id_str": "4019524610",
-    "zip": "32309",
-    "address": "2534%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "2909524610",
-    "zip": "32309",
-    "address": "2602%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "6519524610",
-    "zip": "32309",
-    "address": "2606%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "2119524610",
-    "zip": "32309",
-    "address": "2401%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "8519524610",
-    "zip": "32309",
-    "address": "2405%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "6037524610",
-    "zip": "32309",
-    "address": "3074%20WATERFORD%20DR"
-}{
-    "premise_id_str": "3057524610",
-    "zip": "32309",
-    "address": "3521%20DUNDALK%20DR"
-}{
-    "premise_id_str": "3619524610",
-    "zip": "32309",
-    "address": "2409%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5157524610",
-    "zip": "32309",
-    "address": "3509%20DUNDALK%20DR"
-}{
-    "premise_id_str": "9557524610",
-    "zip": "32309",
-    "address": "4689%20INISHEER%20DR"
-}{
-    "premise_id_str": "9647524610",
-    "zip": "32309",
-    "address": "4679%20INISHEER%20DR"
-}{
-    "premise_id_str": "3714034610",
-    "zip": "32309",
-    "address": "4683%20INISHEER%20DR"
-}{
-    "premise_id_str": "5647524610",
-    "zip": "32309",
-    "address": "3510%20CROSSHAVEN%20LN"
-}{
-    "premise_id_str": "3547524610",
-    "zip": "32309",
-    "address": "3506%20CROSSHAVEN%20LN"
-}{
-    "premise_id_str": "9157524610",
-    "zip": "32309",
-    "address": "3518%20CROSSHAVEN%20LN"
-}{
-    "premise_id_str": "6647524610",
-    "zip": "32309",
-    "address": "3514%20CROSSHAVEN%20LN"
-}{
-    "premise_id_str": "7937524610",
-    "zip": "32309",
-    "address": "3702%20GLIN%20CIR"
-}{
-    "premise_id_str": "7827524610",
-    "zip": "32309",
-    "address": "3718%20GLIN%20CIR"
-}{
-    "premise_id_str": "3737524610",
-    "zip": "32309",
-    "address": "3706%20GLIN%20CIR"
-}{
-    "premise_id_str": "4827524610",
-    "zip": "32309",
-    "address": "3722%20GLIN%20CIR"
-}{
-    "premise_id_str": "7637524610",
-    "zip": "32309",
-    "address": "3710%20GLIN%20CIR"
-}{
-    "premise_id_str": "9337524610",
-    "zip": "32309",
-    "address": "3714%20GLIN%20CIR"
-}{
-    "premise_id_str": "6627524610",
-    "zip": "32309",
-    "address": "3704%20GALWAY%20DR"
-}{
-    "premise_id_str": "8627524610",
-    "zip": "32309",
-    "address": "3708%20GALWAY%20DR"
-}{
-    "premise_id_str": "0222234610",
-    "zip": "32309",
-    "address": "2951%20GIVERNY%20CIR"
-}{
-    "premise_id_str": "1260134610",
-    "zip": "32309",
-    "address": "2959%20GIVERNY%20CIR"
-}{
-    "premise_id_str": "9447524610",
-    "zip": "32309",
-    "address": "5009%20SKERRIES%20CT"
-}{
-    "premise_id_str": "4147524610",
-    "zip": "32309",
-    "address": "5005%20SKERRIES%20CT"
-}{
-    "premise_id_str": "6947524610",
-    "zip": "32309",
-    "address": "3500%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "7147524610",
-    "zip": "32309",
-    "address": "3504%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "1447524610",
-    "zip": "32309",
-    "address": "3508%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "0447524610",
-    "zip": "32309",
-    "address": "3516%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "5947524610",
-    "zip": "32309",
-    "address": "3520%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "4947524610",
-    "zip": "32309",
-    "address": "3528%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "2457524610",
-    "zip": "32309",
-    "address": "3532%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "9747524610",
-    "zip": "32309",
-    "address": "3536%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "1757524610",
-    "zip": "32309",
-    "address": "3540%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "3047524610",
-    "zip": "32309",
-    "address": "3544%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "5047524610",
-    "zip": "32309",
-    "address": "4925%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "6047524610",
-    "zip": "32309",
-    "address": "4921%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "4047524610",
-    "zip": "32309",
-    "address": "4917%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "4257524610",
-    "zip": "32309",
-    "address": "4913%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "9039424610",
-    "zip": "32309",
-    "address": "6508%20MONTROSE%20TRL"
-}{
-    "premise_id_str": "9492034610",
-    "zip": "32309",
-    "address": "4901%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "5557524610",
-    "zip": "32309",
-    "address": "4910%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "1502624610",
-    "zip": "32309",
-    "address": "3835%20SHAMROCK%20ST%20W"
-}{
-    "premise_id_str": "0502624610",
-    "zip": "32309",
-    "address": "3839%20SHAMROCK%20ST%20W"
-}{
-    "premise_id_str": "0212624610",
-    "zip": "32309",
-    "address": "3843%20SHAMROCK%20ST%20W"
-}{
-    "premise_id_str": "3502624610",
-    "zip": "32309",
-    "address": "2805%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "3191624610",
-    "zip": "32309",
-    "address": "2809%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "4191624610",
-    "zip": "32309",
-    "address": "2813%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "3012624610",
-    "zip": "32309",
-    "address": "2823%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "4502624610",
-    "zip": "32309",
-    "address": "2829%20SHAMROCK%20ST%20N"
-}{
-    "premise_id_str": "1278424610",
-    "zip": "32309",
-    "address": "3236%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "5578424610",
-    "zip": "32309",
-    "address": "3244%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "1478424610",
-    "zip": "32309",
-    "address": "3240%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "4578424610",
-    "zip": "32309",
-    "address": "3248%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "1668424610",
-    "zip": "32309",
-    "address": "3252%20N%20SHANNON%20LAKES"
-}{
-    "premise_id_str": "5868424610",
-    "zip": "32309",
-    "address": "3256%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "0178424610",
-    "zip": "32309",
-    "address": "3264%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "0278424610",
-    "zip": "32309",
-    "address": "3268%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "6078424610",
-    "zip": "32309",
-    "address": "3276%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "5732624610",
-    "zip": "32309",
-    "address": "3061%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "7032624610",
-    "zip": "32309",
-    "address": "3049%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "9568424610",
-    "zip": "32309",
-    "address": "3272%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "3132624610",
-    "zip": "32309",
-    "address": "3031%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "9922624610",
-    "zip": "32309",
-    "address": "3027%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "9032624610",
-    "zip": "32309",
-    "address": "3023%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "2432624610",
-    "zip": "32309",
-    "address": "3015%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "2232624610",
-    "zip": "32309",
-    "address": "3007%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "3232624610",
-    "zip": "32309",
-    "address": "3003%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "5438524610",
-    "zip": "32312",
-    "address": "295%20ROSEHILL%20DR%20E"
-}{
-    "premise_id_str": "5960234610",
-    "zip": "32317",
-    "address": "1812%20VINEYARD%20WAY"
-}{
-    "premise_id_str": "5232624610",
-    "zip": "32309",
-    "address": "2987%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "4689424610",
-    "zip": "32309",
-    "address": "2835%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "7232624610",
-    "zip": "32309",
-    "address": "4405%20TREE%20HARBOUR%20WAY"
-}{
-    "premise_id_str": "0532624610",
-    "zip": "32309",
-    "address": "2955%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "3960334610",
-    "zip": "32309",
-    "address": "2967%20GIVERNY%20CIR"
-}{
-    "premise_id_str": "5449034610",
-    "zip": "32309",
-    "address": "3508%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "8449034610",
-    "zip": "32309",
-    "address": "2973%20GIVERNY%20CIR"
-}{
-    "premise_id_str": "9200134610",
-    "zip": "32309",
-    "address": "3512%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "8959034610",
-    "zip": "32309",
-    "address": "3516%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "0331134610",
-    "zip": "32309",
-    "address": "3520%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "6957234610",
-    "zip": "32309",
-    "address": "3524%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "5548134610",
-    "zip": "32309",
-    "address": "3528%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "2472234610",
-    "zip": "32309",
-    "address": "3527%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "2575234610",
-    "zip": "32309",
-    "address": "3523%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "4683134610",
-    "zip": "32309",
-    "address": "3515%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "5173134610",
-    "zip": "32309",
-    "address": "3519%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "4823134610",
-    "zip": "32309",
-    "address": "3511%20LEIGHTON%20HALL%20CT"
-}{
-    "premise_id_str": "5302332291",
-    "zip": "32309",
-    "address": "2985%20GIVERNY%20CIR"
-}{
-    "premise_id_str": "5230134610",
-    "zip": "32309",
-    "address": "3513%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "6611134610",
-    "zip": "32309",
-    "address": "3517%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "0373134610",
-    "zip": "32309",
-    "address": "3509%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "2471234610",
-    "zip": "32309",
-    "address": "3521%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1472134610",
-    "zip": "32309",
-    "address": "3525%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "2093034610",
-    "zip": "32309",
-    "address": "4914%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "2657524610",
-    "zip": "32309",
-    "address": "4918%20BALLYGAR%20DR"
-}{
-    "premise_id_str": "0610234610",
-    "zip": "32312",
-    "address": "7967%20LOCHKNOLL%20LN"
-}{
-    "premise_id_str": "7744134610",
-    "zip": "32309",
-    "address": "3537%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "2178424610",
-    "zip": "32309",
-    "address": "3116%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "8357524610",
-    "zip": "32309",
-    "address": "3529%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "4678424610",
-    "zip": "32309",
-    "address": "3120%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "1367134610",
-    "zip": "32309",
-    "address": "3527%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "3678424610",
-    "zip": "32309",
-    "address": "3124%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "4593034610",
-    "zip": "32309",
-    "address": "3525%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "9678424610",
-    "zip": "32309",
-    "address": "3128%20N%20SHANNON%20LAKES%20DR"
-}{
-    "premise_id_str": "2429134610",
-    "zip": "32309",
-    "address": "3521%20CLIFDEN%20DR"
-}{
-    "premise_id_str": "4289424610",
-    "zip": "32309",
-    "address": "3408%20MAHONEY%20DR"
-}{
-    "premise_id_str": "8844134610",
-    "zip": "32312",
-    "address": "3820%20BOBBIN%20MILL%20RD"
-}{
-    "premise_id_str": "7289424610",
-    "zip": "32309",
-    "address": "3516%20FOGARTY%20DR"
-}{
-    "premise_id_str": "1389424610",
-    "zip": "32309",
-    "address": "3512%20FOGARTY%20DR"
-}{
-    "premise_id_str": "0199424610",
-    "zip": "32309",
-    "address": "2868%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "3199424610",
-    "zip": "32309",
-    "address": "2864%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "9948424610",
-    "zip": "32309",
-    "address": "5104%20CLARECASTLE%20WAY"
-}{
-    "premise_id_str": "7378424610",
-    "zip": "32309",
-    "address": "5108%20CLARECASTLE%20WAY"
-}{
-    "premise_id_str": "5751624610",
-    "zip": "32309",
-    "address": "5127%20PIMLICO%20DR"
-}{
-    "premise_id_str": "9251624610",
-    "zip": "32309",
-    "address": "5119%20PIMLICO%20DR"
-}{
-    "premise_id_str": "4351624610",
-    "zip": "32309",
-    "address": "5101%20PIMLICO%20DR"
-}{
-    "premise_id_str": "7251624610",
-    "zip": "32309",
-    "address": "5093%20PIMLICO%20DR"
-}{
-    "premise_id_str": "8951624610",
-    "zip": "32309",
-    "address": "5061%20PIMLICO%20DR"
-}{
-    "premise_id_str": "8578424610",
-    "zip": "32309",
-    "address": "5113%20CLARECASTLE%20WAY"
-}{
-    "premise_id_str": "6378424610",
-    "zip": "32309",
-    "address": "5111%20CLARECASTLE%20WAY"
-}{
-    "premise_id_str": "3758424610",
-    "zip": "32309",
-    "address": "5107%20CLARECASTLE%20WAY"
-}{
-    "premise_id_str": "8758424610",
-    "zip": "32309",
-    "address": "5103%20CLARECASTLE%20WAY"
-}{
-    "premise_id_str": "6658424610",
-    "zip": "32309",
-    "address": "5105%20CLARECASTLE%20WAY"
-}{
-    "premise_id_str": "7458424610",
-    "zip": "32309",
-    "address": "5000%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "1058424610",
-    "zip": "32309",
-    "address": "5004%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "4778424610",
-    "zip": "32309",
-    "address": "5008%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "8178424610",
-    "zip": "32309",
-    "address": "5012%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "5378424610",
-    "zip": "32309",
-    "address": "5016%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "7432624610",
-    "zip": "32309",
-    "address": "2959%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "3632624610",
-    "zip": "32309",
-    "address": "2963%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "5432624610",
-    "zip": "32309",
-    "address": "2971%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "7532624610",
-    "zip": "32309",
-    "address": "2967%20BAYSHORE%20DR"
-}{
-    "premise_id_str": "8369034610",
-    "zip": "32309",
-    "address": "4407%20BAYSHORE%20CIR"
-}{
-    "premise_id_str": "9532624610",
-    "zip": "32309",
-    "address": "4419%20BAYSHORE%20CIR"
-}{
-    "premise_id_str": "1932624610",
-    "zip": "32309",
-    "address": "4427%20BAYSHORE%20CIR"
-}{
-    "premise_id_str": "9632624610",
-    "zip": "32309",
-    "address": "4451%20BAYSHORE%20CIR"
-}{
-    "premise_id_str": "4907924610",
-    "zip": "32308",
-    "address": "2556%20N%20ARENDELL%20WAY"
-}{
-    "premise_id_str": "9832624610",
-    "zip": "32309",
-    "address": "4457%20BAYSHORE%20CIR"
-}{
-    "premise_id_str": "0189424610",
-    "zip": "32309",
-    "address": "3434%20FOLEY%20DR"
-}{
-    "premise_id_str": "5321334610",
-    "zip": "32309",
-    "address": "3999%20FORSYTHE%20PARK%20CT"
-}{
-    "premise_id_str": "3189424610",
-    "zip": "32309",
-    "address": "3422%20FOLEY%20DR"
-}{
-    "premise_id_str": "1632034610",
-    "zip": "32309",
-    "address": "3410%20FOLEY%20DR"
-}{
-    "premise_id_str": "7751134610",
-    "zip": "32309",
-    "address": "3457%20MAHONEY%20DR"
-}{
-    "premise_id_str": "2889424610",
-    "zip": "32309",
-    "address": "3453%20MAHONEY%20DR"
-}{
-    "premise_id_str": "1099424610",
-    "zip": "32309",
-    "address": "3449%20MAHONEY%20DR"
-}{
-    "premise_id_str": "6521034610",
-    "zip": "32309",
-    "address": "3445%20MAHONEY%20DR"
-}{
-    "premise_id_str": "5199424610",
-    "zip": "32309",
-    "address": "3441%20MAHONEY%20DR"
-}{
-    "premise_id_str": "9017134610",
-    "zip": "32309",
-    "address": "3529%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "0589424610",
-    "zip": "32309",
-    "address": "3437%20MAHONEY%20DR"
-}{
-    "premise_id_str": "6541134610",
-    "zip": "32309",
-    "address": "2795%20A%20J%20HENRY%20PARK%20DR"
-}{
-    "premise_id_str": "1669034610",
-    "zip": "32309",
-    "address": "3560%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1080134610",
-    "zip": "32309",
-    "address": "3556%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "7327034610",
-    "zip": "32309",
-    "address": "3548%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "5176034610",
-    "zip": "32309",
-    "address": "3552%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "2667034610",
-    "zip": "32309",
-    "address": "3544%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "7939034610",
-    "zip": "32309",
-    "address": "3532%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1969034610",
-    "zip": "32309",
-    "address": "3525%20COLONNADE%20DR"
-}{
-    "premise_id_str": "2748034610",
-    "zip": "32309",
-    "address": "3517%20COLONNADE%20DR"
-}{
-    "premise_id_str": "5632624610",
-    "zip": "32309",
-    "address": "4476%20BAYSHORE%20CIR"
-}{
-    "premise_id_str": "9819034610",
-    "zip": "32309",
-    "address": "3521%20COLONNADE%20DR"
-}{
-    "premise_id_str": "8507924610",
-    "zip": "32309",
-    "address": "3000%20WELAUNEE%20RD"
-}{
-    "premise_id_str": "2811034610",
-    "zip": "32309",
-    "address": "2860%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "4889424610",
-    "zip": "32309",
-    "address": "2856%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "5989424610",
-    "zip": "32309",
-    "address": "2850%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "8889424610",
-    "zip": "32309",
-    "address": "2844%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "3889424610",
-    "zip": "32309",
-    "address": "2836%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "3099424610",
-    "zip": "32309",
-    "address": "2828%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "8979424610",
-    "zip": "32309",
-    "address": "3152%20FOLEY%20DR"
-}{
-    "premise_id_str": "9189424610",
-    "zip": "32309",
-    "address": "3134%20FOLEY%20DR"
-}{
-    "premise_id_str": "2189424610",
-    "zip": "32309",
-    "address": "3166%20FOLEY%20DR"
-}{
-    "premise_id_str": "3979424610",
-    "zip": "32309",
-    "address": "3200%20FOLEY%20DR"
-}{
-    "premise_id_str": "3089424610",
-    "zip": "32309",
-    "address": "3222%20FOLEY%20DR"
-}{
-    "premise_id_str": "7979424610",
-    "zip": "32309",
-    "address": "3238%20FOLEY%20DR"
-}{
-    "premise_id_str": "3205034610",
-    "zip": "32308",
-    "address": "1846%20JUNWIN%20CT"
-}{
-    "premise_id_str": "5189424610",
-    "zip": "32309",
-    "address": "3472%20FOLEY%20DR"
-}{
-    "premise_id_str": "7879424610",
-    "zip": "32309",
-    "address": "3458%20FOLEY%20DR"
-}{
+    "address": "2839%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0250"
+},{
     "premise_id_str": "7812624610",
     "zip": "32309",
-    "address": "2835%20KILKIERANE%20DR"
-}{
-    "premise_id_str": "7238134610",
-    "zip": "32309",
-    "address": "3100%20OBRIEN%20DR"
-}{
-    "premise_id_str": "7537234610",
-    "zip": "32309",
-    "address": "3108%20OBRIEN%20DR"
-}{
-    "premise_id_str": "1738134610",
-    "zip": "32309",
-    "address": "3112%20OBRIEN%20DR"
-}{
-    "premise_id_str": "2915234610",
-    "zip": "32309",
-    "address": "3116%20OBRIEN%20DR"
-}{
-    "premise_id_str": "1391234610",
-    "zip": "32309",
-    "address": "3120%20OBRIEN%20DR"
-}{
-    "premise_id_str": "6678424610",
-    "zip": "32309",
-    "address": "5020%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "7058424610",
-    "zip": "32309",
-    "address": "5028%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "6058424610",
-    "zip": "32309",
-    "address": "5032%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "6858424610",
-    "zip": "32309",
-    "address": "5040%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "9768424610",
-    "zip": "32309",
-    "address": "5036%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "8058424610",
-    "zip": "32309",
-    "address": "5044%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "5478424610",
-    "zip": "32309",
-    "address": "5048%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "2658424610",
-    "zip": "32309",
-    "address": "5052%20TALLOW%20POINT%20RD"
-}{
-    "premise_id_str": "3481134610",
-    "zip": "32309",
-    "address": "3049%20OBRIEN%20DR"
-}{
-    "premise_id_str": "0925134610",
-    "zip": "32309",
-    "address": "3057%20OBRIEN%20DR"
-}{
-    "premise_id_str": "0930134610",
-    "zip": "32309",
-    "address": "3053%20OBRIEN%20DR"
-}{
-    "premise_id_str": "9771134610",
-    "zip": "32309",
-    "address": "3061%20OBRIEN%20DR"
-}{
-    "premise_id_str": "6391234610",
-    "zip": "32309",
-    "address": "3065%20OBRIEN%20DR"
-}{
-    "premise_id_str": "9481134610",
-    "zip": "32309",
-    "address": "3069%20OBRIEN%20DR"
-}{
-    "premise_id_str": "6461134610",
-    "zip": "32309",
-    "address": "3073%20OBRIEN%20DR"
-}{
-    "premise_id_str": "2696134610",
-    "zip": "32309",
-    "address": "3081%20OBRIEN%20DR"
-}{
-    "premise_id_str": "8371134610",
-    "zip": "32309",
-    "address": "3085%20OBRIEN%20DR"
-}{
-    "premise_id_str": "2681134610",
-    "zip": "32309",
-    "address": "3089%20OBRIEN%20DR"
-}{
-    "premise_id_str": "7180134610",
-    "zip": "32309",
-    "address": "3093%20OBRIEN%20DR"
-}{
-    "premise_id_str": "6771134610",
-    "zip": "32309",
-    "address": "3473%20WELWYN%20WAY"
-}{
-    "premise_id_str": "2082134610",
-    "zip": "32309",
-    "address": "3477%20WELWYN%20WAY"
-}{
-    "premise_id_str": "2952134610",
-    "zip": "32309",
-    "address": "3469%20WELWYN%20WAY"
-}{
-    "premise_id_str": "1054134610",
-    "zip": "32309",
-    "address": "3461%20WELWYN%20WAY"
-}{
-    "premise_id_str": "9104134610",
-    "zip": "32309",
-    "address": "3465%20WELWYN%20WAY"
-}{
-    "premise_id_str": "0623134610",
-    "zip": "32309",
-    "address": "3449%20WELWYN%20WAY"
-}{
-    "premise_id_str": "6604134610",
-    "zip": "32309",
-    "address": "3445%20WELWYN%20WAY"
-}{
-    "premise_id_str": "8982134610",
-    "zip": "32309",
-    "address": "3441%20WELWYN%20WAY"
-}{
-    "premise_id_str": "1235134610",
-    "zip": "32309",
-    "address": "3433%20WELWYN%20WAY"
-}{
-    "premise_id_str": "2193134610",
-    "zip": "32309",
-    "address": "3429%20WELWYN%20WAY"
-}{
-    "premise_id_str": "3376334610",
-    "zip": "32309",
-    "address": "3425%20WELWYN%20WAY"
-}{
-    "premise_id_str": "7062134610",
-    "zip": "32309",
-    "address": "3421%20WELWYN%20WAY"
-}{
-    "premise_id_str": "5474134610",
-    "zip": "32309",
-    "address": "3417%20WELWYN%20WAY"
-}{
-    "premise_id_str": "7931134610",
-    "zip": "32309",
-    "address": "3423%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "4730134610",
-    "zip": "32309",
-    "address": "3429%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1688034610",
-    "zip": "32309",
-    "address": "3433%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1702134610",
-    "zip": "32309",
-    "address": "3437%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "2425924610",
-    "zip": "32301",
-    "address": "216%20S%20MONROE%20ST%20STE%20200"
-}{
-    "premise_id_str": "8984034610",
-    "zip": "32309",
-    "address": "4020%20DUTCHESS%20CT"
-}{
-    "premise_id_str": "1594034610",
-    "zip": "32309",
-    "address": "4016%20DUTCHESS%20CT"
-}{
-    "premise_id_str": "2299034610",
-    "zip": "32309",
-    "address": "4008%20DUTCHESS%20CT"
-}{
-    "premise_id_str": "2505034610",
-    "zip": "32309",
-    "address": "4012%20DUTCHESS%20CT"
-}{
-    "premise_id_str": "5699034610",
-    "zip": "32309",
-    "address": "4004%20DUTCHESS%20CT"
-}{
-    "premise_id_str": "5197134610",
-    "zip": "32309",
-    "address": "4000%20DUTCHESS%20CT"
-}{
-    "premise_id_str": "1937134610",
-    "zip": "32309",
-    "address": "4003%20DUTCHESS%20CT"
-}{
-    "premise_id_str": "8154134610",
-    "zip": "32309",
-    "address": "3073%20WHITE%20IBIS%20WAY"
-}{
-    "premise_id_str": "0937134610",
-    "zip": "32309",
-    "address": "3208%20CASTLE%20CT"
-}{
-    "premise_id_str": "8505134610",
-    "zip": "32309",
-    "address": "3216%20CASTLE%20CT"
-}{
-    "premise_id_str": "5277134610",
-    "zip": "32309",
-    "address": "3211%20CASTLE%20CT"
-}{
-    "premise_id_str": "6256134610",
-    "zip": "32309",
-    "address": "3215%20CASTLE%20CT"
-}{
-    "premise_id_str": "6277134610",
-    "zip": "32309",
-    "address": "3207%20CASTLE%20CT"
-}{
-    "premise_id_str": "8741740148",
-    "zip": "32303",
-    "address": "4563%20RUNNING%20MEADOWS%20LN"
-}{
-    "premise_id_str": "1013134610",
-    "zip": "32309",
-    "address": "3300%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "1697134610",
-    "zip": "32309",
-    "address": "3124%20OBRIEN%20DR"
-}{
-    "premise_id_str": "5697134610",
-    "zip": "32309",
-    "address": "3128%20OBRIEN%20DR"
-}{
-    "premise_id_str": "9422234610",
-    "zip": "32309",
-    "address": "3132%20OBRIEN%20DR"
-}{
-    "premise_id_str": "7960234610",
-    "zip": "32309",
-    "address": "3136%20OBRIEN%20DR"
-}{
-    "premise_id_str": "8654134610",
-    "zip": "32309",
-    "address": "3030%20FEENEY%20CT"
-}{
-    "premise_id_str": "5798134610",
-    "zip": "32309",
-    "address": "3034%20FEENEY%20CT"
-}{
-    "premise_id_str": "9334134610",
-    "zip": "32309",
-    "address": "3038%20FEENEY%20CT"
-}{
-    "premise_id_str": "1165134610",
-    "zip": "32309",
-    "address": "3042%20FEENEY%20CT"
-}{
-    "premise_id_str": "3461134610",
-    "zip": "32309",
-    "address": "3047%20FEENEY%20CT"
-}{
-    "premise_id_str": "3848234610",
-    "zip": "32309",
-    "address": "3046%20FEENEY%20CT"
-}{
-    "premise_id_str": "4754234610",
-    "zip": "32309",
-    "address": "3043%20FEENEY%20CT"
-}{
-    "premise_id_str": "6731134610",
-    "zip": "32309",
-    "address": "3035%20FEENEY%20CT"
-}{
-    "premise_id_str": "9633134610",
-    "zip": "32309",
-    "address": "3039%20FEENEY%20CT"
-}{
-    "premise_id_str": "6070134610",
-    "zip": "32309",
-    "address": "4983%20KEOHONE%20DR"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "4061334610",
-    "zip": "32309",
-    "address": "3097%20OBRIEN%20DR"
-}{
-    "premise_id_str": "3505234610",
-    "zip": "32309",
-    "address": "3099%20OBRIEN%20DR"
-}{
-    "premise_id_str": "0114134610",
-    "zip": "32309",
-    "address": "3107%20OBRIEN%20DR"
-}{
-    "premise_id_str": "3230334610",
-    "zip": "32309",
-    "address": "3123%20OBRIEN%20DR"
-}{
-    "premise_id_str": "1973134610",
-    "zip": "32309",
-    "address": "3129%20OBRIEN%20DR"
-}{
-    "premise_id_str": "6673134610",
-    "zip": "32309",
-    "address": "3115%20OBRIEN%20DR"
-}{
-    "premise_id_str": "7061134610",
-    "zip": "32309",
-    "address": "3133%20OBRIEN%20DR"
-}{
-    "premise_id_str": "1954134610",
-    "zip": "32309",
-    "address": "3137%20OBRIEN%20DR"
-}{
-    "premise_id_str": "7496524610",
-    "zip": "32309",
-    "address": "3177%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "8607524610",
-    "zip": "32309",
-    "address": "3179%20SHAMROCK%20ST%20E"
-}{
-    "premise_id_str": "5864134610",
-    "zip": "32309",
-    "address": "3141%20OBRIEN%20DR"
-}{
-    "premise_id_str": "0230134610",
-    "zip": "32309",
-    "address": "4044%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "2854034610",
-    "zip": "32309",
-    "address": "4042%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "5826034610",
-    "zip": "32309",
-    "address": "4046%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "4961034610",
-    "zip": "32309",
-    "address": "4050%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "9502034610",
-    "zip": "32309",
-    "address": "4052%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "5861034610",
-    "zip": "32309",
-    "address": "4048%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "8502034610",
-    "zip": "32309",
-    "address": "4054%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "5475334610",
+    "address": "2835%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0260"
+},{
+    "premise_id_str": "2122624610",
+    "zip": "32309",
+    "address": "2831%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0270"
+},{
+    "premise_id_str": "6812624610",
+    "zip": "32309",
+    "address": "2827%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0280"
+},{
+    "premise_id_str": "3912624610",
+    "zip": "32309",
+    "address": "2824%20KILKIERANE%20DR",
+    "taxId": "110250%20AD0290"
+},{
+    "premise_id_str": "2280624610",
+    "zip": "32312",
+    "address": "693%20FOREST%20LAIR",
+    "taxId": "110250%20AD0310"
+},{
+    "premise_id_str": "4283524610",
+    "zip": "32309",
+    "address": "3511%20WESTFORD%20DR",
+    "taxId": "110250%20%20E0240"
+},{
+    "premise_id_str": "5973524610",
+    "zip": "32309",
+    "address": "3507%20WESTFORD%20DR",
+    "taxId": "110250%20%20E0230"
+},{
+    "premise_id_str": "3583524610",
+    "zip": "32309",
+    "address": "3515%20WESTFORD%20DR",
+    "taxId": "110250%20%20E0250"
+},{
+    "premise_id_str": "4583524610",
+    "zip": "32309",
+    "address": "3519%20WESTFORD%20DR",
+    "taxId": "110250%20%20E0260"
+},{
+    "premise_id_str": "2619524610",
+    "zip": "32309",
+    "address": "2224%20LIMERICK%20DR",
+    "taxId": "110250%20%20E0280"
+},{
+    "premise_id_str": "5483524610",
+    "zip": "32309",
+    "address": "3523%20WESTFORD%20DR",
+    "taxId": "110250%20%20E0270"
+},{
+    "premise_id_str": "2673524610",
+    "zip": "32309",
+    "address": "2201%20LIMERICK%20DR",
+    "taxId": "110250%20%20F0010"
+},{
+    "premise_id_str": "5104524610",
+    "zip": "32309",
+    "address": "2209%20LIMERICK%20DR",
+    "taxId": "110250%20%20F0030"
+},{
+    "premise_id_str": "8673524610",
+    "zip": "32309",
+    "address": "2205%20LIMERICK%20DR",
+    "taxId": "110250%20%20F0020"
+},{
+    "premise_id_str": "9083524610",
+    "zip": "32309",
+    "address": "2213%20LIMERICK%20DR",
+    "taxId": "110250%20%20F0040"
+},{
+    "premise_id_str": "0729524610",
+    "zip": "32309",
+    "address": "2217%20LIMERICK%20DR",
+    "taxId": "110250%20%20F0050"
+},{
+    "premise_id_str": "0003524610",
+    "zip": "32309",
+    "address": "3804%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AE0180"
+},{
+    "premise_id_str": "2303524610",
+    "zip": "32309",
+    "address": "3901%20LEANE%20DR",
+    "taxId": "110250%20AF0010"
+},{
+    "premise_id_str": "1403524610",
+    "zip": "32309",
+    "address": "3907%20LEANE%20DR",
+    "taxId": "110250%20AF0020"
+},{
+    "premise_id_str": "3303524610",
+    "zip": "32309",
+    "address": "3915%20LEANE%20DR",
+    "taxId": "110250%20AF0040"
+},{
+    "premise_id_str": "9213524610",
+    "zip": "32309",
+    "address": "3923%20LEANE%20DR",
+    "taxId": "110250%20AF0060"
+},{
+    "premise_id_str": "4303524610",
+    "zip": "32309",
+    "address": "3919%20LEANE%20DR",
+    "taxId": "110250%20AF0050"
+},{
+    "premise_id_str": "5303524610",
+    "zip": "32309",
+    "address": "3943%20LEANE%20DR",
+    "taxId": "110250%20AF0090"
+},{
+    "premise_id_str": "2103524610",
+    "zip": "32309",
+    "address": "3935%20LEANE%20DR",
+    "taxId": "110250%20AF0080"
+},{
+    "premise_id_str": "7203524610",
+    "zip": "32309",
+    "address": "3925%20LEANE%20DR",
+    "taxId": "110250%20AF0070"
+},{
+    "premise_id_str": "4013524610",
+    "zip": "32309",
+    "address": "2667%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0220"
+},{
+    "premise_id_str": "0403524610",
+    "zip": "32309",
+    "address": "4016%20ROSCREA%20DR",
+    "taxId": "110250%20AF0100"
+},{
+    "premise_id_str": "1013524610",
+    "zip": "32309",
+    "address": "2671%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0230"
+},{
+    "premise_id_str": "2803524610",
+    "zip": "32309",
+    "address": "2675%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AK0240"
+},{
+    "premise_id_str": "9903524610",
+    "zip": "32309",
+    "address": "2604%20KELLS%20CT",
+    "taxId": "110250%20AK0280"
+},{
+    "premise_id_str": "1023524610",
+    "zip": "32309",
+    "address": "4428%20W%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20AK0270"
+},{
+    "premise_id_str": "7803524610",
+    "zip": "32309",
+    "address": "2605%20KELLS%20CT",
+    "taxId": "110250%20AK0290"
+},{
+    "premise_id_str": "6803524610",
+    "zip": "32309",
+    "address": "2601%20KELLS%20CT",
+    "taxId": "110250%20AK0300"
+},{
+    "premise_id_str": "8713524610",
+    "zip": "32309",
+    "address": "4420%20W%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20AK0310"
+},{
+    "premise_id_str": "7313524610",
+    "zip": "32309",
+    "address": "4412%20W%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20AK0330"
+},{
+    "premise_id_str": "7023524610",
+    "zip": "32309",
+    "address": "2916%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AL0010"
+},{
+    "premise_id_str": "8603524610",
+    "zip": "32309",
+    "address": "2600%20MALIN%20DR",
+    "taxId": "110250%20AK0340"
+},{
+    "premise_id_str": "1503524610",
+    "zip": "32309",
+    "address": "2908%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AL0030"
+},{
+    "premise_id_str": "6513524610",
+    "zip": "32309",
+    "address": "2900%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AL0050"
+},{
+    "premise_id_str": "8803524610",
+    "zip": "32309",
+    "address": "4405%20W%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20AL0060"
+},{
+    "premise_id_str": "5603524610",
+    "zip": "32309",
+    "address": "4409%20W%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20AL0070"
+},{
+    "premise_id_str": "6603524610",
+    "zip": "32309",
+    "address": "4413%20W%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20AL0080"
+},{
+    "premise_id_str": "0257524610",
+    "zip": "32309",
+    "address": "4675%20INISHEER%20DR",
+    "taxId": "110250%20AZ0200"
+},{
+    "premise_id_str": "8147524610",
+    "zip": "32309",
+    "address": "4673%20INISHEER%20DR",
+    "taxId": "110250%20AZ0210"
+},{
+    "premise_id_str": "4682034610",
+    "zip": "32309",
+    "address": "4671%20INISHEER%20DR",
+    "taxId": "110250%20AZ0220"
+},{
+    "premise_id_str": "9257524610",
+    "zip": "32309",
+    "address": "4667%20INISHEER%20DR",
+    "taxId": "110250%20AZ0230"
+},{
+    "premise_id_str": "8201034610",
+    "zip": "32309",
+    "address": "4663%20INISHEER%20DR",
+    "taxId": "110250%20AZ0240"
+},{
+    "premise_id_str": "2428134610",
+    "zip": "32309",
+    "address": "4655%20INISHEER%20DR",
+    "taxId": "110250%20AZ0260"
+},{
+    "premise_id_str": "5447524610",
+    "zip": "32309",
+    "address": "4629%20KILLIMORE%20LN",
+    "taxId": "110250%20AZ0270"
+},{
+    "premise_id_str": "2547524610",
+    "zip": "32309",
+    "address": "3406%20KILLIMORE%20CT",
+    "taxId": "110250%20AZ0280"
+},{
+    "premise_id_str": "8647524610",
+    "zip": "32309",
+    "address": "3410%20KILLIMORE%20CT",
+    "taxId": "110250%20AZ0290"
+},{
+    "premise_id_str": "8447524610",
+    "zip": "32309",
+    "address": "3413%20KILLIMORE%20CT",
+    "taxId": "110250%20AZ0300"
+},{
+    "premise_id_str": "0147524610",
+    "zip": "32309",
+    "address": "3409%20KILLIMORE%20CT",
+    "taxId": "110250%20AZ0310"
+},{
+    "premise_id_str": "3747524610",
+    "zip": "32309",
+    "address": "3522%20CROSSHAVEN%20LN",
+    "taxId": "110250%20BA0010"
+},{
+    "premise_id_str": "0347524610",
+    "zip": "32309",
+    "address": "4906%20BALLYGAR%20DR",
+    "taxId": "110250%20BA0040"
+},{
+    "premise_id_str": "0547524610",
+    "zip": "32309",
+    "address": "3525%20DUNDALK%20DR",
+    "taxId": "110250%20BA0060"
+},{
+    "premise_id_str": "1509034610",
+    "zip": "32309",
+    "address": "2804%20DONOVAN%20CT",
+    "taxId": "110250%20AD0330"
+},{
+    "premise_id_str": "2509034610",
+    "zip": "32309",
+    "address": "2806%20DONOVAN%20CT",
+    "taxId": "110250%20AD0331"
+},{
+    "premise_id_str": "3509034610",
+    "zip": "32309",
+    "address": "2808%20DONOVAN%20CT",
+    "taxId": "110250%20AD0332"
+},{
+    "premise_id_str": "3590366496",
+    "zip": "32312",
+    "address": "1733%20EVENING%20BREEZE%20LN",
+    "taxId": "110250%20AD0340"
+},{
+    "premise_id_str": "3590366496",
+    "zip": "32312",
+    "address": "1733%20EVENING%20BREEZE%20LN",
+    "taxId": "110250%20AD0352"
+},{
+    "premise_id_str": "0838034610",
     "zip": "32308",
-    "address": "1438%20CONSTITUTION%20PL%20E"
-}{
-    "premise_id_str": "4807524610",
+    "address": "2070%20SOLOMON%20CT",
+    "taxId": "110250%20AD0351"
+},{
+    "premise_id_str": "3749234610",
     "zip": "32309",
-    "address": "4056%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "8240134610",
+    "address": "4513%20TIMBERLOCH%20DR",
+    "taxId": "110250%20AD0360"
+},{
+    "premise_id_str": "3947524610",
     "zip": "32309",
-    "address": "3441%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1336034610",
+    "address": "3424%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0070"
+},{
+    "premise_id_str": "2057524610",
     "zip": "32309",
-    "address": "4060%20KILMARTIN%20DR"
-}{
-    "premise_id_str": "9473134610",
+    "address": "3428%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0080"
+},{
+    "premise_id_str": "6447524610",
     "zip": "32309",
-    "address": "3445%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "0702134610",
+    "address": "5004%20SKERRIES%20CT",
+    "taxId": "110250%20BD0110"
+},{
+    "premise_id_str": "4872034610",
     "zip": "32309",
-    "address": "3453%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "7846134610",
+    "address": "3432%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0090"
+},{
+    "premise_id_str": "1647524610",
     "zip": "32309",
-    "address": "3449%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "7939624610",
+    "address": "3436%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0100"
+},{
+    "premise_id_str": "1747524610",
+    "zip": "32309",
+    "address": "5008%20SKERRIES%20CT",
+    "taxId": "110250%20BD0120"
+},{
+    "premise_id_str": "7403524610",
+    "zip": "32309",
+    "address": "4008%20ROSCREA%20DR",
+    "taxId": "110250%20AF0120"
+},{
+    "premise_id_str": "9203524610",
+    "zip": "32309",
+    "address": "4012%20ROSCREA%20DR",
+    "taxId": "110250%20AF0110"
+},{
+    "premise_id_str": "6413524610",
+    "zip": "32309",
+    "address": "4004%20ROSCREA%20DR",
+    "taxId": "110250%20AF0130"
+},{
+    "premise_id_str": "7703524610",
+    "zip": "32309",
+    "address": "3904%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AF0150"
+},{
+    "premise_id_str": "8013524610",
+    "zip": "32309",
+    "address": "3932%20LEANE%20DR",
+    "taxId": "110250%20AG0010"
+},{
+    "premise_id_str": "3103524610",
+    "zip": "32309",
+    "address": "3936%20LEANE%20DR",
+    "taxId": "110250%20AG0020"
+},{
+    "premise_id_str": "4992524610",
+    "zip": "32309",
+    "address": "3940%20LEANE%20DR",
+    "taxId": "110250%20AG0030"
+},{
+    "premise_id_str": "4392824610",
+    "zip": "32327",
+    "address": "62%20SUMMER%20LN",
+    "taxId": "110250%20AG0050"
+},{
+    "premise_id_str": "3603524610",
+    "zip": "32309",
+    "address": "4032%20ROSCREA%20DR",
+    "taxId": "110250%20AG0070"
+},{
+    "premise_id_str": "4903524610",
+    "zip": "32309",
+    "address": "4028%20ROSCREA%20DR",
+    "taxId": "110250%20AG0060"
+},{
+    "premise_id_str": "3703524610",
+    "zip": "32309",
+    "address": "4036%20ROSCREA%20DR",
+    "taxId": "110250%20AG0080"
+},{
+    "premise_id_str": "8413524610",
+    "zip": "32309",
+    "address": "4044%20ROSCREA%20DR",
+    "taxId": "110250%20AG0100"
+},{
+    "premise_id_str": "3813524610",
+    "zip": "32309",
+    "address": "4500%20BROAD%20HAVEN%20LN",
+    "taxId": "110250%20AG0110"
+},{
+    "premise_id_str": "3023524610",
+    "zip": "32309",
+    "address": "4508%20BROAD%20HAVEN%20LN",
+    "taxId": "110250%20AG0130"
+},{
+    "premise_id_str": "6713524610",
+    "zip": "32309",
+    "address": "4512%20BROAD%20HAVEN%20LN",
+    "taxId": "110250%20AG0140"
+},{
+    "premise_id_str": "0113524610",
+    "zip": "32309",
+    "address": "2623%20BANTRY%20BAY%20DR",
+    "taxId": "110250%20AG0150"
+},{
+    "premise_id_str": "7191624610",
+    "zip": "32309",
+    "address": "3827%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AH0010"
+},{
+    "premise_id_str": "7416234610",
+    "zip": "32312",
+    "address": "1108%20RONDS%20POINTE%20DR%20W",
+    "taxId": "110250%20%20J0080"
+},{
+    "premise_id_str": "9809524610",
+    "zip": "32309",
+    "address": "2345%20CLARE%20DR",
+    "taxId": "110250%20%20J0090"
+},{
+    "premise_id_str": "0419524610",
+    "zip": "32309",
+    "address": "2406%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20J0110"
+},{
+    "premise_id_str": "9919524610",
+    "zip": "32309",
+    "address": "2402%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20J0120"
+},{
+    "premise_id_str": "3519524610",
+    "zip": "32309",
+    "address": "2332%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20J0130"
+},{
+    "premise_id_str": "4629524610",
+    "zip": "32309",
+    "address": "2328%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20J0140"
+},{
+    "premise_id_str": "5319524610",
+    "zip": "32309",
+    "address": "2324%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20J0150"
+},{
+    "premise_id_str": "2029524610",
+    "zip": "32309",
+    "address": "2320%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20J0160"
+},{
+    "premise_id_str": "7909524610",
+    "zip": "32309",
+    "address": "2316%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20J0170"
+},{
+    "premise_id_str": "7709524610",
+    "zip": "32309",
+    "address": "2510%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20K0010"
+},{
+    "premise_id_str": "9019524610",
+    "zip": "32309",
+    "address": "2518%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20K0030"
+},{
+    "premise_id_str": "1201334610",
+    "zip": "32312",
+    "address": "7219%20OX%20BOW%20CIR",
+    "taxId": "110250%20%20K0050"
+},{
+    "premise_id_str": "1809524610",
+    "zip": "32309",
+    "address": "2530%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20K0060"
+},{
+    "premise_id_str": "4019524610",
+    "zip": "32309",
+    "address": "2534%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20K0070"
+},{
+    "premise_id_str": "2909524610",
+    "zip": "32309",
+    "address": "2602%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20K0080"
+},{
+    "premise_id_str": "6519524610",
+    "zip": "32309",
+    "address": "2606%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20K0090"
+},{
+    "premise_id_str": "5019524610",
+    "zip": "32309",
+    "address": "2522%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20K0040"
+},{
+    "premise_id_str": "2119524610",
+    "zip": "32309",
+    "address": "2401%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0010"
+},{
+    "premise_id_str": "8519524610",
+    "zip": "32309",
+    "address": "2405%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0020"
+},{
+    "premise_id_str": "3619524610",
+    "zip": "32309",
+    "address": "2409%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20L0030"
+},{
+    "premise_id_str": "3057524610",
+    "zip": "32309",
+    "address": "3521%20DUNDALK%20DR",
+    "taxId": "110250%20BA0070"
+},{
+    "premise_id_str": "6037524610",
+    "zip": "32309",
+    "address": "3074%20WATERFORD%20DR",
+    "taxId": "110250%20BA0080"
+},{
+    "premise_id_str": "5157524610",
+    "zip": "32309",
+    "address": "3509%20DUNDALK%20DR",
+    "taxId": "110250%20BA0090"
+},{
+    "premise_id_str": "9557524610",
+    "zip": "32309",
+    "address": "4689%20INISHEER%20DR",
+    "taxId": "110250%20BA0100"
+},{
+    "premise_id_str": "3714034610",
+    "zip": "32309",
+    "address": "4683%20INISHEER%20DR",
+    "taxId": "110250%20BA0120"
+},{
+    "premise_id_str": "9647524610",
+    "zip": "32309",
+    "address": "4679%20INISHEER%20DR",
+    "taxId": "110250%20BA0130"
+},{
+    "premise_id_str": "3547524610",
+    "zip": "32309",
+    "address": "3506%20CROSSHAVEN%20LN",
+    "taxId": "110250%20BA0140"
+},{
+    "premise_id_str": "5647524610",
+    "zip": "32309",
+    "address": "3510%20CROSSHAVEN%20LN",
+    "taxId": "110250%20BA0150"
+},{
+    "premise_id_str": "6647524610",
+    "zip": "32309",
+    "address": "3514%20CROSSHAVEN%20LN",
+    "taxId": "110250%20BA0160"
+},{
+    "premise_id_str": "9157524610",
+    "zip": "32309",
+    "address": "3518%20CROSSHAVEN%20LN",
+    "taxId": "110250%20BA0170"
+},{
+    "premise_id_str": "7937524610",
+    "zip": "32309",
+    "address": "3702%20GLIN%20CIR",
+    "taxId": "110250%20BB0010"
+},{
+    "premise_id_str": "3737524610",
+    "zip": "32309",
+    "address": "3706%20GLIN%20CIR",
+    "taxId": "110250%20BB0020"
+},{
+    "premise_id_str": "7637524610",
+    "zip": "32309",
+    "address": "3710%20GLIN%20CIR",
+    "taxId": "110250%20BB0030"
+},{
+    "premise_id_str": "9337524610",
+    "zip": "32309",
+    "address": "3714%20GLIN%20CIR",
+    "taxId": "110250%20BB0040"
+},{
+    "premise_id_str": "7827524610",
+    "zip": "32309",
+    "address": "3718%20GLIN%20CIR",
+    "taxId": "110250%20BB0050"
+},{
+    "premise_id_str": "4827524610",
+    "zip": "32309",
+    "address": "3722%20GLIN%20CIR",
+    "taxId": "110250%20BB0060"
+},{
+    "premise_id_str": "6627524610",
+    "zip": "32309",
+    "address": "3704%20GALWAY%20DR",
+    "taxId": "110250%20BB0080"
+},{
+    "premise_id_str": "8627524610",
+    "zip": "32309",
+    "address": "3708%20GALWAY%20DR",
+    "taxId": "110250%20BB0090"
+},{
+    "premise_id_str": "9447524610",
+    "zip": "32309",
+    "address": "5009%20SKERRIES%20CT",
+    "taxId": "110250%20BD0130"
+},{
+    "premise_id_str": "0222234610",
+    "zip": "32309",
+    "address": "2951%20GIVERNY%20CIR",
+    "taxId": "110250%20DM0130"
+},{
+    "premise_id_str": "1260134610",
+    "zip": "32309",
+    "address": "2959%20GIVERNY%20CIR",
+    "taxId": "110250%20DM0140"
+},{
+    "premise_id_str": "6947524610",
+    "zip": "32309",
+    "address": "3500%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0150"
+},{
+    "premise_id_str": "7147524610",
+    "zip": "32309",
+    "address": "3504%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0160"
+},{
+    "premise_id_str": "1447524610",
+    "zip": "32309",
+    "address": "3508%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0170"
+},{
+    "premise_id_str": "0447524610",
+    "zip": "32309",
+    "address": "3516%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0190"
+},{
+    "premise_id_str": "5947524610",
+    "zip": "32309",
+    "address": "3520%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0200"
+},{
+    "premise_id_str": "4947524610",
+    "zip": "32309",
+    "address": "3528%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0220"
+},{
+    "premise_id_str": "2457524610",
+    "zip": "32309",
+    "address": "3532%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0230"
+},{
+    "premise_id_str": "9747524610",
+    "zip": "32309",
+    "address": "3536%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0240"
+},{
+    "premise_id_str": "1757524610",
+    "zip": "32309",
+    "address": "3540%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0250"
+},{
+    "premise_id_str": "3047524610",
+    "zip": "32309",
+    "address": "3544%20CLIFDEN%20DR",
+    "taxId": "110250%20BD0260"
+},{
+    "premise_id_str": "6047524610",
+    "zip": "32309",
+    "address": "4921%20BALLYGAR%20DR",
+    "taxId": "110250%20BD0280"
+},{
+    "premise_id_str": "5047524610",
+    "zip": "32309",
+    "address": "4925%20BALLYGAR%20DR",
+    "taxId": "110250%20BD0270"
+},{
+    "premise_id_str": "4047524610",
+    "zip": "32309",
+    "address": "4917%20BALLYGAR%20DR",
+    "taxId": "110250%20BD0290"
+},{
+    "premise_id_str": "9039424610",
+    "zip": "32309",
+    "address": "6508%20MONTROSE%20TRL",
+    "taxId": "110250%20BD0310"
+},{
+    "premise_id_str": "4257524610",
+    "zip": "32309",
+    "address": "4913%20BALLYGAR%20DR",
+    "taxId": "110250%20BD0300"
+},{
+    "premise_id_str": "5557524610",
+    "zip": "32309",
+    "address": "4910%20BALLYGAR%20DR",
+    "taxId": "110250%20BE0010"
+},{
+    "premise_id_str": "9492034610",
+    "zip": "32309",
+    "address": "4901%20BALLYGAR%20DR",
+    "taxId": "110250%20BD0330"
+},{
+    "premise_id_str": "0212624610",
+    "zip": "32309",
+    "address": "3843%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AH0050"
+},{
+    "premise_id_str": "0502624610",
+    "zip": "32309",
+    "address": "3839%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AH0040"
+},{
+    "premise_id_str": "1502624610",
+    "zip": "32309",
+    "address": "3835%20SHAMROCK%20ST%20W",
+    "taxId": "110250%20AH0030"
+},{
+    "premise_id_str": "3191624610",
+    "zip": "32309",
+    "address": "2809%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AH0070"
+},{
+    "premise_id_str": "3502624610",
+    "zip": "32309",
+    "address": "2805%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AH0060"
+},{
+    "premise_id_str": "4191624610",
+    "zip": "32309",
+    "address": "2813%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AH0080"
+},{
+    "premise_id_str": "3012624610",
+    "zip": "32309",
+    "address": "2823%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AH0100"
+},{
+    "premise_id_str": "4502624610",
+    "zip": "32309",
+    "address": "2829%20SHAMROCK%20ST%20N",
+    "taxId": "110250%20AH0110"
+},{
+    "premise_id_str": "1278424610",
+    "zip": "32309",
+    "address": "3236%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0130"
+},{
+    "premise_id_str": "1478424610",
+    "zip": "32309",
+    "address": "3240%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0140"
+},{
+    "premise_id_str": "5578424610",
+    "zip": "32309",
+    "address": "3244%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0150"
+},{
+    "premise_id_str": "1668424610",
+    "zip": "32309",
+    "address": "3252%20N%20SHANNON%20LAKES",
+    "taxId": "110250%20BF0170"
+},{
+    "premise_id_str": "4578424610",
+    "zip": "32309",
+    "address": "3248%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0160"
+},{
+    "premise_id_str": "5868424610",
+    "zip": "32309",
+    "address": "3256%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0180"
+},{
+    "premise_id_str": "0178424610",
+    "zip": "32309",
+    "address": "3264%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0200"
+},{
+    "premise_id_str": "0278424610",
+    "zip": "32309",
+    "address": "3268%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0210"
+},{
+    "premise_id_str": "6078424610",
+    "zip": "32309",
+    "address": "3276%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0230"
+},{
+    "premise_id_str": "5732624610",
+    "zip": "32309",
+    "address": "3061%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0080"
+},{
+    "premise_id_str": "9568424610",
+    "zip": "32309",
+    "address": "3272%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BF0220"
+},{
+    "premise_id_str": "3132624610",
+    "zip": "32309",
+    "address": "3031%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0110"
+},{
+    "premise_id_str": "7032624610",
+    "zip": "32309",
+    "address": "3049%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0090"
+},{
+    "premise_id_str": "9032624610",
+    "zip": "32309",
+    "address": "3023%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0130"
+},{
+    "premise_id_str": "9922624610",
+    "zip": "32309",
+    "address": "3027%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0120"
+},{
+    "premise_id_str": "2232624610",
+    "zip": "32309",
+    "address": "3007%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0160"
+},{
+    "premise_id_str": "2432624610",
+    "zip": "32309",
+    "address": "3015%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0150"
+},{
+    "premise_id_str": "3232624610",
+    "zip": "32309",
+    "address": "3003%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0170"
+},{
+    "premise_id_str": "5438524610",
+    "zip": "32312",
+    "address": "295%20ROSEHILL%20DR%20E",
+    "taxId": "110250%20CD0180"
+},{
+    "premise_id_str": "5232624610",
+    "zip": "32309",
+    "address": "2987%20BAYSHORE%20DR",
+    "taxId": "110250%20CD0210"
+},{
+    "premise_id_str": "5960234610",
+    "zip": "32317",
+    "address": "1812%20VINEYARD%20WAY",
+    "taxId": "110250%20CD0220"
+},{
+    "premise_id_str": "4689424610",
+    "zip": "32309",
+    "address": "2835%20FITZPATRICK%20DR",
+    "taxId": "110250%20CD0240"
+},{
+    "premise_id_str": "7232624610",
+    "zip": "32309",
+    "address": "4405%20TREE%20HARBOUR%20WAY",
+    "taxId": "110250%20CD0260"
+},{
+    "premise_id_str": "8449034610",
+    "zip": "32309",
+    "address": "2973%20GIVERNY%20CIR",
+    "taxId": "110250%20DM0160"
+},{
+    "premise_id_str": "3960334610",
+    "zip": "32309",
+    "address": "2967%20GIVERNY%20CIR",
+    "taxId": "110250%20DM0150"
+},{
+    "premise_id_str": "0532624610",
+    "zip": "32309",
+    "address": "2955%20BAYSHORE%20DR",
+    "taxId": "110250%20CE0010"
+},{
+    "premise_id_str": "5449034610",
+    "zip": "32309",
+    "address": "3508%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0170"
+},{
+    "premise_id_str": "9200134610",
+    "zip": "32309",
+    "address": "3512%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0180"
+},{
+    "premise_id_str": "6957234610",
+    "zip": "32309",
+    "address": "3524%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0210"
+},{
+    "premise_id_str": "8959034610",
+    "zip": "32309",
+    "address": "3516%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0190"
+},{
+    "premise_id_str": "0331134610",
+    "zip": "32309",
+    "address": "3520%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0200"
+},{
+    "premise_id_str": "2472234610",
+    "zip": "32309",
+    "address": "3527%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0230"
+},{
+    "premise_id_str": "5548134610",
+    "zip": "32309",
+    "address": "3528%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0220"
+},{
+    "premise_id_str": "2575234610",
+    "zip": "32309",
+    "address": "3523%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0240"
+},{
+    "premise_id_str": "5173134610",
+    "zip": "32309",
+    "address": "3519%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0250"
+},{
+    "premise_id_str": "4683134610",
+    "zip": "32309",
+    "address": "3515%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0260"
+},{
+    "premise_id_str": "5302332291",
+    "zip": "32309",
+    "address": "2985%20GIVERNY%20CIR",
+    "taxId": "110250%20DM0280"
+},{
+    "premise_id_str": "4823134610",
+    "zip": "32309",
+    "address": "3511%20LEIGHTON%20HALL%20CT",
+    "taxId": "110250%20DM0270"
+},{
+    "premise_id_str": "0373134610",
+    "zip": "32309",
+    "address": "3509%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DM0290"
+},{
+    "premise_id_str": "6611134610",
+    "zip": "32309",
+    "address": "3517%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DM0310"
+},{
+    "premise_id_str": "2471234610",
+    "zip": "32309",
+    "address": "3521%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DM0320"
+},{
+    "premise_id_str": "1472134610",
+    "zip": "32309",
+    "address": "3525%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DM0330"
+},{
+    "premise_id_str": "5230134610",
+    "zip": "32309",
+    "address": "3513%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DM0300"
+},{
+    "premise_id_str": "2093034610",
+    "zip": "32309",
+    "address": "4914%20BALLYGAR%20DR",
+    "taxId": "110250%20BE0020"
+},{
+    "premise_id_str": "2657524610",
+    "zip": "32309",
+    "address": "4918%20BALLYGAR%20DR",
+    "taxId": "110250%20BE0030"
+},{
+    "premise_id_str": "7744134610",
+    "zip": "32309",
+    "address": "3537%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0040"
+},{
+    "premise_id_str": "2178424610",
+    "zip": "32309",
+    "address": "3116%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BE0041"
+},{
+    "premise_id_str": "0610234610",
+    "zip": "32312",
+    "address": "7967%20LOCHKNOLL%20LN",
+    "taxId": "110250%20BE0031"
+},{
+    "premise_id_str": "8357524610",
+    "zip": "32309",
+    "address": "3529%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0050"
+},{
+    "premise_id_str": "3678424610",
+    "zip": "32309",
+    "address": "3124%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BE0061"
+},{
+    "premise_id_str": "4678424610",
+    "zip": "32309",
+    "address": "3120%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BE0051"
+},{
+    "premise_id_str": "1367134610",
+    "zip": "32309",
+    "address": "3527%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0060"
+},{
+    "premise_id_str": "4593034610",
+    "zip": "32309",
+    "address": "3525%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0070"
+},{
+    "premise_id_str": "9678424610",
+    "zip": "32309",
+    "address": "3128%20N%20SHANNON%20LAKES%20DR",
+    "taxId": "110250%20BE0071"
+},{
+    "premise_id_str": "4289424610",
+    "zip": "32309",
+    "address": "3408%20MAHONEY%20DR",
+    "taxId": "110250%20CI0130"
+},{
+    "premise_id_str": "8844134610",
+    "zip": "32312",
+    "address": "3820%20BOBBIN%20MILL%20RD",
+    "taxId": "110250%20CJ0010"
+},{
+    "premise_id_str": "2429134610",
+    "zip": "32309",
+    "address": "3521%20CLIFDEN%20DR",
+    "taxId": "110250%20BE0080"
+},{
+    "premise_id_str": "7289424610",
+    "zip": "32309",
+    "address": "3516%20FOGARTY%20DR",
+    "taxId": "110250%20CJ0020"
+},{
+    "premise_id_str": "3199424610",
+    "zip": "32309",
+    "address": "2864%20FITZPATRICK%20DR",
+    "taxId": "110250%20CJ0050"
+},{
+    "premise_id_str": "1389424610",
+    "zip": "32309",
+    "address": "3512%20FOGARTY%20DR",
+    "taxId": "110250%20CJ0030"
+},{
+    "premise_id_str": "0199424610",
+    "zip": "32309",
+    "address": "2868%20FITZPATRICK%20DR",
+    "taxId": "110250%20CJ0040"
+},{
+    "premise_id_str": "9948424610",
+    "zip": "32309",
+    "address": "5104%20CLARECASTLE%20WAY",
+    "taxId": "110250%20BF0250"
+},{
+    "premise_id_str": "5751624610",
+    "zip": "32309",
+    "address": "5127%20PIMLICO%20DR",
+    "taxId": "110250%20BG0010"
+},{
+    "premise_id_str": "7378424610",
+    "zip": "32309",
+    "address": "5108%20CLARECASTLE%20WAY",
+    "taxId": "110250%20BF0260"
+},{
+    "premise_id_str": "4351624610",
+    "zip": "32309",
+    "address": "5101%20PIMLICO%20DR",
+    "taxId": "110250%20BG0030"
+},{
+    "premise_id_str": "7251624610",
+    "zip": "32309",
+    "address": "5093%20PIMLICO%20DR",
+    "taxId": "110250%20BG0040"
+},{
+    "premise_id_str": "9251624610",
+    "zip": "32309",
+    "address": "5119%20PIMLICO%20DR",
+    "taxId": "110250%20BG0020"
+},{
+    "premise_id_str": "8578424610",
+    "zip": "32309",
+    "address": "5113%20CLARECASTLE%20WAY",
+    "taxId": "110250%20BG0070"
+},{
+    "premise_id_str": "3758424610",
+    "zip": "32309",
+    "address": "5107%20CLARECASTLE%20WAY",
+    "taxId": "110250%20BG0090"
+},{
+    "premise_id_str": "6378424610",
+    "zip": "32309",
+    "address": "5111%20CLARECASTLE%20WAY",
+    "taxId": "110250%20BG0080"
+},{
+    "premise_id_str": "6658424610",
+    "zip": "32309",
+    "address": "5105%20CLARECASTLE%20WAY",
+    "taxId": "110250%20BG0100"
+},{
+    "premise_id_str": "7458424610",
+    "zip": "32309",
+    "address": "5000%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0140"
+},{
+    "premise_id_str": "8758424610",
+    "zip": "32309",
+    "address": "5103%20CLARECASTLE%20WAY",
+    "taxId": "110250%20BG0110"
+},{
+    "premise_id_str": "1058424610",
+    "zip": "32309",
+    "address": "5004%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0150"
+},{
+    "premise_id_str": "5378424610",
+    "zip": "32309",
+    "address": "5016%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0180"
+},{
+    "premise_id_str": "7432624610",
+    "zip": "32309",
+    "address": "2959%20BAYSHORE%20DR",
+    "taxId": "110250%20CE0020"
+},{
+    "premise_id_str": "3632624610",
+    "zip": "32309",
+    "address": "2963%20BAYSHORE%20DR",
+    "taxId": "110250%20CE0030"
+},{
+    "premise_id_str": "5432624610",
+    "zip": "32309",
+    "address": "2971%20BAYSHORE%20DR",
+    "taxId": "110250%20CE0050"
+},{
+    "premise_id_str": "8369034610",
+    "zip": "32309",
+    "address": "4407%20BAYSHORE%20CIR",
+    "taxId": "110250%20CE0060"
+},{
+    "premise_id_str": "9532624610",
+    "zip": "32309",
+    "address": "4419%20BAYSHORE%20CIR",
+    "taxId": "110250%20CE0070"
+},{
+    "premise_id_str": "1932624610",
+    "zip": "32309",
+    "address": "4427%20BAYSHORE%20CIR",
+    "taxId": "110250%20CE0080"
+},{
+    "premise_id_str": "4907924610",
     "zip": "32308",
-    "address": "2217%20GREENWICH%20WAY"
-}{
-    "premise_id_str": "9244134610",
+    "address": "2556%20N%20ARENDELL%20WAY",
+    "taxId": "110250%20CE0090"
+},{
+    "premise_id_str": "9632624610",
     "zip": "32309",
-    "address": "3457%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "3931134610",
+    "address": "4451%20BAYSHORE%20CIR",
+    "taxId": "110250%20CE0100"
+},{
+    "premise_id_str": "9832624610",
     "zip": "32309",
-    "address": "2905%20FAIRCHILD%20CT"
-}{
-    "premise_id_str": "4225134610",
+    "address": "4457%20BAYSHORE%20CIR",
+    "taxId": "110250%20CE0110"
+},{
+    "premise_id_str": "5321334610",
     "zip": "32309",
-    "address": "2906%20FAIRCHILD%20CT"
-}{
-    "premise_id_str": "1085134610",
+    "address": "3999%20FORSYTHE%20PARK%20CT",
+    "taxId": "110250%20CE0120"
+},{
+    "premise_id_str": "3189424610",
     "zip": "32309",
-    "address": "2909%20FAIRCHILD%20CT"
-}{
-    "premise_id_str": "1885134610",
+    "address": "3422%20FOLEY%20DR",
+    "taxId": "110250%20CF0020"
+},{
+    "premise_id_str": "1632034610",
     "zip": "32309",
-    "address": "2910%20FAIRCHILD%20CT"
-}{
-    "premise_id_str": "2951134610",
+    "address": "3410%20FOLEY%20DR",
+    "taxId": "110250%20CF0030"
+},{
+    "premise_id_str": "7751134610",
     "zip": "32309",
-    "address": "3469%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "3244134610",
+    "address": "3457%20MAHONEY%20DR",
+    "taxId": "110250%20CF0040"
+},{
+    "premise_id_str": "2889424610",
     "zip": "32309",
-    "address": "3473%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "2170234610",
+    "address": "3453%20MAHONEY%20DR",
+    "taxId": "110250%20CF0050"
+},{
+    "premise_id_str": "1099424610",
     "zip": "32309",
-    "address": "3412%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1825234610",
+    "address": "3449%20MAHONEY%20DR",
+    "taxId": "110250%20CF0060"
+},{
+    "premise_id_str": "6521034610",
     "zip": "32309",
-    "address": "3416%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "8475234610",
+    "address": "3445%20MAHONEY%20DR",
+    "taxId": "110250%20CF0070"
+},{
+    "premise_id_str": "0589424610",
     "zip": "32309",
-    "address": "3420%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "1017334610",
+    "address": "3437%20MAHONEY%20DR",
+    "taxId": "110250%20CF0090"
+},{
+    "premise_id_str": "9017134610",
     "zip": "32309",
-    "address": "3432%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "2017334610",
+    "address": "3529%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DM0340"
+},{
+    "premise_id_str": "5199424610",
     "zip": "32309",
-    "address": "3436%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "3017334610",
+    "address": "3441%20MAHONEY%20DR",
+    "taxId": "110250%20CF0080"
+},{
+    "premise_id_str": "6541134610",
     "zip": "32309",
-    "address": "3440%20GARDENVIEW%20WAY"
-}{
-    "premise_id_str": "5737524610",
+    "address": "2795%20A%20J%20HENRY%20PARK%20DR",
+    "taxId": "110250%20DN0010"
+},{
+    "premise_id_str": "5176034610",
     "zip": "32309",
-    "address": "3158%20SHAMROCK%20ST%20S"
-}{
-    "premise_id_str": "9356234610",
-    "zip": "32308",
-    "address": "4110%20CENTERVILLE%20RD"
-}{
+    "address": "3552%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DN0070"
+},{
+    "premise_id_str": "1669034610",
+    "zip": "32309",
+    "address": "3560%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DN0050"
+},{
+    "premise_id_str": "1080134610",
+    "zip": "32309",
+    "address": "3556%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DN0060"
+},{
+    "premise_id_str": "2667034610",
+    "zip": "32309",
+    "address": "3544%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DN0090"
+},{
     "premise_id_str": "7327034610",
     "zip": "32309",
-    "address": "3548%20GARDENVIEW%20WAY"
-}{
+    "address": "3548%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DN0080"
+},{
+    "premise_id_str": "7939034610",
+    "zip": "32309",
+    "address": "3532%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DN0120"
+},{
+    "premise_id_str": "1969034610",
+    "zip": "32309",
+    "address": "3525%20COLONNADE%20DR",
+    "taxId": "110250%20DN0130"
+},{
+    "premise_id_str": "9819034610",
+    "zip": "32309",
+    "address": "3521%20COLONNADE%20DR",
+    "taxId": "110250%20DN0140"
+},{
+    "premise_id_str": "2748034610",
+    "zip": "32309",
+    "address": "3517%20COLONNADE%20DR",
+    "taxId": "110250%20DN0150"
+},{
+    "premise_id_str": "5632624610",
+    "zip": "32309",
+    "address": "4476%20BAYSHORE%20CIR",
+    "taxId": "110250%20DN0160"
+},{
+    "premise_id_str": "8507924610",
+    "zip": "32309",
+    "address": "3000%20WELAUNEE%20RD",
+    "taxId": "1101200010000"
+},{
+    "premise_id_str": "5989424610",
+    "zip": "32309",
+    "address": "2850%20FITZPATRICK%20DR",
+    "taxId": "110250%20CJ0080"
+},{
+    "premise_id_str": "4889424610",
+    "zip": "32309",
+    "address": "2856%20FITZPATRICK%20DR",
+    "taxId": "110250%20CJ0070"
+},{
+    "premise_id_str": "8889424610",
+    "zip": "32309",
+    "address": "2844%20FITZPATRICK%20DR",
+    "taxId": "110250%20CJ0090"
+},{
+    "premise_id_str": "3889424610",
+    "zip": "32309",
+    "address": "2836%20FITZPATRICK%20DR",
+    "taxId": "110250%20CJ0100"
+},{
+    "premise_id_str": "9189424610",
+    "zip": "32309",
+    "address": "3134%20FOLEY%20DR",
+    "taxId": "110250%20CJ0120"
+},{
+    "premise_id_str": "3099424610",
+    "zip": "32309",
+    "address": "2828%20FITZPATRICK%20DR",
+    "taxId": "110250%20CJ0110"
+},{
+    "premise_id_str": "8979424610",
+    "zip": "32309",
+    "address": "3152%20FOLEY%20DR",
+    "taxId": "110250%20CJ0130"
+},{
+    "premise_id_str": "3979424610",
+    "zip": "32309",
+    "address": "3200%20FOLEY%20DR",
+    "taxId": "110250%20CJ0160"
+},{
+    "premise_id_str": "2189424610",
+    "zip": "32309",
+    "address": "3166%20FOLEY%20DR",
+    "taxId": "110250%20CJ0140"
+},{
+    "premise_id_str": "3205034610",
+    "zip": "32308",
+    "address": "1846%20JUNWIN%20CT",
+    "taxId": "110250%20CK0001"
+},{
+    "premise_id_str": "3089424610",
+    "zip": "32309",
+    "address": "3222%20FOLEY%20DR",
+    "taxId": "110250%20CJ0170"
+},{
+    "premise_id_str": "7979424610",
+    "zip": "32309",
+    "address": "3238%20FOLEY%20DR",
+    "taxId": "110250%20CJ0180"
+},{
+    "premise_id_str": "7879424610",
+    "zip": "32309",
+    "address": "3458%20FOLEY%20DR",
+    "taxId": "110250%20CK0020"
+},{
+    "premise_id_str": "7238134610",
+    "zip": "32309",
+    "address": "3100%20OBRIEN%20DR",
+    "taxId": "110250%20CM0010"
+},{
+    "premise_id_str": "5189424610",
+    "zip": "32309",
+    "address": "3472%20FOLEY%20DR",
+    "taxId": "110250%20CK0010"
+},{
+    "premise_id_str": "7812624610",
+    "zip": "32309",
+    "address": "2835%20KILKIERANE%20DR",
+    "taxId": "110250%20CM0020"
+},{
+    "premise_id_str": "7537234610",
+    "zip": "32309",
+    "address": "3108%20OBRIEN%20DR",
+    "taxId": "110250%20CM0030"
+},{
+    "premise_id_str": "1738134610",
+    "zip": "32309",
+    "address": "3112%20OBRIEN%20DR",
+    "taxId": "110250%20CM0040"
+},{
+    "premise_id_str": "2915234610",
+    "zip": "32309",
+    "address": "3116%20OBRIEN%20DR",
+    "taxId": "110250%20CM0050"
+},{
+    "premise_id_str": "6678424610",
+    "zip": "32309",
+    "address": "5020%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0190"
+},{
+    "premise_id_str": "7058424610",
+    "zip": "32309",
+    "address": "5028%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0210"
+},{
+    "premise_id_str": "6058424610",
+    "zip": "32309",
+    "address": "5032%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0220"
+},{
+    "premise_id_str": "9768424610",
+    "zip": "32309",
+    "address": "5036%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0230"
+},{
+    "premise_id_str": "8058424610",
+    "zip": "32309",
+    "address": "5044%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0250"
+},{
+    "premise_id_str": "6858424610",
+    "zip": "32309",
+    "address": "5040%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0240"
+},{
+    "premise_id_str": "5478424610",
+    "zip": "32309",
+    "address": "5048%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0260"
+},{
+    "premise_id_str": "2658424610",
+    "zip": "32309",
+    "address": "5052%20TALLOW%20POINT%20RD",
+    "taxId": "110250%20BG0270"
+},{
+    "premise_id_str": "3481134610",
+    "zip": "32309",
+    "address": "3049%20OBRIEN%20DR",
+    "taxId": "110250%20CO0250"
+},{
+    "premise_id_str": "0930134610",
+    "zip": "32309",
+    "address": "3053%20OBRIEN%20DR",
+    "taxId": "110250%20CO0260"
+},{
+    "premise_id_str": "0925134610",
+    "zip": "32309",
+    "address": "3057%20OBRIEN%20DR",
+    "taxId": "110250%20CO0270"
+},{
+    "premise_id_str": "6391234610",
+    "zip": "32309",
+    "address": "3065%20OBRIEN%20DR",
+    "taxId": "110250%20CO0290"
+},{
+    "premise_id_str": "9481134610",
+    "zip": "32309",
+    "address": "3069%20OBRIEN%20DR",
+    "taxId": "110250%20CO0300"
+},{
+    "premise_id_str": "6461134610",
+    "zip": "32309",
+    "address": "3073%20OBRIEN%20DR",
+    "taxId": "110250%20CO0310"
+},{
+    "premise_id_str": "2696134610",
+    "zip": "32309",
+    "address": "3081%20OBRIEN%20DR",
+    "taxId": "110250%20CO0330"
+},{
+    "premise_id_str": "8371134610",
+    "zip": "32309",
+    "address": "3085%20OBRIEN%20DR",
+    "taxId": "110250%20CO0340"
+},{
+    "premise_id_str": "2681134610",
+    "zip": "32309",
+    "address": "3089%20OBRIEN%20DR",
+    "taxId": "110250%20CO0350"
+},{
+    "premise_id_str": "7180134610",
+    "zip": "32309",
+    "address": "3093%20OBRIEN%20DR",
+    "taxId": "110250%20CO0360"
+},{
+    "premise_id_str": "2082134610",
+    "zip": "32309",
+    "address": "3477%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0040"
+},{
+    "premise_id_str": "6771134610",
+    "zip": "32309",
+    "address": "3473%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0050"
+},{
+    "premise_id_str": "2952134610",
+    "zip": "32309",
+    "address": "3469%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0060"
+},{
+    "premise_id_str": "9104134610",
+    "zip": "32309",
+    "address": "3465%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0070"
+},{
+    "premise_id_str": "1054134610",
+    "zip": "32309",
+    "address": "3461%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0080"
+},{
+    "premise_id_str": "0623134610",
+    "zip": "32309",
+    "address": "3449%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0110"
+},{
+    "premise_id_str": "6604134610",
+    "zip": "32309",
+    "address": "3445%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0120"
+},{
+    "premise_id_str": "8982134610",
+    "zip": "32309",
+    "address": "3441%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0130"
+},{
+    "premise_id_str": "1235134610",
+    "zip": "32309",
+    "address": "3433%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0150"
+},{
+    "premise_id_str": "2193134610",
+    "zip": "32309",
+    "address": "3429%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0160"
+},{
+    "premise_id_str": "3376334610",
+    "zip": "32309",
+    "address": "3425%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0170"
+},{
+    "premise_id_str": "7062134610",
+    "zip": "32309",
+    "address": "3421%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0180"
+},{
+    "premise_id_str": "5474134610",
+    "zip": "32309",
+    "address": "3417%20WELWYN%20WAY",
+    "taxId": "110250%20DJ0190"
+},{
+    "premise_id_str": "7931134610",
+    "zip": "32309",
+    "address": "3423%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0210"
+},{
+    "premise_id_str": "4730134610",
+    "zip": "32309",
+    "address": "3429%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0220"
+},{
+    "premise_id_str": "1688034610",
+    "zip": "32309",
+    "address": "3433%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0230"
+},{
+    "premise_id_str": "2425924610",
+    "zip": "32301",
+    "address": "216%20S%20MONROE%20ST%20STE%20200",
+    "taxId": "110203%20%20%200001"
+},{
+    "premise_id_str": "1702134610",
+    "zip": "32309",
+    "address": "3437%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0240"
+},{
+    "premise_id_str": "8984034610",
+    "zip": "32309",
+    "address": "4020%20DUTCHESS%20CT",
+    "taxId": "110203%20%20A0010"
+},{
+    "premise_id_str": "1594034610",
+    "zip": "32309",
+    "address": "4016%20DUTCHESS%20CT",
+    "taxId": "110203%20%20A0020"
+},{
+    "premise_id_str": "2505034610",
+    "zip": "32309",
+    "address": "4012%20DUTCHESS%20CT",
+    "taxId": "110203%20%20A0030"
+},{
+    "premise_id_str": "2299034610",
+    "zip": "32309",
+    "address": "4008%20DUTCHESS%20CT",
+    "taxId": "110203%20%20A0040"
+},{
+    "premise_id_str": "5699034610",
+    "zip": "32309",
+    "address": "4004%20DUTCHESS%20CT",
+    "taxId": "110203%20%20A0050"
+},{
+    "premise_id_str": "5197134610",
+    "zip": "32309",
+    "address": "4000%20DUTCHESS%20CT",
+    "taxId": "110203%20%20A0060"
+},{
+    "premise_id_str": "1937134610",
+    "zip": "32309",
+    "address": "4003%20DUTCHESS%20CT",
+    "taxId": "110203%20%20A0070"
+},{
+    "premise_id_str": "0937134610",
+    "zip": "32309",
+    "address": "3208%20CASTLE%20CT",
+    "taxId": "110203%20%20A0110"
+},{
+    "premise_id_str": "8154134610",
+    "zip": "32309",
+    "address": "3073%20WHITE%20IBIS%20WAY",
+    "taxId": "110203%20%20A0120"
+},{
+    "premise_id_str": "8505134610",
+    "zip": "32309",
+    "address": "3216%20CASTLE%20CT",
+    "taxId": "110203%20%20A0130"
+},{
+    "premise_id_str": "6256134610",
+    "zip": "32309",
+    "address": "3215%20CASTLE%20CT",
+    "taxId": "110203%20%20B0010"
+},{
+    "premise_id_str": "5277134610",
+    "zip": "32309",
+    "address": "3211%20CASTLE%20CT",
+    "taxId": "110203%20%20B0020"
+},{
+    "premise_id_str": "6277134610",
+    "zip": "32309",
+    "address": "3207%20CASTLE%20CT",
+    "taxId": "110203%20%20B0030"
+},{
+    "premise_id_str": "8741740148",
+    "zip": "32303",
+    "address": "4563%20RUNNING%20MEADOWS%20LN",
+    "taxId": "110203%20%20B0050"
+},{
+    "premise_id_str": "1013134610",
+    "zip": "32309",
+    "address": "3300%20SHAMROCK%20ST%20E",
+    "taxId": "1102200030000"
+},{
+    "premise_id_str": "1697134610",
+    "zip": "32309",
+    "address": "3124%20OBRIEN%20DR",
+    "taxId": "110250%20CM0070"
+},{
+    "premise_id_str": "5697134610",
+    "zip": "32309",
+    "address": "3128%20OBRIEN%20DR",
+    "taxId": "110250%20CM0080"
+},{
+    "premise_id_str": "9422234610",
+    "zip": "32309",
+    "address": "3132%20OBRIEN%20DR",
+    "taxId": "110250%20CM0090"
+},{
+    "premise_id_str": "7960234610",
+    "zip": "32309",
+    "address": "3136%20OBRIEN%20DR",
+    "taxId": "110250%20CM0100"
+},{
+    "premise_id_str": "8654134610",
+    "zip": "32309",
+    "address": "3030%20FEENEY%20CT",
+    "taxId": "110250%20CN0010"
+},{
+    "premise_id_str": "5798134610",
+    "zip": "32309",
+    "address": "3034%20FEENEY%20CT",
+    "taxId": "110250%20CN0020"
+},{
+    "premise_id_str": "9334134610",
+    "zip": "32309",
+    "address": "3038%20FEENEY%20CT",
+    "taxId": "110250%20CN0030"
+},{
+    "premise_id_str": "1165134610",
+    "zip": "32309",
+    "address": "3042%20FEENEY%20CT",
+    "taxId": "110250%20CN0040"
+},{
+    "premise_id_str": "3848234610",
+    "zip": "32309",
+    "address": "3046%20FEENEY%20CT",
+    "taxId": "110250%20CN0050"
+},{
+    "premise_id_str": "3461134610",
+    "zip": "32309",
+    "address": "3047%20FEENEY%20CT",
+    "taxId": "110250%20CN0060"
+},{
+    "premise_id_str": "9633134610",
+    "zip": "32309",
+    "address": "3039%20FEENEY%20CT",
+    "taxId": "110250%20CN0080"
+},{
+    "premise_id_str": "6731134610",
+    "zip": "32309",
+    "address": "3035%20FEENEY%20CT",
+    "taxId": "110250%20CN0090"
+},{
+    "premise_id_str": "4754234610",
+    "zip": "32309",
+    "address": "3043%20FEENEY%20CT",
+    "taxId": "110250%20CN0070"
+},{
+    "premise_id_str": "6070134610",
+    "zip": "32309",
+    "address": "4983%20KEOHONE%20DR",
+    "taxId": "110250%20CN0100"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200022"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200023"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200021"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200020"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200024"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200026"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200025"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200027"
+},{
+    "premise_id_str": "4061334610",
+    "zip": "32309",
+    "address": "3097%20OBRIEN%20DR",
+    "taxId": "110250%20CO0370"
+},{
+    "premise_id_str": "3505234610",
+    "zip": "32309",
+    "address": "3099%20OBRIEN%20DR",
+    "taxId": "110250%20CO0380"
+},{
+    "premise_id_str": "0114134610",
+    "zip": "32309",
+    "address": "3107%20OBRIEN%20DR",
+    "taxId": "110250%20CO0390"
+},{
+    "premise_id_str": "6673134610",
+    "zip": "32309",
+    "address": "3115%20OBRIEN%20DR",
+    "taxId": "110250%20CO0400"
+},{
+    "premise_id_str": "3230334610",
+    "zip": "32309",
+    "address": "3123%20OBRIEN%20DR",
+    "taxId": "110250%20CO0410"
+},{
+    "premise_id_str": "1973134610",
+    "zip": "32309",
+    "address": "3129%20OBRIEN%20DR",
+    "taxId": "110250%20CO0420"
+},{
+    "premise_id_str": "1954134610",
+    "zip": "32309",
+    "address": "3137%20OBRIEN%20DR",
+    "taxId": "110250%20CO0440"
+},{
+    "premise_id_str": "7061134610",
+    "zip": "32309",
+    "address": "3133%20OBRIEN%20DR",
+    "taxId": "110250%20CO0430"
+},{
+    "premise_id_str": "5864134610",
+    "zip": "32309",
+    "address": "3141%20OBRIEN%20DR",
+    "taxId": "110250%20CO0450"
+},{
+    "premise_id_str": "7496524610",
+    "zip": "32309",
+    "address": "3177%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20CO0540"
+},{
+    "premise_id_str": "8607524610",
+    "zip": "32309",
+    "address": "3179%20SHAMROCK%20ST%20E",
+    "taxId": "110250%20CO0550"
+},{
+    "premise_id_str": "5826034610",
+    "zip": "32309",
+    "address": "4046%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0030"
+},{
+    "premise_id_str": "2854034610",
+    "zip": "32309",
+    "address": "4042%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0010"
+},{
+    "premise_id_str": "0230134610",
+    "zip": "32309",
+    "address": "4044%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0020"
+},{
+    "premise_id_str": "5861034610",
+    "zip": "32309",
+    "address": "4048%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0040"
+},{
+    "premise_id_str": "9502034610",
+    "zip": "32309",
+    "address": "4052%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0060"
+},{
+    "premise_id_str": "4961034610",
+    "zip": "32309",
+    "address": "4050%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0050"
+},{
+    "premise_id_str": "5475334610",
+    "zip": "32308",
+    "address": "1438%20CONSTITUTION%20PL%20E",
+    "taxId": "110250%20CQ0090"
+},{
+    "premise_id_str": "4807524610",
+    "zip": "32309",
+    "address": "4056%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0080"
+},{
+    "premise_id_str": "1336034610",
+    "zip": "32309",
+    "address": "4060%20KILMARTIN%20DR",
+    "taxId": "110250%20CQ0100"
+},{
+    "premise_id_str": "8240134610",
+    "zip": "32309",
+    "address": "3441%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0250"
+},{
+    "premise_id_str": "9473134610",
+    "zip": "32309",
+    "address": "3445%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0260"
+},{
+    "premise_id_str": "7846134610",
+    "zip": "32309",
+    "address": "3449%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0270"
+},{
+    "premise_id_str": "9244134610",
+    "zip": "32309",
+    "address": "3457%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0290"
+},{
+    "premise_id_str": "0702134610",
+    "zip": "32309",
+    "address": "3453%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0280"
+},{
+    "premise_id_str": "7939624610",
+    "zip": "32308",
+    "address": "2217%20GREENWICH%20WAY",
+    "taxId": "110250%20DJ0300"
+},{
+    "premise_id_str": "3931134610",
+    "zip": "32309",
+    "address": "2905%20FAIRCHILD%20CT",
+    "taxId": "110250%20DJ0310"
+},{
+    "premise_id_str": "1085134610",
+    "zip": "32309",
+    "address": "2909%20FAIRCHILD%20CT",
+    "taxId": "110250%20DJ0320"
+},{
+    "premise_id_str": "1885134610",
+    "zip": "32309",
+    "address": "2910%20FAIRCHILD%20CT",
+    "taxId": "110250%20DJ0330"
+},{
+    "premise_id_str": "4225134610",
+    "zip": "32309",
+    "address": "2906%20FAIRCHILD%20CT",
+    "taxId": "110250%20DJ0340"
+},{
+    "premise_id_str": "1825234610",
+    "zip": "32309",
+    "address": "3416%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0020"
+},{
+    "premise_id_str": "3244134610",
+    "zip": "32309",
+    "address": "3473%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0360"
+},{
+    "premise_id_str": "2951134610",
+    "zip": "32309",
+    "address": "3469%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DJ0350"
+},{
+    "premise_id_str": "2170234610",
+    "zip": "32309",
+    "address": "3412%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0010"
+},{
+    "premise_id_str": "1017334610",
+    "zip": "32309",
+    "address": "3432%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0060"
+},{
+    "premise_id_str": "8475234610",
+    "zip": "32309",
+    "address": "3420%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0030"
+},{
+    "premise_id_str": "2017334610",
+    "zip": "32309",
+    "address": "3436%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0070"
+},{
+    "premise_id_str": "3017334610",
+    "zip": "32309",
+    "address": "3440%20GARDENVIEW%20WAY",
+    "taxId": "110250%20DK0080"
+},{
+    "premise_id_str": "7327034610",
+    "zip": "32309",
+    "address": "3548%20GARDENVIEW%20WAY",
+    "taxId": "1102206010000"
+},{
+    "premise_id_str": "5737524610",
+    "zip": "32309",
+    "address": "3158%20SHAMROCK%20ST%20S",
+    "taxId": "1102202010000"
+},{
+    "premise_id_str": "9356234610",
+    "zip": "32308",
+    "address": "4110%20CENTERVILLE%20RD",
+    "taxId": "1102206050000"
+},{
     "premise_id_str": "9856924610",
     "zip": "32301",
-    "address": "300%20S%20ADAMS%20ST"
-}{
+    "address": "300%20S%20ADAMS%20ST",
+    "taxId": "1102208010000"
+},{
     "premise_id_str": "9856924610",
     "zip": "32301",
-    "address": "300%20S%20ADAMS%20ST"
-}{
+    "address": "300%20S%20ADAMS%20ST",
+    "taxId": "1102208020000"
+},{
     "premise_id_str": "9856924610",
     "zip": "32301",
-    "address": "300%20S%20ADAMS%20ST"
-}{
+    "address": "300%20S%20ADAMS%20ST",
+    "taxId": "110250%20%20%200001"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200007"
+},{
     "premise_id_str": "1119524610",
     "zip": "32309",
-    "address": "2309%20LIMERICK%20DR"
-}{
+    "address": "2309%20LIMERICK%20DR",
+    "taxId": "110250%20%20%200005"
+},{
     "premise_id_str": "5155334610",
     "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200006"
+},{
     "premise_id_str": "9856924610",
     "zip": "32301",
-    "address": "300%20S%20ADAMS%20ST"
-}{
+    "address": "300%20S%20ADAMS%20ST",
+    "taxId": "110250%20%20%200008"
+},{
     "premise_id_str": "5155334610",
     "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200011"
+},{
     "premise_id_str": "4037524610",
     "zip": "32309",
-    "address": "2800%20SHAMROCK%20ST%20S"
-}{
+    "address": "2800%20SHAMROCK%20ST%20S",
+    "taxId": "110250%20%20%200012"
+},{
     "premise_id_str": "5155334610",
     "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200014"
+},{
     "premise_id_str": "5155334610",
     "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200016"
+},{
     "premise_id_str": "5155334610",
     "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200017"
+},{
     "premise_id_str": "5155334610",
     "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200015"
+},{
     "premise_id_str": "4203524610",
     "zip": "32309",
-    "address": "3722%20LIFFORD%20CIR"
-}{
+    "address": "3722%20LIFFORD%20CIR",
+    "taxId": "110250%20AB0070"
+},{
+    "premise_id_str": "5155334610",
+    "zip": "32309",
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200018"
+},{
     "premise_id_str": "3892524610",
     "zip": "32309",
-    "address": "3724%20LIFFORD%20CIR"
-}{
+    "address": "3724%20LIFFORD%20CIR",
+    "taxId": "110250%20AB0080"
+},{
     "premise_id_str": "9856924610",
     "zip": "32301",
-    "address": "300%20S%20ADAMS%20ST"
-}{
+    "address": "300%20S%20ADAMS%20ST",
+    "taxId": "110250%20%20%200029"
+},{
     "premise_id_str": "6786524610",
     "zip": "32309",
-    "address": "3206%20CRANLEIGH%20DR"
-}{
+    "address": "3206%20CRANLEIGH%20DR",
+    "taxId": "110250%20%20%200032"
+},{
     "premise_id_str": "5155334610",
     "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
-    "premise_id_str": "5155334610",
-    "zip": "32309",
-    "address": "2705%20KILLARNEY%20WAY"
-}{
+    "address": "2705%20KILLARNEY%20WAY",
+    "taxId": "110250%20%20%200034"
+},{
     "premise_id_str": "4673524610",
     "zip": "32309",
-    "address": "2208%20MONAGHAN%20DR"
-}{
-    "premise_id_str": "3473524610",
-    "zip": "32309",
-    "address": "2214%20MONAGHAN%20DR"
-}{
+    "address": "2208%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0010"
+},{
     "premise_id_str": "9099424610",
     "zip": "32309",
-    "address": "2843%20FITZPATRICK%20DR"
-}{
-    "premise_id_str": "0773524610",
+    "address": "2843%20FITZPATRICK%20DR",
+    "taxId": "110250%20%20A0020"
+},{
+    "premise_id_str": "3473524610",
     "zip": "32309",
-    "address": "2218%20MONAGHAN%20DR"
-}{
+    "address": "2214%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0030"
+},{
     "premise_id_str": "7773524610",
     "zip": "32309",
-    "address": "2222%20MONAGHAN%20DR"
-}{
+    "address": "2222%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0050"
+},{
+    "premise_id_str": "0773524610",
+    "zip": "32309",
+    "address": "2218%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0040"
+},{
     "premise_id_str": "5673524610",
     "zip": "32309",
-    "address": "2226%20MONAGHAN%20DR"
-}{
+    "address": "2226%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0060"
+},{
     "premise_id_str": "3973524610",
     "zip": "32309",
-    "address": "2234%20MONAGHAN%20DR"
-}{
-    "premise_id_str": "7083524610",
-    "zip": "32309",
-    "address": "2230%20MONAGHAN%20DR"
-}{
+    "address": "2234%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0080"
+},{
     "premise_id_str": "2773524610",
     "zip": "32309",
-    "address": "2238%20MONAGHAN%20DR"
+    "address": "2238%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0090"
+},{
+    "premise_id_str": "7083524610",
+    "zip": "32309",
+    "address": "2230%20MONAGHAN%20DR",
+    "taxId": "110250%20%20A0070"
 }
