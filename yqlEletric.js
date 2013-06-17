@@ -1,51 +1,8 @@
-function a() {
-
-    var parcels = null;
-    //parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=ADDR1+%3D+%272115+FERNLEIGH+DR%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
-    //parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=OWNER1+like+%27%25JUDD%25%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson"; 
-    //parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=OWNER1+like+%27%25JUDD+CH%25%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
-    //parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=OWNER1+like+%27%25POPE+R%25%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
-    //parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=TAXID+%3D+%27110250+CM0020%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
-    //parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=TAXID+%3D+%27110250+AB0020%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=pjson";
-    parcels = "http://tlcinter.leoncountyfl.gov/TLCAGS/rest/services/MapServices/TLC_PropertyInfo/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=1%3D1&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=&outFields=*&f=json";
-    var Client = require('node-rest-client').Client;
-    client = new Client();
-    var sys = require('util'),
-    rest = require('restler');
-    var addressData = [];
-    rest.get(parcels).on('complete', function(data) {
-
-        var obj = JSON.parse(data);
-        for (var i = 0; i < obj.features.length; i++) {
-            var address = encodeURIComponent(obj.features[i].attributes.ADDR1);
-            var zip = encodeURIComponent(obj.features[i].attributes.ZIP1);
-            var taxId = encodeURIComponent(obj.features[i].attributes.TAXID);
-            var d = {
-                    address:address,
-                    zip:zip,
-                    taxId:taxId
-            };
-            //console.log(d);
-            addressData.push(d);
-            //console.log(addressData);
-        }
-        var fs = require('fs');
-
-        var outputFilename = 'my.json';
-
-        fs.writeFileSync(outputFilename, JSON.stringify(addressData, null, 4));
-    });
-
-    //console.log(addressData);
-    //return addressData;
-
-}
-
 function b(){
     var fs = require('fs');
     var YQL = require('yql');
     var querystring = require('querystring');
-    var file = fs.readFileSync("my.json");
+    var file = fs.readFileSync("4_Parcels.geojson");
     var data = JSON.parse(file);
     console.log("done reading file");
     var funcs = [];
@@ -62,12 +19,10 @@ function b(){
                                 p = p.substring(p.indexOf("?") + 1, p.length);
                                 var x = querystring.parse(p)
                                 prem_id_str = x.premise_id_str;
-                                
-                                var o = {premise_id_str:prem_id_str, zip:zip, address:address, taxId:taxId};
-                                console.log(o);
                                 var fs = require('fs');
-                                var outputFilename = 'addr.json';
-                                fs.appendFileSync(outputFilename, JSON.stringify(o, null, 4)+ ",");
+                                var outputFilename = '4_Parcels_premiseId.geojson';
+                                data[index].premise_id_str = prem_id_str;
+                                fs.appendFileSync(outputFilename, JSON.stringify(data[index], null, 4)+ ",");
 
                                 
                             } catch (e){
