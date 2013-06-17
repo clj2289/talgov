@@ -1,3 +1,34 @@
+function getZip(zip){
+    var zips = ["32301",
+                "32302",
+                "32303",
+                "32304",
+                "32305",
+                "32306",
+                "32307",
+                "32308",
+                "32309",
+                "32310",
+                "32311",
+                "32312",
+                "32313",
+                "32314",
+                "32315",
+                "32316",
+                "32317",
+                "32318",
+                "32395",
+                "32399"
+    ];
+
+    for (var i = 0; i < zips.length; i++) {
+        if(zip.indexOf(zips[i]) !== -1){
+            return zips[i];
+        }
+    };
+
+}
+
 function b(){
     var fs = require('fs');
     var YQL = require('yql');
@@ -5,13 +36,21 @@ function b(){
     var file = fs.readFileSync("4_Parcels.geojson");
     var data = JSON.parse(file);
     console.log("done reading file");
+    //console.log(data.features[0].properties.SITEADDR);
+    
+    
     var funcs = [];
     var prems = [];
-    for (var i = 0; i <data.length; i++) {
+    for (var i = 0; i <data.features.length; i++) {
         funcs[i] = (function(index) { 
-            var zip = data[index].zip;
-            var address = data[index].address;
-            var taxId = data[index].taxId;
+            var zip = data.features[index].properties.ADDR2;
+            if(zip != null){
+                zip = getZip(zip);
+            } 
+            //var zip = data.features[index].zip;
+            //console.log(zip);
+            var address = data.features[index].address;
+            var taxId = data.features[index].taxId;
             return function(){
              var  prem = new YQL.exec('select * from html where url="http://datamart.talgov.com/pls/dmart/account_search.matching_premises?zip_5_str=' + zip + '&street_name_str=' + address + '&button_sw=Lookup%20Account" and xpath="//table"', function (r) {
                             try{
@@ -35,8 +74,8 @@ function b(){
         })(i);
 
     };
-    var premsData  = [];
-    for (var j = 0; j < data.length; j++) {
+
+     for (var j = 0; j <data.features.length; j++) {
         funcs[j]();           
     }
 }
@@ -95,5 +134,5 @@ function c(){
 
 
 //a();
-//b();
-c();
+b();
+//c();
