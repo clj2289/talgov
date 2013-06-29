@@ -49,19 +49,22 @@ function b(){
             } 
             //var zip = data.features[index].zip;
             //console.log(zip);
-            var address = data.features[index].address;
-            var taxId = data.features[index].taxId;
+            var address = data.features[index].properties.SITEADDR;
+            var taxId = data.features[index].properties.TAXID;
+            //console.log(taxId);
+            //console.log(address);
             return function(){
              var  prem = new YQL.exec('select * from html where url="http://datamart.talgov.com/pls/dmart/account_search.matching_premises?zip_5_str=' + zip + '&street_name_str=' + address + '&button_sw=Lookup%20Account" and xpath="//table"', function (r) {
                             try{
                                 var p = r.query.results.table[1].tr[1].td[0].a.href;
                                 p = p.substring(p.indexOf("?") + 1, p.length);
-                                var x = querystring.parse(p)
+                                var x = querystring.parse(p);
                                 prem_id_str = x.premise_id_str;
                                 var fs = require('fs');
                                 var outputFilename = '4_Parcels_premiseId.geojson';
-                                data[index].premise_id_str = prem_id_str;
-                                fs.appendFileSync(outputFilename, JSON.stringify(data[index], null, 4)+ ",");
+                                data.features[index].premise_id_str = prem_id_str;
+                                console.log(prem_id_str);
+                                fs.appendFileSync(outputFilename, JSON.stringify(data.features[index], null, 4)+ ",");
 
                                 
                             } catch (e){
@@ -70,7 +73,7 @@ function b(){
                             }
                         });
              
-            }
+            };
         })(i);
 
     };
